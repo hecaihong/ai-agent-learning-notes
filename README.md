@@ -37,6 +37,8 @@
 
 ## 搜索接入验证
 
+实验脚本：[deepseek_search_adapter.py](experiments/web-search-agent/deepseek_search_adapter.py)。这是本人实验时使用的独立 DeepSeek 搜索适配器的原始源码副本，未改动代码，也未接入原版 WebSearchAgent。脚本在原课程目录中读取相邻 `context/.env` 的本地密钥；本笔记仓库不包含该环境文件、API 密钥或虚拟环境。
+
 任务：搜索 DeepSeek 官方目前支持哪些模型，并提供官方来源链接。
 
 - [上限为 3 时的原始记录](evidence/deepseek-search-20261012-101755.json)：前三次返回搜索结果，第四次请求返回 max_uses_exceeded。模型文字已经返回，但适配脚本检查工具错误后停止展示。
