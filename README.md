@@ -1,6 +1,6 @@
 # ai-agent-book 共学笔记
 
-彩虹糖的 AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)。
+AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)。
 
 本仓库是 Obsidian 中本课程笔记的发布副本，整理时间为 2026 年 10 月 12 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
 
