@@ -1,0 +1,39 @@
+{
+  "verification_date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "scope": "复制后的代码：本地工具说明、函数映射与执行验证",
+  "model_api_called": false,
+  "model_selection_verified": false,
+  "tests_run": 3,
+  "tests_passed": true,
+  "test_output": "test_invalid_amounts (test_revenue_tool.RevenueToolTests.test_invalid_amounts) ... ok\ntest_overflow (test_revenue_tool.RevenueToolTests.test_overflow) ... ok\ntest_registration_and_dispatch (test_revenue_tool.RevenueToolTests.test_registration_and_dispatch) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nOK\n",
+  "tool": "summarize_revenue",
+  "arguments": {
+    "q1_usd": 2500000,
+    "q2_usd": 2282608.7,
+    "q3_usd": 2278481.01,
+    "q4_usd": 2541806.02
+  },
+  "result": {
+    "annual_total_usd": 9602895.73,
+    "quarter_average_usd": 2400723.93
+  },
+  "calculate_smoke_result": 4000,
+  "shared_provider_package_loaded_from_copy": true,
+  "source_sha256": {
+    "experiments/context/agent.py": "31e9070796d8f3103a6472a047ba5e42edf18a29332a191048ad99a7c67473ea",
+    "experiments/context/calc_sandbox.py": "5c7eccbeefa8a305e590c2849cc9b2f0ff45bb1b74db98897b57031eb9bfeab1",
+    "experiments/context/config.py": "67c121e248c331e8ffeb2ba39f8ef648a868fdb36da5cf143cb9bff95ba270d7",
+    "experiments/context/grounding.py": "1bc9071ae0aeb0c3f23c0d4843b2af9eebeb7b9246e403106bd69984e0849fa4",
+    "experiments/context/main.py": "0e2a265b3bac30b3ca9450dd6aa33fa6704b827ac2ef1909ae255444eb61793c",
+    "experiments/context/run_experiment_1_1.py": "90428064edca1b67849d22af877542d12ae2066c3646a7a7998b0d42fe2bb86a",
+    "experiments/context/tests/test_revenue_tool.py": "c662f63fc20042d6d82b01ec89f13958e6d81e9d6490fd529ef8ca4fb58ca8ce",
+    "agentbook/__init__.py": "c53589dad86f7a827d3e7c6101a74bc5dc4a86248d95df59b15f18cffdb7e156",
+    "agentbook/providers/legacy.py": "68871c8293707f1642cfdc9f8e9191baaba53494dbb6d64390a4d35483d14b19",
+    "agentbook/providers/models.py": "bc244c531444506563ba776bd9f0aea381bf817c9d962567fee47d3db23aa790",
+    "agentbook/providers/openrouter.py": "8cc34c1eb0e508f0b8129fa7574a2bb234a183c9b06e56f4e919cd13d126effe",
+    "agentbook/providers/registry.py": "35e29cf08599b1b537c12eeb77113ce0e11248b1398515a757b01867eb3f2a81",
+    "agentbook/providers/resolution.py": "e941e786496c878bdf11b3236721faa09498c6059e2d248c12fd6cc8c20be2ca",
+    "agentbook/providers/__init__.py": "92bcf57506f36d451f2281fc4bea21ba63d29ec6aab59f021bff2c3caa4da8e0"
+  }
+}
