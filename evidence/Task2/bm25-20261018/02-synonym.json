@@ -1,0 +1,6 @@
+{
+  "method": "bm25",
+  "query": "cat",
+  "top_k": 5,
+  "results": []
+}

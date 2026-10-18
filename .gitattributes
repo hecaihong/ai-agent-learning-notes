@@ -1,5 +1,6 @@
 # Preserve original experiment evidence and source snapshot bytes.
 evidence/Task1/** -text
+evidence/Task2/** -text
 evidence/context-1-1-20261014-094757/** -text
 evidence/context-1-1-five-20261014-110403-204/** -text
 evidence/tool-registration-local-20261014.json -text

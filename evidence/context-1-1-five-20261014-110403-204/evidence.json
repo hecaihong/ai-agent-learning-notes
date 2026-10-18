@@ -13,7 +13,7 @@
     "2400723.93"
   ],
   "command": [
-    "C:\\Users\\hch\\Documents\\Codex\\AI-Agent培训\\ai-agent-book\\.venv\\Scripts\\python.exe",
+    "<PYTHON_EXECUTABLE>",
     "run_experiment_1_1.py",
     "--provider",
     "deepseek",
@@ -32,7 +32,7 @@
     "--max-iterations",
     "5",
     "--output-dir",
-    "D:\\个人\\hhhhh\\12-AI Agent培训\\ai-agent-book\\实验数据\\context-1-1-five-20261014-110403-204"
+    "<LOCAL_OUTPUT_DIR>"
   ],
   "credential_source_env": "DEEPSEEK_API_KEY",
   "credential_value_recorded": false,

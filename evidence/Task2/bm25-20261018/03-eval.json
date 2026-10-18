@@ -1,0 +1,55 @@
+{
+  "method": "bm25",
+  "query": "model distillation",
+  "top_k": 5,
+  "eval": {
+    "k": 5,
+    "per_query": {
+      "model distillation": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "rr": 1.0,
+        "hits": [
+          "doc_3",
+          "doc_4"
+        ]
+      },
+      "HTTP 404 error": {
+        "recall": 1.0,
+        "precision": 0.5,
+        "rr": 1.0,
+        "hits": [
+          "doc_6"
+        ]
+      },
+      "XK9-2B4-7Q1": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "rr": 1.0,
+        "hits": [
+          "doc_9"
+        ]
+      },
+      "BM25 ranking function": {
+        "recall": 1.0,
+        "precision": 1.0,
+        "rr": 1.0,
+        "hits": [
+          "doc_5"
+        ]
+      },
+      "cat": {
+        "recall": 0.0,
+        "precision": 0.0,
+        "rr": 0.0,
+        "hits": []
+      }
+    },
+    "macro": {
+      "recall@k": 0.8,
+      "precision@k": 0.7,
+      "mrr": 0.8,
+      "miss_rate@k": 0.19999999999999996
+    }
+  }
+}

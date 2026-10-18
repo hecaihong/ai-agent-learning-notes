@@ -1,0 +1,27 @@
+{
+  "method": "bm25",
+  "query": "model distillation",
+  "top_k": 5,
+  "results": [
+    {
+      "rank": 1,
+      "doc_id": "doc_3",
+      "score": 3.121561765506991,
+      "title": "Model Distillation",
+      "matched_terms": [
+        "model",
+        "distillation"
+      ]
+    },
+    {
+      "rank": 2,
+      "doc_id": "doc_4",
+      "score": 2.219735866426749,
+      "title": "Knowledge Distillation",
+      "matched_terms": [
+        "model",
+        "distillation"
+      ]
+    }
+  ]
+}
