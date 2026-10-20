@@ -2,13 +2,15 @@
 
 AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)。
 
-本仓库是 Obsidian 中本课程笔记的发布副本，更新至 2026 年 10 月 18 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
+本仓库是 Obsidian 中本课程笔记的发布副本，更新至 2026 年 10 月 20 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
 
 ## 笔记入口
 
 - [Task1 本次打卡材料与学习小结](<notes/06-Task1-学习小结与打卡材料.md>)
 - [Task2 学习小结与补卡材料](<notes/08-Task2-学习小结与补卡材料.md>)
 - [Task2 用户记忆与 RAG 学习笔记](<notes/07-Task2-用户记忆与RAG-学习笔记.md>)
+- [Task3 工具与 MCP 学习笔记](<notes/09-Task3-工具与MCP-学习笔记.md>)
+- [Task3 工具与 MCP 实验计划](<notes/10-Task3-工具与MCP-实验计划.md>)
 
 - [第一章：我的学习笔记](<notes/01-第一章-我的学习笔记.md>)
 - [实验 1-1：五组上下文消融结果与复盘](<notes/02-实验1-1-我的实验记录.md>)
@@ -36,6 +38,7 @@ AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-bo
 | KV Cache | 已学习原理、读取作者历史结果；个人 API 实测待完成 |
 | Task2 BM25 稀疏检索 | 已亲自运行三组实验并保存 JSON；观察了精确查询、同义词漏召回和检索指标 |
 | Task2 混合检索与用户记忆 | 已学习项目结构和核心原理；尚未由本人运行，不记录实验结果 |
+| Task3 Tools 与 MCP | 已完成理论与 execution-tools 代码入口整理；本人运行证据待补，不记录代运行结果 |
 
 单独计算例子的原始 JSON 后来被另一道普通问答覆盖，因此这里不把它当作现存计算轨迹证据。该覆盖问题与每次运行使用独立文件名的经验一并保留。
 
