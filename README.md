@@ -2,26 +2,29 @@
 
 AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)。
 
-本仓库是 Obsidian 中本课程笔记的发布副本，更新至 2026 年 10 月 20 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
+本仓库是 Obsidian 中本课程笔记的发布副本，更新至 2026 年 10 月 22 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
 
 ## 笔记入口
 
-- [Task1 本次打卡材料与学习小结](<notes/06-Task1-学习小结与打卡材料.md>)
-- [Task2 学习小结与补卡材料](<notes/08-Task2-学习小结与补卡材料.md>)
-- [Task2 用户记忆与 RAG 学习笔记](<notes/07-Task2-用户记忆与RAG-学习笔记.md>)
-- [Task3 工具与 MCP 学习笔记](<notes/09-Task3-工具与MCP-学习笔记.md>)
-- [Task3 工具与 MCP 实验计划](<notes/10-Task3-工具与MCP-实验计划.md>)
+按章节阅读：[学习总目录](<notes/00-学习目录.md>)。
 
-- [第一章：我的学习笔记](<notes/01-第一章-我的学习笔记.md>)
-- [实验 1-1：五组上下文消融结果与复盘](<notes/02-实验1-1-我的实验记录.md>)
-- [Task1：上下文工程学习笔记](<notes/03-Task1-上下文工程-学习笔记.md>)
-- [Task1：实验记录](<notes/04-Task1-上下文工程-实验记录.md>)
-- [10月14日：工具注册、函数与模型、上下文核心概念](<notes/05-20261014-工具注册与上下文补充.md>)
-- [Context 工具接入代码与验证方法](experiments/context/README.md)
-- [第一章教材](https://github.com/bojieli/ai-agent-book/blob/main/book/chapter1.md)
-- [第一章项目目录与推荐阅读顺序](https://github.com/bojieli/ai-agent-book/blob/main/chapter1/README.md)
+| 章节 | 理论笔记 | 实验记录 |
+| --- | --- | --- |
+| 第一章：Agent 基础 | [理论笔记](<notes/01-第一章-Agent基础-理论笔记.md>) | [实验记录](<notes/01-第一章-Agent基础-实验记录.md>) |
+| 第二章：上下文工程 | [理论笔记](<notes/02-第二章-上下文工程-理论笔记.md>) | [实验记录](<notes/02-第二章-上下文工程-实验记录.md>) |
+| 第三章：记忆与 RAG | [理论笔记](<notes/03-第三章-记忆与RAG-理论笔记.md>) | [实验记录](<notes/03-第三章-记忆与RAG-实验记录.md>) |
+| 第四章：工具与 MCP | [理论笔记](<notes/04-第四章-工具与MCP-理论笔记.md>) | [实验记录](<notes/04-第四章-工具与MCP-实验记录.md>) |
+| 第五章：Coding Agent 与通用 Agent | [理论笔记](<notes/05-第五章-CodingAgent与通用Agent-理论笔记.md>) | [实验记录](<notes/05-第五章-CodingAgent与通用Agent-实验记录.md>) |
 
-## 已核对的学习进度
+第五章目前仅建立目录和记录模板，不表示已完成学习或实验。
+
+[Context 工具接入代码与验证方法](experiments/context/README.md)
+
+---
+
+> 下方保留的是截至 2026 年 10 月 20 日的历史发布材料，进度描述保留当时的边界；最新笔记见上方章节入口。
+
+## 历史进度记录（截至 2026 年 10 月 20 日）
 
 | 内容 | 状态与证据 |
 | --- | --- |
