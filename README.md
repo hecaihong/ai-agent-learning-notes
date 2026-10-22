@@ -16,7 +16,7 @@ AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-bo
 | 第四章：工具与 MCP | [理论笔记](<notes/04-第四章-工具与MCP-理论笔记.md>) | [实验记录](<notes/04-第四章-工具与MCP-实验记录.md>) |
 | 第五章：Coding Agent 与通用 Agent | [理论笔记](<notes/05-第五章-CodingAgent与通用Agent-理论笔记.md>) | [实验记录](<notes/05-第五章-CodingAgent与通用Agent-实验记录.md>) |
 
-第五章目前仅建立目录和记录模板，不表示已完成学习或实验。
+第五章已新增助手执行的 DeepSeek 逻辑题小样本对照实验；本人复跑及完整章节学习待继续。
 
 [Context 工具接入代码与验证方法](experiments/context/README.md)
 
