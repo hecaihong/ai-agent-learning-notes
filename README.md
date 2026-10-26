@@ -2,7 +2,7 @@
 
 AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)。
 
-本仓库是 Obsidian 中本课程笔记的发布副本，更新至 2026 年 10 月 22 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
+本仓库是 Obsidian 中本课程笔记的发布副本，更新至 2026 年 10 月 26 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
 
 ## 笔记入口
 
@@ -15,8 +15,11 @@ AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-bo
 | 第三章：记忆与 RAG | [理论笔记](<notes/03-第三章-记忆与RAG-理论笔记.md>) | [实验记录](<notes/03-第三章-记忆与RAG-实验记录.md>) |
 | 第四章：工具与 MCP | [理论笔记](<notes/04-第四章-工具与MCP-理论笔记.md>) | [实验记录](<notes/04-第四章-工具与MCP-实验记录.md>) |
 | 第五章：Coding Agent 与通用 Agent | [理论笔记](<notes/05-第五章-CodingAgent与通用Agent-理论笔记.md>) | [实验记录](<notes/05-第五章-CodingAgent与通用Agent-实验记录.md>) |
+| 第十章：多 Agent 协作 | [理论笔记](<notes/10-第十章-多Agent协作-理论笔记.md>) | [实验记录](<notes/10-第十章-多Agent协作-实验记录.md>) |
 
 第五章已新增助手执行的 DeepSeek 逻辑题小样本对照实验；本人复跑及完整章节学习待继续。
+
+第十章已完成多 Agent 长文翻译实验的真实模型运行、故障修复和逐 Agent 首轮质量检查。工作流已完成，译文语义质量仍为人工复核状态。
 
 [Context 工具接入代码与验证方法](experiments/context/README.md)
 
