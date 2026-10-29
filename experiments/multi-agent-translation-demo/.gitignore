@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.test_tmp/
+*.log
+task5_translation/runs/
+task5_translation/afdp_c2_chapter2_20261026/runs/*
+!task5_translation/afdp_c2_chapter2_20261026/runs/run-20261026T144816236335Z/
+!task5_translation/afdp_c2_chapter2_20261026/runs/run-20261026T150105719530Z/
+!task5_translation/afdp_c2_chapter2_20261026/runs/run-20261026T152056342627Z/
+!task5_translation/afdp_c2_chapter2_20261026/runs/run-20261026T153700605628Z/
+!task5_translation/afdp_c2_chapter2_20261026/runs/quality-20261029T130949984518Z/
+!task5_translation/afdp_c2_chapter2_20261026/runs/continued-20261029T131708095244Z/

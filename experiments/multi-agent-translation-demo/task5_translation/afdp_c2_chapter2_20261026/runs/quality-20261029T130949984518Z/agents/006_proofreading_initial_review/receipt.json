@@ -1,0 +1,35 @@
+{
+  "agent": "Proofreading",
+  "stage": "initial_review",
+  "unit_id": null,
+  "note": "英中对照审校，核查旧问题与新增问题",
+  "directory": "agents/006_proofreading_initial_review",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-29T13:10:51.600502+00:00",
+  "status": "failed",
+  "manual_review": "pending",
+  "review_questions": [
+    "是否逐项对照英文和当前译文？",
+    "确认缺陷是否有有效的双语引文？",
+    "旧问题是否修复，是否出现新增错误？"
+  ],
+  "response_id": "dac8c707-1cdb-45ec-972b-942cea70a185",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 2734,
+    "prompt_tokens": 24353,
+    "total_tokens": 27087,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 24353
+  },
+  "finish_reason": "stop",
+  "error_type": "ValueError",
+  "error_message": "审校原文定位必须是提供的英文中的精确片段。",
+  "latency_seconds": 14.569
+}

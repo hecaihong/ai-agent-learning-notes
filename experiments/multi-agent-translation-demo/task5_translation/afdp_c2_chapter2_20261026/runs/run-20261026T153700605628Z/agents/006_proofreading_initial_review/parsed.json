@@ -1,0 +1,191 @@
+{
+  "issues": [
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "术语不一致",
+      "detail": "“C2过程”与术语表“c2 process → C2过程”一致，但正文中“指挥与控制过程”作为章标题和“应用指挥与控制过程”标题使用，与“C2过程”混用；术语表将 command and control → 指挥与控制、c2 process → C2过程，建议统一为“C2过程”或明确区分全称与缩写。"
+    },
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "术语不一致",
+      "detail": "“作战环境（OE）”首次出现时给出缩写，但后文多处仅用“作战环境”而未再附缩写，且术语表未收录该词；建议统一处理缩写引入方式。"
+    },
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "术语不一致",
+      "detail": "“计划、准备、执行与评估”与术语表“planning, preparing, executing, and assessing → 计划、准备、执行与评估”一致；但文中另出现“设计、计划、执行与评估”，对应术语表“design, plan, execute, and assess → 设计、计划、执行与评估”，两者并存属原文概念差异，需确认是否需加注区分，避免读者混淆。"
+    },
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "流畅性",
+      "detail": "“计划是空军人员将空中力量原则针对作战环境进行裁剪”一句中“将……针对……进行裁剪”搭配生硬，建议改为“根据作战环境裁剪空中力量原则”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "流畅性",
+      "detail": "“设计是构建支撑计划之框架的构思与构建过程”中“构建……的构思与构建过程”重复“构建”，建议改为“设计是构思并构建支撑计划之框架的过程”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "术语不一致",
+      "detail": "“空中组成部分指挥官”与术语表“air component commander → 空中组成部分指挥官”一致；但文中“战区空中组成部分指挥官”对应“theater air component commander”，术语表亦收录，使用一致，无问题。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "术语不一致",
+      "detail": "“空中任务指令（ATO）”与术语表“air tasking order (ATO) → 空中任务指令”一致；但同章出现“空中任务分配周期”对应“air tasking cycle”，术语表亦收录，二者为不同术语，使用正确，但需注意“空中任务分配”与“空中任务指令”不要混用。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "术语不一致",
+      "detail": "“任务指挥官（MC）”对应术语表“mission commanders → 任务指挥官”，但术语表为复数形式，译文用单数缩写“MC”，建议统一为“任务指挥官（MC）”并在首次出现时说明。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "流畅性",
+      "detail": "“准备代表了计划与执行之间相互重叠的活动”中“代表了”略显生硬，建议改为“准备是计划与执行之间相互重叠的活动”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "流畅性",
+      "detail": "“协调被定义为确保充分信息交换的必要行动”中“确保充分信息交换”缺少“的”，建议改为“确保充分信息交换的必要行动”或“确保充分交换信息”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "前后矛盾",
+      "detail": "“协调不替代正式审批流程。它通常用于支援参谋各职能之间。”第二句语义不完整，“用于……之间”搭配不当，且与前文“协调被定义为……整合、同步和消除独立组织之间作战行动的冲突”存在表述不一致，建议改为“它通常用于支援参谋各职能之间的协调”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "术语不一致",
+      "detail": "“直接联络授权（DIRLAUTH）”未在术语表中收录，且缩写形式与中文全称的对应关系需确认；建议在术语表中补充或统一处理。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "流畅性",
+      "detail": "“生成包括使部队按照计划进入态势并能够执行指挥官意图”中“进入态势”搭配生硬，建议改为“进入预定态势”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "术语不一致",
+      "detail": "“战斗管理”对应术语表“Battle Management → 战斗管理”，使用一致；但“执行中的C2就是战斗管理”一句将“C2”与“战斗管理”等同，需确认原文语义是否如此，避免概念混淆。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "前后矛盾",
+      "detail": "“节点可能跨越多个梯次”一句在“C2节点”段落末尾被截断，下一段以“作战行动，并具有不同级别的能力”开头，明显为跨页断句导致的译文断裂，需合并修复为“节点可能跨越多个梯次作战行动，并具有不同级别的能力”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "术语不一致",
+      "detail": "“战术C2（TAC C2）”与术语表“TAC C2 → 战术C2”一致；但术语表另列“Tactical C2 → 战术C2”，二者同形，需确认原文是否区分，译文未体现差异。"
+    },
+    {
+      "chapter": "Chapter 2 Part 3 - Assessing",
+      "type": "术语不一致",
+      "detail": "“评估”对应术语表“Assessment/Assessing → 评估”，使用一致；但“评做”为明显错别字，应为“评估”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 3 - Assessing",
+      "type": "流畅性",
+      "detail": "“评估驱动计划和战略的调整”与后文“评估结果会影响未来的战略和计划”表述重复，可精简。"
+    },
+    {
+      "chapter": "Chapter 2 Part 3 - Assessing",
+      "type": "术语不一致",
+      "detail": "“性能度量”与“效能度量”对应术语表“measures of performance → 性能度量”“measures of effectiveness → 效能度量”，使用一致；但文中“度量指标”作为泛称出现，需确认是否与上述术语区分。"
+    },
+    {
+      "chapter": "Chapter 2 Part 3 - Assessing",
+      "type": "流畅性",
+      "detail": "“评估是一个持续过程，衡量在军事行动中运用能力的整体有效性”中“衡量……有效性”与“确定……进展”并列，句式不整齐，建议调整为“评估是一个持续过程，既衡量军事行动中运用能力的整体有效性，也确定完成任务、创造条件或实现目标的进展”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“subordinate commander（下级指挥官）”中英文混排，术语表已列“subordinate commander → 下级指挥官”，应直接使用中文“下级指挥官”，删除英文。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“Gulf War（海湾战争）”中英文混排，应统一为“海湾战争”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“contested、degraded 或作战受限的环境”中英文混排，且“contested”“degraded”未翻译，建议改为“争夺激烈、降级或作战受限的环境”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“degraded 环境”再次出现英文未译，应统一为“降级环境”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“7440复合联队（CW）”与术语表“Composite Wing (CW) → 复合联队”一致；但后文“7440 CW”中英文混用，建议统一为“7440复合联队”或首次出现后统一用“7440 CW”并说明。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“空中远征特遣部队（AETF）”与术语表一致；但“AETF一旦组建，可充当军种组成部分指挥部的角色”中“军种组成部分指挥部”未在术语表中，需确认与“组成部分指挥官”体系的一致性。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“CCMD”首次出现未给出中文全称，后文“CCMD级别以下”再次出现，建议首次出现时注明“作战司令部（CCMD）”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“OPCON”首次出现未给出中文全称，建议注明“作战控制（OPCON）”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“JFC”首次出现未给出中文全称，建议注明“联合部队指挥官（JFC）”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语不一致",
+      "detail": "“CENTAF”首次出现未给出中文全称，建议注明“美国中央空军（CENTAF）”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "流畅性",
+      "detail": "“战区以下部队呈现术语”标题语义不通，建议改为“战区以下部队的术语演变”或“战区以下梯队的术语”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "前后矛盾",
+      "detail": "“第三梯队”对应术语表“3rd echelon → 第三梯队”，使用一致；但前文称“战区以下或‘中间’梯队”，后文称“另一个常用术语是‘第三梯队’”，需确认原文是否将“第三梯队”与“中间梯队”视为同义，译文表述尚可但可更清晰。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "流畅性",
+      "detail": "“凭借必要的建制能力，该联队能够在没有美国中央空军（CENTAF）协助的情况下发射自己的打击包”中“发射自己的打击包”搭配不当，建议改为“出动自己的打击包”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "流畅性",
+      "detail": "“该联队被分配了伊拉克北部的大片责任区域”中“责任区域”可对应“area of responsibility”，但术语表未收录，建议统一为“责任区”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "流畅性",
+      "detail": "“Horner将军赋权Downer将军有效地与其联队一起‘作战’”中“有效地与其联队一起‘作战’”语义模糊，建议改为“使Downer将军能够有效地指挥其联队作战”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "前后矛盾",
+      "detail": "“7440 CW拥有实施整个C2过程的权限、能力和容量”与后文“Downer将军和7440 CW在CENTAF指挥官授予的分散权限下计划、准备、执行与评估作战行动”语义重复，可合并。"
+    }
+  ],
+  "chapters_need_revision": [
+    "Chapter 2 Part 1 - Overview and Planning",
+    "Chapter 2 Part 2 - Preparing and Execution",
+    "Chapter 2 Part 3 - Assessing",
+    "Chapter 2 Part 4 - Applying the C2 Process"
+  ],
+  "summary": "总体译文质量较好，主要术语与术语表基本一致，但存在若干需修订的问题：一是中英文混排未统一（如 subordinate commander、Gulf War、contested/degraded 等）；二是部分缩写（CCMD、OPCON、JFC、CENTAF、DIRLAUTH）首次出现未给中文全称；三是个别错别字（“评做”）和跨页断句导致的译文断裂（“节点可能跨越多个梯次/作战行动”）；四是若干句子搭配生硬、语义重复。建议按上述问题逐章修订，并补充术语表中缺失的缩写条目。"
+}

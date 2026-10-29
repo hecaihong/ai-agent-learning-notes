@@ -1,0 +1,199 @@
+{
+  "frozen_before_new_run": true,
+  "sample_type": "stratified_purposive_32_checks_not_full_chapter_accuracy",
+  "scoring": "1=全部语义要素正确且完整;0=存在明确错译漏译增译;U=依据不足待领域核定，单列且不计作正确",
+  "checks": [
+    {
+      "id": "A01",
+      "unit_id": "01",
+      "source_anchor": "four major C2 activities",
+      "criterion": "计划、准备、执行、评估四项均保留。"
+    },
+    {
+      "id": "A02",
+      "unit_id": "01",
+      "source_anchor": "led by a commander",
+      "criterion": "C2过程由指挥官主导，不改变主体。"
+    },
+    {
+      "id": "A03",
+      "unit_id": "01",
+      "source_anchor": "both repeatedly and concurrently",
+      "criterion": "活动反复且同时进行，两种关系均保留。"
+    },
+    {
+      "id": "A04",
+      "unit_id": "01",
+      "source_anchor": "irrespective of the level of warfare",
+      "criterion": "不依赖战争层级，不能改成只适用于作战层级。"
+    },
+    {
+      "id": "A05",
+      "unit_id": "01",
+      "source_anchor": "The authority to run the C2 process",
+      "criterion": "分散的是为遂行所分配行动而运行C2过程的权限。"
+    },
+    {
+      "id": "A06",
+      "unit_id": "01",
+      "source_anchor": "Design is part of planning and planning informs design",
+      "criterion": "设计是计划的一部分，计划也为设计提供信息。"
+    },
+    {
+      "id": "A07",
+      "unit_id": "01",
+      "source_anchor": "The single most important element of design is the objective",
+      "criterion": "设计首先明确目标，不把手段或任务替换为最重要要素。"
+    },
+    {
+      "id": "A08",
+      "unit_id": "01",
+      "source_anchor": "For additional information on planning",
+      "criterion": "脚注7、8的说明正文保留，不只是上标。"
+    },
+    {
+      "id": "A09",
+      "unit_id": "02",
+      "source_anchor": "overlapping activities between planning and execution",
+      "criterion": "准备是计划和执行之间的重叠活动。"
+    },
+    {
+      "id": "A10",
+      "unit_id": "02",
+      "source_anchor": "Coordination does not replace formal approval",
+      "criterion": "保留协调不替代正式审批这一否定。"
+    },
+    {
+      "id": "A11",
+      "unit_id": "02",
+      "source_anchor": "outside of the immediate staff or organization",
+      "criterion": "DIRLAUTH用于本参谋机构/组织以外或组成部分参谋之间的协调。"
+    },
+    {
+      "id": "A12",
+      "unit_id": "02",
+      "source_anchor": "modification of the planned concept of operations",
+      "criterion": "refining指执行前因变化修订既定作战构想。"
+    },
+    {
+      "id": "A13",
+      "unit_id": "02",
+      "source_anchor": "those closest to the fight",
+      "criterion": "战术决策由最接近战斗的人员作出，主体不改变。"
+    },
+    {
+      "id": "A14",
+      "unit_id": "02",
+      "source_anchor": "may use a MTO technique",
+      "criterion": "保留MTO对应关系或有依据的译名；不能无依据替换成mission command技术。"
+    },
+    {
+      "id": "A15",
+      "unit_id": "02",
+      "source_anchor": "Nodes may span several levels of",
+      "criterion": "节点跨多个作战层级，能力各有不同；插入框不属于此句。"
+    },
+    {
+      "id": "A16",
+      "unit_id": "02",
+      "source_anchor": "over 600 missions",
+      "criterion": "超过600任务、17000吨、47000人三项数值与单位均保留。"
+    },
+    {
+      "id": "A17",
+      "unit_id": "03",
+      "source_anchor": "Assessment starts when defining tactical tasks and objectives",
+      "criterion": "评估自界定战术任务和目标时开始。"
+    },
+    {
+      "id": "A18",
+      "unit_id": "03",
+      "source_anchor": "Compare observed OE conditions to desired objectives",
+      "criterion": "比较观察到的环境条件与期望目标/最终状态。"
+    },
+    {
+      "id": "A19",
+      "unit_id": "03",
+      "source_anchor": "Determine validity of key planning facts and assumptions",
+      "criterion": "评估关键计划事实及假设是否成立。"
+    },
+    {
+      "id": "A20",
+      "unit_id": "03",
+      "source_anchor": "an increase, decrease or change to resources",
+      "criterion": "判断资源需要增加、减少或变更，三种方向均保留。"
+    },
+    {
+      "id": "A21",
+      "unit_id": "03",
+      "source_anchor": "based on events or at specified intervals",
+      "criterion": "评估按事件或规定时间间隔开展，两个触发条件保留。"
+    },
+    {
+      "id": "A22",
+      "unit_id": "03",
+      "source_anchor": "once a pattern of change is reliably perceived",
+      "criterion": "变化模式被可靠辨识后才重点报告，不把初始报告都当成可靠。"
+    },
+    {
+      "id": "A23",
+      "unit_id": "03",
+      "source_anchor": "strategy and accompanying plans",
+      "criterion": "明确表达战略及配套计划的有效性，普通修饰词不能留作未译英文。"
+    },
+    {
+      "id": "A24",
+      "unit_id": "03",
+      "source_anchor": "performance and effects",
+      "criterion": "区分任务执行情况与预期效果，不混同MOP/MOE。"
+    },
+    {
+      "id": "A25",
+      "unit_id": "04",
+      "source_anchor": "certain limitations may be imposed",
+      "criterion": "空中组成部分指挥官可限定下放权限的范围。"
+    },
+    {
+      "id": "A26",
+      "unit_id": "04",
+      "source_anchor": "purpose of the operation rather than details",
+      "criterion": "命令侧重行动目的，而非执行任务的具体做法。"
+    },
+    {
+      "id": "A27",
+      "unit_id": "04",
+      "source_anchor": "enduring, temporary, or conditions",
+      "criterion": "永久/持久、临时、基于条件三类授权属性保留。"
+    },
+    {
+      "id": "A28",
+      "unit_id": "04",
+      "source_anchor": "There is no mandatory structure",
+      "criterion": "实现框架没有强制的组织结构，保留否定。"
+    },
+    {
+      "id": "A29",
+      "unit_id": "04",
+      "source_anchor": "generally below the CCMD",
+      "criterion": "AETF通常位于作战司令部层级以下，不误改组织隶属或层级。"
+    },
+    {
+      "id": "A30",
+      "unit_id": "04",
+      "source_anchor": "maintains centralized command",
+      "criterion": "保持集中指挥，同时AETF实施分散控制，不混淆command/control。"
+    },
+    {
+      "id": "A31",
+      "unit_id": "04",
+      "source_anchor": "CENTAF retained command authority",
+      "criterion": "CENTAF保留对联队作战计划的指挥权限和例外下达任务权限。"
+    },
+    {
+      "id": "A32",
+      "unit_id": "04",
+      "source_anchor": "For additional information on orders",
+      "criterion": "脚注9及10均有对应说明正文，不能只保留上标。"
+    }
+  ]
+}

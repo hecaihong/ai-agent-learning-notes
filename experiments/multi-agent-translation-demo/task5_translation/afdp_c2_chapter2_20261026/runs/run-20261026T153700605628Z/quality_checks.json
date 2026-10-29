@@ -1,0 +1,234 @@
+{
+  "kind": "mechanical_signals_only",
+  "semantic_quality": "pending_human_review",
+  "units": [
+    {
+      "unit_id": "01",
+      "title": "Chapter 2 Part 1 - Overview and Planning",
+      "source_characters": 7034,
+      "translation_characters": 2095,
+      "source_numbers_not_found_literally": [
+        "7"
+      ],
+      "glossary_targets_not_found_literally": [
+        {
+          "en": "order",
+          "exact_count": 8,
+          "section_count": 2,
+          "signals": [
+            "cross_section",
+            "explicit_definition"
+          ],
+          "feature_score": 5,
+          "evidence": "…transmitting commander’s intent and authorities to the 7440 CW was an order . An order is a communication, written, oral, or by signal, which conveys instructions from a superior to a subordinate…",
+          "locations": [
+            "Chapter 2 Part 2 - Preparing and Execution",
+            "Chapter 2 Part 4 - Applying the C2 Process"
+          ],
+          "candidate_id": "T009",
+          "zh": "命令",
+          "category": "doctrine_concept",
+          "pos": "doctrine_concept",
+          "definition": "上级向下级传达指令的书面、口头或信号通信。",
+          "inclusion_signals": [
+            "cross_section",
+            "explicit_definition"
+          ],
+          "review_status": "candidate"
+        },
+        {
+          "en": "below the theater",
+          "exact_count": 3,
+          "section_count": 2,
+          "signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "feature_score": 4,
+          "evidence": "and the role of commanders below the theater air component has matured the understanding of the C2 function and the C2 process",
+          "locations": [
+            "Chapter 2 Part 1 - Overview and Planning",
+            "Chapter 2 Part 4 - Applying the C2 Process"
+          ],
+          "candidate_id": "T035",
+          "zh": "战区以下",
+          "category": "other",
+          "pos": "other",
+          "definition": "指低于战区层级的部队或指挥官。",
+          "inclusion_signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "review_status": "candidate"
+        },
+        {
+          "en": "below the theater air",
+          "exact_count": 2,
+          "section_count": 2,
+          "signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "feature_score": 4,
+          "evidence": "and the role of commanders below the theater air component has matured the understanding of the C2 function and the C2 process",
+          "locations": [
+            "Chapter 2 Part 1 - Overview and Planning",
+            "Chapter 2 Part 4 - Applying the C2 Process"
+          ],
+          "candidate_id": "T040",
+          "zh": "战区空中以下",
+          "category": "other",
+          "pos": "other",
+          "definition": "指低于战区空中组成部分层级的部队。",
+          "inclusion_signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "review_status": "candidate"
+        }
+      ],
+      "changed_after_revision": true,
+      "interpretation": "数字写法或译法变体也会触发线索，须对照原文判读，不能直接视为错误。"
+    },
+    {
+      "unit_id": "02",
+      "title": "Chapter 2 Part 2 - Preparing and Execution",
+      "source_characters": 9869,
+      "translation_characters": 2743,
+      "source_numbers_not_found_literally": [],
+      "glossary_targets_not_found_literally": [
+        {
+          "en": "air tasking",
+          "exact_count": 4,
+          "section_count": 4,
+          "signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "feature_score": 4,
+          "evidence": "the air tasking cycle",
+          "locations": [
+            "Chapter 2 Part 1 - Overview and Planning",
+            "Chapter 2 Part 2 - Preparing and Execution",
+            "Chapter 2 Part 3 - Assessing",
+            "Chapter 2 Part 4 - Applying the C2 Process"
+          ],
+          "candidate_id": "T031",
+          "zh": "空中任务分配",
+          "category": "process",
+          "pos": "process",
+          "definition": "与空中任务指令相关的任务分配过程。",
+          "inclusion_signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "review_status": "candidate"
+        }
+      ],
+      "changed_after_revision": true,
+      "interpretation": "数字写法或译法变体也会触发线索，须对照原文判读，不能直接视为错误。"
+    },
+    {
+      "unit_id": "03",
+      "title": "Chapter 2 Part 3 - Assessing",
+      "source_characters": 5322,
+      "translation_characters": 1478,
+      "source_numbers_not_found_literally": [],
+      "glossary_targets_not_found_literally": [],
+      "changed_after_revision": true,
+      "interpretation": "数字写法或译法变体也会触发线索，须对照原文判读，不能直接视为错误。"
+    },
+    {
+      "unit_id": "04",
+      "title": "Chapter 2 Part 4 - Applying the C2 Process",
+      "source_characters": 7402,
+      "translation_characters": 2320,
+      "source_numbers_not_found_literally": [
+        "10"
+      ],
+      "glossary_targets_not_found_literally": [
+        {
+          "en": "Design",
+          "exact_count": 22,
+          "section_count": 2,
+          "signals": [
+            "cross_section",
+            "explicit_definition",
+            "section_heading"
+          ],
+          "feature_score": 8,
+          "evidence": "…e for the remainder of the C2 process. The planning activity includes design. Design and planning are discussed separately, but they are inextricably linked. Design is part of planning and plannin…",
+          "locations": [
+            "Chapter 2 Part 1 - Overview and Planning",
+            "Chapter 2 Part 3 - Assessing"
+          ],
+          "candidate_id": "T002",
+          "zh": "设计",
+          "category": "process",
+          "pos": "process",
+          "definition": "计划活动的一部分，指构建支撑计划的框架的构思与构建过程。",
+          "inclusion_signals": [
+            "cross_section",
+            "explicit_definition",
+            "section_heading"
+          ],
+          "review_status": "candidate"
+        },
+        {
+          "en": "air tasking",
+          "exact_count": 4,
+          "section_count": 4,
+          "signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "feature_score": 4,
+          "evidence": "the air tasking cycle",
+          "locations": [
+            "Chapter 2 Part 1 - Overview and Planning",
+            "Chapter 2 Part 2 - Preparing and Execution",
+            "Chapter 2 Part 3 - Assessing",
+            "Chapter 2 Part 4 - Applying the C2 Process"
+          ],
+          "candidate_id": "T031",
+          "zh": "空中任务分配",
+          "category": "process",
+          "pos": "process",
+          "definition": "与空中任务指令相关的任务分配过程。",
+          "inclusion_signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "review_status": "candidate"
+        },
+        {
+          "en": "below the theater air",
+          "exact_count": 2,
+          "section_count": 2,
+          "signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "feature_score": 4,
+          "evidence": "and the role of commanders below the theater air component has matured the understanding of the C2 function and the C2 process",
+          "locations": [
+            "Chapter 2 Part 1 - Overview and Planning",
+            "Chapter 2 Part 4 - Applying the C2 Process"
+          ],
+          "candidate_id": "T040",
+          "zh": "战区空中以下",
+          "category": "other",
+          "pos": "other",
+          "definition": "指低于战区空中组成部分层级的部队。",
+          "inclusion_signals": [
+            "cross_section",
+            "repeated_phrase"
+          ],
+          "review_status": "candidate"
+        }
+      ],
+      "changed_after_revision": true,
+      "interpretation": "数字写法或译法变体也会触发线索，须对照原文判读，不能直接视为错误。"
+    }
+  ]
+}

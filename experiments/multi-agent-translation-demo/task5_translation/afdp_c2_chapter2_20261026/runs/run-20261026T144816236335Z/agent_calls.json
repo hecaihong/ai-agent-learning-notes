@@ -1,0 +1,365 @@
+[
+  {
+    "agent": "Glossary",
+    "stage": "extraction",
+    "unit_id": null,
+    "note": "抽取术语表",
+    "directory": "agents/001_glossary_extraction",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:48:16.786465+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "术语是否确实出现在本章？",
+      "译法是否符合此处语境？",
+      "是否遗漏关键概念或缩写？"
+    ],
+    "response_id": "5ae9453b-fdca-45b3-8053-333306aeea94",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 580,
+      "prompt_tokens": 6093,
+      "total_tokens": 6673,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 6093
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 4.701
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "01",
+    "note": "翻译 Chapter 2 Part 1 - Overview and Planning",
+    "directory": "agents/002_translation_draft_01",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:48:21.491042+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "428f0aa3-2d20-45fb-adaf-d40a315f148f",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1154,
+      "prompt_tokens": 1722,
+      "total_tokens": 2876,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1722
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 8.103
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "02",
+    "note": "翻译 Chapter 2 Part 2 - Preparing and Execution",
+    "directory": "agents/003_translation_draft_02",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:48:29.598512+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "41debffe-8e27-4dbf-a6a6-b801e36d620a",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1524,
+      "prompt_tokens": 2176,
+      "total_tokens": 3700,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 2176
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 11.168
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "03",
+    "note": "翻译 Chapter 2 Part 3 - Assessing",
+    "directory": "agents/004_translation_draft_03",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:48:40.776968+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "0161c69e-8ff9-4eb9-969c-2b32be073b6d",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 786,
+      "prompt_tokens": 1220,
+      "total_tokens": 2006,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1220
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 6.085
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "04",
+    "note": "翻译 Chapter 2 Part 4 - Applying the C2 Process",
+    "directory": "agents/005_translation_draft_04",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:48:46.867801+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "750b09ab-d749-44d0-ad49-fb2b24c02af5",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1388,
+      "prompt_tokens": 1842,
+      "total_tokens": 3230,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1842
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 9.626
+  },
+  {
+    "agent": "Proofreading",
+    "stage": "initial_review",
+    "unit_id": null,
+    "note": "一致性审校",
+    "directory": "agents/006_proofreading_initial_review",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:48:56.507775+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "指出的问题能否在译文中定位？",
+      "问题是否真实，建议是否可执行？",
+      "是否漏掉了人工发现的问题？本角色未读取原文。"
+    ],
+    "response_id": "15d674ad-afed-4f66-b846-62218ac84f7d",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1430,
+      "prompt_tokens": 5138,
+      "total_tokens": 6568,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 5138
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 7.264
+  },
+  {
+    "agent": "Manager",
+    "stage": "decision",
+    "unit_id": null,
+    "note": "调度决策",
+    "directory": "agents/007_manager_decision",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:49:03.779546+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "修订对象是否对应审校意见？",
+      "修订理由是否有报告依据？",
+      "是否忽略问题或要求无依据的重译？"
+    ],
+    "response_id": "cc080e6a-8265-42e1-aaaa-b4f5f9a66d49",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 205,
+      "prompt_tokens": 1653,
+      "total_tokens": 1858,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1653
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 1.521
+  },
+  {
+    "agent": "Translation",
+    "stage": "revision",
+    "unit_id": "01",
+    "note": "翻译 Chapter 2 Part 1 - Overview and Planning（修订）",
+    "directory": "agents/008_translation_revision_01",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:49:05.307118+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "aea49829-13e0-40c1-ae4c-0d0eb2ed6a2c",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1166,
+      "prompt_tokens": 1861,
+      "total_tokens": 3027,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1861
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 8.13
+  },
+  {
+    "agent": "Translation",
+    "stage": "revision",
+    "unit_id": "02",
+    "note": "翻译 Chapter 2 Part 2 - Preparing and Execution（修订）",
+    "directory": "agents/009_translation_revision_02",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:49:13.455762+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "ce6802d1-944a-4283-a31c-35b6f7d557b3",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1519,
+      "prompt_tokens": 2382,
+      "total_tokens": 3901,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 2382
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 10.806
+  },
+  {
+    "agent": "Translation",
+    "stage": "revision",
+    "unit_id": "03",
+    "note": "翻译 Chapter 2 Part 3 - Assessing（修订）",
+    "directory": "agents/010_translation_revision_03",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:49:24.271599+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "c704b981-3d84-41bc-8a75-8f18fdac4c79",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 783,
+      "prompt_tokens": 1373,
+      "total_tokens": 2156,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1373
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 5.869
+  },
+  {
+    "agent": "Translation",
+    "stage": "revision",
+    "unit_id": "04",
+    "note": "翻译 Chapter 2 Part 4 - Applying the C2 Process（修订）",
+    "directory": "agents/011_translation_revision_04",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T14:49:30.146104+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "bd65fe6e-9201-4dad-a47c-dfce01147466",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1318,
+      "prompt_tokens": 2121,
+      "total_tokens": 3439,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 2121
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 8.804
+  }
+]

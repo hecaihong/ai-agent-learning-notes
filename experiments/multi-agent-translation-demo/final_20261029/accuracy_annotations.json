@@ -1,0 +1,459 @@
+{
+  "reviewer": "assistant_assisted_single_reviewer",
+  "not_expert_acceptance": true,
+  "variants": [
+    "old_draft",
+    "old_final",
+    "new_draft"
+  ],
+  "rows": [
+    {
+      "id": "A01",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "计划、准备、执行与评估",
+        "old_final": "计划、准备、执行与评估",
+        "new_draft": "计划、准备、执行和评估"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A02",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "由指挥官主导",
+        "old_final": "由指挥官主导",
+        "new_draft": "由指挥官领导"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A03",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "既反复发生又同时进行",
+        "old_final": "既反复又同时发生",
+        "new_draft": "反复且同时发生"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A04",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "因为C2过程与战争层级无关",
+        "old_final": "因为C2过程与战争层面无关",
+        "new_draft": "因为C2流程与战争层级无关"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A05",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "运行C2过程以执行所分配作战任务的权限",
+        "old_final": "运行C2过程以执行所分配作战任务的权限",
+        "new_draft": "运行C2流程以实施所分配作战的权限"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A06",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "设计是计划的一部分，计划为设计提供信息",
+        "old_final": "设计是计划的一部分，计划为设计提供信息",
+        "new_draft": "设计是计划的一部分，计划为设计提供信息"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A07",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "设计中最重要的单一要素是目标",
+        "old_final": "设计中最重要的单一要素是目标",
+        "new_draft": "设计中最重要的单一要素是目标"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A08",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "⁷",
+        "old_final": "⁷",
+        "new_draft": "⁷"
+      },
+      "note": "同时核对脚注7、8的正文；引文栏仅列定位标记，不用有上标代替正文完整性判断。"
+    },
+    {
+      "id": "A09",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "准备代表了计划与执行之间相互重叠的活动",
+        "old_final": "准备是计划与执行之间相互重叠的活动",
+        "new_draft": "准备是指计划与执行之间相互重叠的活动"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A10",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "协调不替代正式审批流程",
+        "old_final": "协调不替代正式审批流程",
+        "new_draft": "协调不能替代正式审批流程"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A11",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "直接联络授权（DIRLAUTH）用于",
+        "old_final": "直接联络授权（DIRLAUTH）[待审]用于",
+        "new_draft": "直接联络授权（DIRLAUTH）用于"
+      },
+      "note": "此项只核对授权协调的对象关系；“直接参谋”中文搭配另在语言质量中处理。"
+    },
+    {
+      "id": "A12",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "对计划中的作战概念进行修改",
+        "old_final": "对计划中的作战概念进行修改",
+        "new_draft": "对计划中的作战概念进行修改"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A13",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "最接近战斗的人员做出",
+        "old_final": "最接近战斗的人员做出",
+        "new_draft": "最接近战斗的人员做出"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A14",
+      "scores": {
+        "old_draft": 0,
+        "old_final": 0,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "可能使用任务式指挥技术",
+        "old_final": "可能使用任务式指挥技术",
+        "new_draft": "可使用任务型命令（MTO）技术"
+      },
+      "note": "MTO应对应mission-type orders。旧稿用mission command相关译法替换并删除缩写；新初稿保留MTO及任务型命令。英文含义另核对AFDP 1，不把中文译名当作官方标准译名。"
+    },
+    {
+      "id": "A15",
+      "scores": {
+        "old_draft": 0,
+        "old_final": 0,
+        "new_draft": 0
+      },
+      "target_quotes": {
+        "old_draft": "节点可能跨越多个梯次",
+        "old_final": "节点可能跨越多个梯次作战行动",
+        "new_draft": "节点可能跨越多个层级。"
+      },
+      "note": "三稿均未把侧栏前后的句子恢复为明确的“跨多个作战层级且能力不同”。不能因词语都出现就判语义完整。"
+    },
+    {
+      "id": "A16",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 0,
+        "new_draft": 0
+      },
+      "target_quotes": {
+        "old_draft": "改道了600多个任务",
+        "old_final": "改航了600多架次任务",
+        "new_draft": "改航了600多架次任务"
+      },
+      "note": "17000吨与47000人均保留；旧修订稿和新初稿把mission任务数写成“架次任务”，增加了原文未明示的架次限定，按本轮严格口径判0。若用户确认该语境允许按架次译，应共同重标此项，不单独调新稿分数。"
+    },
+    {
+      "id": "A17",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "评估始于对战术任务和目标的界定",
+        "old_final": "评估始于界定战术任务与目标之时",
+        "new_draft": "评估始于界定战术任务和目标之时"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A18",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "将观察到的作战环境条件与期望的目标和/或最终状态条件进行比较",
+        "old_final": "将观察到的作战环境条件与预期目标和/或最终状态条件进行比较",
+        "new_draft": "将观察到的作战环境条件与期望目标及/或最终状态条件进行比较"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A19",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "确定关键计划事实和假设的有效性",
+        "old_final": "确定关键计划事实和假设的有效性",
+        "new_draft": "判定关键计划事实和假设的有效性"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A20",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "确定是否需要增加、减少或调整资源",
+        "old_final": "确定是否需要增加、减少或变更资源",
+        "new_draft": "判定是否需要增加、减少或变更资源"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A21",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "根据事件或在作战行动期间的指定间隔进行评做",
+        "old_final": "根据事件或在作战行动期间的指定间隔开展评估",
+        "new_draft": "根据事件或在作战期间的指定间隔开展评估"
+      },
+      "note": "旧初稿的“评做”是错字，两个触发条件仍可辨认，因此准确性计1，语言质量扣分，避免把同一错字直接等同关键语义丢失。"
+    },
+    {
+      "id": "A22",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "一旦评估可靠地感知或辨别出变化模式",
+        "old_final": "一旦评估可靠地感知或辨别出变化模式",
+        "new_draft": "一旦评估可靠地感知或辨别出变化模式"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A23",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 0,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "战略及伴随计划有效性的洞察",
+        "old_final": "战略及 accompanying 计划有效性的洞察",
+        "new_draft": "战略及伴随计划有效性的洞察"
+      },
+      "note": "旧修订稿的普通英文修饰词未译，对中文读者未完整交付该限定；其他两稿已译。"
+    },
+    {
+      "id": "A24",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "性能度量",
+        "old_final": "性能度量",
+        "new_draft": "性能度量"
+      },
+      "note": "此项评估MOP任务执行与MOE效果的概念区别；性能/绩效等中文规范译名仍待领域确认，不在这里重复扣分。"
+    },
+    {
+      "id": "A25",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "可能施加某些限制",
+        "old_final": "可施加某些限制",
+        "new_draft": "可施加某些限制"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A26",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "作战任务的目的，而非如何执行分配任务的具体细节",
+        "old_final": "作战目的，而非如何执行分配任务的细节",
+        "new_draft": "作战目的，而非如何执行所分配任务的细节"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A27",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "持久的、临时的还是基于条件的",
+        "old_final": "持久的、临时的还是基于条件的",
+        "new_draft": "持久的、临时的还是基于条件的"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A28",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "并无强制性的结构",
+        "old_final": "并无强制性的结构",
+        "new_draft": "并无强制性的结构"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A29",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "通常位于CCMD级别以下",
+        "old_final": "通常位于作战司令部（CCMD）级别以下",
+        "new_draft": "通常低于CCMD层级"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A30",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "保持集中指挥",
+        "old_final": "保持集中指挥",
+        "new_draft": "保持集中指挥"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A31",
+      "scores": {
+        "old_draft": 1,
+        "old_final": 1,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "保留了对该联队作战计划的指挥权限以及例外情况下对该联队下达任务的权限",
+        "old_final": "保留了对该联队作战计划的指挥权限以及例外情况下向该联队下达任务的权限",
+        "new_draft": "保留了对该联队作战计划的指挥权，以及按例外方式向该联队下达任务的权限"
+      },
+      "note": "按固定原文检查点逐项核对，未发现该检查点含义缺失或改变。"
+    },
+    {
+      "id": "A32",
+      "scores": {
+        "old_draft": 0,
+        "old_final": 0,
+        "new_draft": 1
+      },
+      "target_quotes": {
+        "old_draft": "⁹",
+        "old_final": "⁹",
+        "new_draft": "> ⁹ 关于命令的更多信息"
+      },
+      "note": "旧稿只有脚注9上标而无说明正文；新初稿脚注9、10均有正文。"
+    }
+  ]
+}

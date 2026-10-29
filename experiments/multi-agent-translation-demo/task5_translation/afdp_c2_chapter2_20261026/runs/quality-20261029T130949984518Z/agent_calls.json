@@ -1,0 +1,203 @@
+[
+  {
+    "agent": "Glossary",
+    "stage": "extraction",
+    "unit_id": null,
+    "note": "基于频次、章节分布、结构信号和原文依据筛选术语；不设置数量上限",
+    "directory": "agents/001_glossary_extraction",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:09:50.669098+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "候选特征是否足以支持收录？",
+      "Agent 是否排除了普通词和候选噪声？",
+      "译法是否符合本章语境？",
+      "是否遗漏低频但关键的概念或缩写？"
+    ],
+    "response_id": "fb9d9321-0d0b-426f-9daa-c07d732584b8",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 6770,
+      "prompt_tokens": 21356,
+      "total_tokens": 28126,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 21356
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 26.969
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "01",
+    "note": "Chapter 2 Part 1 - Overview and Planning",
+    "directory": "agents/002_translation_draft_01",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:10:17.647618+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "727f552d-9c93-4b74-9202-31f1f48db9c9",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1158,
+      "prompt_tokens": 14460,
+      "total_tokens": 15618,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 14460
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 8.79
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "02",
+    "note": "Chapter 2 Part 2 - Preparing and Execution",
+    "directory": "agents/003_translation_draft_02",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:10:26.443997+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "d7720cb2-6dc3-48d3-9218-f4923fded5bb",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1506,
+      "prompt_tokens": 14915,
+      "total_tokens": 16421,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 12800
+      },
+      "prompt_cache_hit_tokens": 12800,
+      "prompt_cache_miss_tokens": 2115
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 10.415
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "03",
+    "note": "Chapter 2 Part 3 - Assessing",
+    "directory": "agents/004_translation_draft_03",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:10:36.864406+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "63e72900-c5a7-4d3a-9a8d-9af7369d99c6",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 782,
+      "prompt_tokens": 13961,
+      "total_tokens": 14743,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 12800
+      },
+      "prompt_cache_hit_tokens": 12800,
+      "prompt_cache_miss_tokens": 1161
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 5.866
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "04",
+    "note": "Chapter 2 Part 4 - Applying the C2 Process",
+    "directory": "agents/005_translation_draft_04",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:10:42.735988+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "c536396e-397a-4499-9d59-1d1261b2bb2b",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1326,
+      "prompt_tokens": 14578,
+      "total_tokens": 15904,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 12800
+      },
+      "prompt_cache_hit_tokens": 12800,
+      "prompt_cache_miss_tokens": 1778
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 8.86
+  },
+  {
+    "agent": "Proofreading",
+    "stage": "initial_review",
+    "unit_id": null,
+    "note": "英中对照审校，核查旧问题与新增问题",
+    "directory": "agents/006_proofreading_initial_review",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:10:51.600502+00:00",
+    "status": "failed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否逐项对照英文和当前译文？",
+      "确认缺陷是否有有效的双语引文？",
+      "旧问题是否修复，是否出现新增错误？"
+    ],
+    "response_id": "dac8c707-1cdb-45ec-972b-942cea70a185",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 2734,
+      "prompt_tokens": 24353,
+      "total_tokens": 27087,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 24353
+    },
+    "finish_reason": "stop",
+    "error_type": "ValueError",
+    "error_message": "审校原文定位必须是提供的英文中的精确片段。",
+    "latency_seconds": 14.569
+  }
+]

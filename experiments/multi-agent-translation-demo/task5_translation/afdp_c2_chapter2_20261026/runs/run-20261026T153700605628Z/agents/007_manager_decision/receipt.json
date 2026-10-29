@@ -1,0 +1,33 @@
+{
+  "agent": "Manager",
+  "stage": "decision",
+  "unit_id": null,
+  "note": "调度决策",
+  "directory": "agents/007_manager_decision",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-26T15:38:06.633350+00:00",
+  "status": "format_valid_semantics_unreviewed",
+  "manual_review": "pending",
+  "review_questions": [
+    "修订对象是否对应审校意见？",
+    "修订理由是否有报告依据？",
+    "是否忽略问题或要求无依据的重译？"
+  ],
+  "response_id": "e93b4ba5-546b-47a5-a10e-0b2c615b0dc3",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 213,
+    "prompt_tokens": 3067,
+    "total_tokens": 3280,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3067
+  },
+  "finish_reason": "stop",
+  "latency_seconds": 2.001
+}

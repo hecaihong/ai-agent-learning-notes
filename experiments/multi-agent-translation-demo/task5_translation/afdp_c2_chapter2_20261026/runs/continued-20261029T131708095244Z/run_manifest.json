@@ -1,0 +1,24 @@
+{
+  "workflow_status": "failed",
+  "quality_status": "pending",
+  "model": "deepseek-flash",
+  "max_calls": 13,
+  "source_run": "quality-20261029T130949984518Z",
+  "source_sha256": "9ae41ef67b62aac53e01f8da51d891e1caed6c648048dc760de0c31f0f6ddb37",
+  "historical_model_request_count": 6,
+  "new_model_request_limit": 7,
+  "continuation_reason": "仅修复可核验的空白断行和已知侧栏引用对齐；不重复模型请求，原始失败记录保留。",
+  "code_sha256": {
+    "resume_afdp_quality.py": "cba95ff6b1e2093996b5f8860e23a8791d34d184a81044af8b312679f83e598d",
+    "run_afdp_quality.py": "4cbf6ec0ce04919414dcb1408159679879a4f9fc72776ddf36e54623dc5dfe25",
+    "translation_evidence.py": "70b1bc0ad94f6292379b2a55f80136dc001248c64c3d43fe6b3167e3eb854dc1",
+    "run_afdp_chapter2.py": "7df543110a120d7e8f5d918eea0eb06235938f1772d66199447e2d3c1a76a481"
+  },
+  "error_type": "ValueError",
+  "error_message": "Glossary Agent 排除了候选表之外的编号：T116",
+  "replayed_response_count": 6,
+  "new_model_request_count": 2,
+  "total_round_model_requests": 8,
+  "recorded_responses": 8,
+  "finished_utc": "2026-10-29T13:17:40.209888+00:00"
+}

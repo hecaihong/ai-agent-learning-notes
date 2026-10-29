@@ -1,0 +1,28 @@
+{
+  "kind": "historical_output_gate_replay",
+  "api_calls": 0,
+  "missing_acronyms_now_candidates": true,
+  "delivery_checks": {
+    "passed": false,
+    "blockers": [
+      {
+        "kind": "pending_marker",
+        "chapter": "Chapter 2 Part 2 - Preparing and Execution"
+      },
+      {
+        "kind": "new_lowercase_english",
+        "chapter": "Chapter 2 Part 3 - Assessing",
+        "words": [
+          "accompanying"
+        ],
+        "interpretation": "修订新增的小写英文须人工确认；不直接把专名引用判为误译。"
+      },
+      {
+        "kind": "missing_footnote_definition",
+        "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+        "number": "9"
+      }
+    ],
+    "interpretation": "未通过则不得作为交付稿；通过自动检查也仍需人工验收。"
+  }
+}

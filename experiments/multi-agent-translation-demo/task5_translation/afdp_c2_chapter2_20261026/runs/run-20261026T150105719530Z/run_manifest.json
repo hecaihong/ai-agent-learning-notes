@@ -1,0 +1,25 @@
+{
+  "workflow_status": "failed",
+  "quality_status": "pending_human_review",
+  "model": "deepseek-flash",
+  "source_sha256": "9ae41ef67b62aac53e01f8da51d891e1caed6c648048dc760de0c31f0f6ddb37",
+  "max_calls": 11,
+  "max_output_tokens": 8192,
+  "thinking": "disabled",
+  "automatic_retries": 0,
+  "adaptations": [
+    "复用教材翻译、审校和 Manager 角色函数，证据记录器替代原 llm_chat。",
+    "本实验覆盖教材 Glossary 提示词：不设置术语数量上限，并要求低频关键术语和原文依据。",
+    "独立编排，不使用教材 EDITORIAL_MANDATE。",
+    "审校检查初稿译文，修订后的语义质量仍待人工复核。"
+  ],
+  "code_sha256": {
+    "task5_translation\\run_afdp_chapter2.py": "f0dceb209354ade55e0634596a064522b57d01a99b020d64b7246117efcb4cd4",
+    "task5_translation\\translation_evidence.py": "4b534fb7ae3285c6ceaf4e97850d4ade5bde3a9a4150d7ace097f2e6c56cc4e2",
+    "<PRIVATE_COURSE>\\chapter10\\book-translation\\agents.py": "7f0fd50942d617fb0917a0df0f60ccaed066cf5752a070cb213e071824afb16a"
+  },
+  "error_type": "ValueError",
+  "error_message": "模型未正常结束：finish_reason=length",
+  "model_request_count": 1,
+  "finished_utc": "2026-10-26T15:01:37.473809+00:00"
+}

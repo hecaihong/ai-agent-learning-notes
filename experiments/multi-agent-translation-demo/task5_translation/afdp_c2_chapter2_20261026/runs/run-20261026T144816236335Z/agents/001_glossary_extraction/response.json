@@ -1,0 +1,38 @@
+{
+  "id": "5ae9453b-fdca-45b3-8053-333306aeea94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\n  \"glossary\": [\n    {\n      \"en\": \"Command and Control (C2)\",\n      \"zh\": \"指挥与控制\",\n      \"pos\": \"noun\",\n      \"context\": \"The overarching process and authority by which a commander directs and controls forces, consisting of planning, preparing, executing, and assessing.\"\n    },\n    {\n      \"en\": \"C2 Process\",\n      \"zh\": \"指挥与控制流程\",\n      \"pos\": \"noun\",\n      \"context\": \"The iterative series of major activities (planning, preparing, executing, assessing) led by a commander to conduct command and control.\"\n    },\n    {\n      \"en\": \"Distributed Control\",\n      \"zh\": \"分布式控制\",\n      \"pos\": \"noun\",\n      \"context\": \"A component of the CC-DC-DE framework where authority to run the C2 process is delegated to subordinate commanders.\"\n    },\n    {\n      \"en\": \"Decentralized Execution\",\n      \"zh\": \"分散执行\",\n      \"pos\": \"noun\",\n      \"context\": \"The execution of operations by subordinates closest to the fight, empowered by commander's intent, a key tenet of mission command.\"\n    },\n    {\n      \"en\": \"Commander's Intent\",\n      \"zh\": \"指挥官意图\",\n      \"pos\": \"noun\",\n      \"context\": \"A clear and concise expression of the purpose and desired end state of an operation, guiding subordinates' actions.\"\n    },\n    {\n      \"en\": \"Operational Environment (OE)\",\n      \"zh\": \"作战环境\",\n      \"pos\": \"noun\",\n      \"context\": \"The composite of conditions, circumstances, and influences that affect the employment of capabilities and bear on decisions.\"\n    },\n    {\n      \"en\": \"Air Tasking Order (ATO)\",\n      \"zh\": \"空中任务指令\",\n      \"pos\": \"noun\",\n      \"context\": \"A document that tasks air assets for a specific period, often refined during preparation and execution.\"\n    },\n    {\n      \"en\": \"Battle Management\",\n      \"zh\": \"战斗管理\",\n      \"pos\": \"noun\",\n      \"context\": \"The management of activities within the operational environment based on commander's guidance, often conducted through C2 nodes.\"\n    },\n    {\n      \"en\": \"Assessment\",\n      \"zh\": \"评估\",\n      \"pos\": \"noun\",\n      \"context\": \"A continuous C2 activity that measures progress toward objectives and informs decision-making.\"\n    },\n    {\n      \"en\": \"Air Expeditionary Task Force (AETF)\",\n      \"zh\": \"空中远征特遣部队\",\n      \"pos\": \"noun\",\n      \"context\": \"A scalable USAF organization with a designated commander, C2 mechanisms, and tailored forces, used to implement the CC-DC-DE framework.\"\n    }\n  ]\n}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793026099,
+  "model": "deepseek-flash",
+  "object": "chat.completion",
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+  "usage": {
+    "completion_tokens": 580,
+    "prompt_tokens": 6093,
+    "total_tokens": 6673,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 6093
+  }
+}

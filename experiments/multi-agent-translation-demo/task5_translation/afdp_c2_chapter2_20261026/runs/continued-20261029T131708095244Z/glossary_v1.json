@@ -1,0 +1,1686 @@
+[
+  {
+    "en": "Planning",
+    "exact_count": 47,
+    "section_count": 4,
+    "signals": [
+      "cross_section",
+      "explicit_definition",
+      "section_heading"
+    ],
+    "feature_score": 8,
+    "evidence": "PLANNING",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 3 - Assessing",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T001",
+    "zh": "计划",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "C2过程中的首要活动，指通过问题解决方法理解态势、纳入设计期望的最终状态并制定有效行动方案的过程。",
+    "inclusion_signals": [
+      "cross_section",
+      "explicit_definition",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Design",
+    "exact_count": 22,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "explicit_definition",
+      "section_heading"
+    ],
+    "feature_score": 8,
+    "evidence": "…e for the remainder of the C2 process. The planning activity includes design. Design and planning are discussed separately, but they are inextricably linked. Design is part of planning and plannin…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T002",
+    "zh": "设计",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "计划活动的一部分，指构思和构建支撑计划的框架，包括理解战略指导、理解作战环境、定义问题和描述所需广泛行动。",
+    "inclusion_signals": [
+      "cross_section",
+      "explicit_definition",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "refining",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition",
+      "section_heading"
+    ],
+    "feature_score": 6,
+    "evidence": "…learned prior to execution . Preparing encompasses the coordinating, refining , and transitioning actions necessary to ensure positive communication and successful execution among superior, subordi…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T003",
+    "zh": "细化",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "准备活动中的子活动，指因执行前出现的变化而对计划中的作战概念进行修改，以确保计划保持相关性和有效性。",
+    "inclusion_signals": [
+      "explicit_definition",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Transitioning",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition",
+      "section_heading"
+    ],
+    "feature_score": 6,
+    "evidence": "…to execution . Preparing encompasses the coordinating, refining , and transitioning actions necessary to ensure positive communication and successful execution among superior, subordinate, and parallel f…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T004",
+    "zh": "过渡",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "准备活动中的子活动，指执行前的最后活动，包括演练、检查、建立战斗节奏以及将计划正式移交给执行者。",
+    "inclusion_signals": [
+      "explicit_definition",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Assessment",
+    "exact_count": 24,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "explicit_definition"
+    ],
+    "feature_score": 5,
+    "evidence": "Assessment starts when defining tactical tasks and objectives. Assessment is a continual activity where the staff observes the OE…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T006",
+    "zh": "评估",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "C2过程中的持续活动，指参谋人员观察作战环境和朝向最终状态的渐进进展，以推动计划和战略的调整。",
+    "inclusion_signals": [
+      "cross_section",
+      "explicit_definition"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Preparing",
+    "exact_count": 13,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "PREPARING",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T007",
+    "zh": "准备",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "C2过程中的主要活动之一，指计划与执行之间的重叠活动，用于共享信息、达成共识、解释任务和优化作战。",
+    "inclusion_signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Battle Management",
+    "exact_count": 9,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "…ecution promotes effectiveness and resilience at the tactical level . Battle Management. C2 in execution is battle management —the management of activities within the OE based on the commands, direction, and…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T008",
+    "zh": "战斗管理",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "执行中的C2，指根据相应权威下达的命令、指示和指导，对作战环境内的活动进行管理。",
+    "inclusion_signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "order",
+    "exact_count": 8,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "explicit_definition"
+    ],
+    "feature_score": 5,
+    "evidence": "…transmitting commander’s intent and authorities to the 7440 CW was an order . An order is a communication, written, oral, or by signal, which conveys instructions from a superior to a subordinate…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T009",
+    "zh": "命令",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "一种通信方式（书面、口头或信号），将上级的指示传达给下级。",
+    "inclusion_signals": [
+      "cross_section",
+      "explicit_definition"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "C2 Nodes",
+    "exact_count": 7,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "…problems. Battle management enables decentralized operations through C2 nodes. C2 Nodes. C2 nodes are element s of a C2 system that represent people, places, or physical objects that execute decent…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T010",
+    "zh": "C2节点",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "C2系统的组成部分，代表执行分散作战的人员、地点或物理对象。",
+    "inclusion_signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Assessing",
+    "exact_count": 6,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "ASSESSING",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T011",
+    "zh": "评估",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "C2过程中的主要活动之一，指持续观察作战环境并衡量朝向最终状态的进展。",
+    "inclusion_signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "CC-DC-DE",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "named_framework"
+    ],
+    "feature_score": 5,
+    "evidence": "…cates the authorities that subordinate commanders need to realize the CC-DC-DE framework . It models how a commander makes decisions and the major C2 activities the commander is conducting . See the…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T012",
+    "zh": "CC-DC-DE框架",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "集中指挥、分散控制、分散执行（Centralized Command, Decentralized Control, Decentralized Execution）的框架，用于描述指挥官决策和C2活动。",
+    "inclusion_signals": [
+      "cross_section",
+      "named_framework"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Decentralized execution",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition",
+      "repeated_phrase"
+    ],
+    "feature_score": 5,
+    "evidence": "…lf. This fundamental shift in C2 during execution is key to achieving decentralized execution under the mission command philosophy. Execution begins upon the direction of the commander. There are many methods that…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T013",
+    "zh": "分散执行",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "在任务式指挥理念指导下作战的基本特征，指将战术运用决策赋予最接近战斗的人员。",
+    "inclusion_signals": [
+      "explicit_definition",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "DC-DE framework",
+    "exact_count": 3,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "…es the authorities that subordinate commanders need to realize the CC-DC-DE framework . It models how a commander makes decisions and the major C2 activities the commander is conducting . See the figure be…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T014",
+    "zh": "DC-DE框架",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "分散控制与分散执行（Decentralized Control, Decentralized Execution）的框架，是CC-DC-DE框架的组成部分。",
+    "inclusion_signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Force Structure",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "FORCE STRUCTURE",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T015",
+    "zh": "力量结构",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "为实现CC-DC-DE而建立的组织结构，包括指定的指挥官、适当的C2机制以及量身定制并得到充分支援的部队。",
+    "inclusion_signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "TAC C2",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition",
+      "repeated_phrase"
+    ],
+    "feature_score": 5,
+    "evidence": "…to other nodes. Tactical C2. Some C2 nodes are known as t actical C2 (TAC C2) . TAC C2 are the elements conducting battle management at a tactical level, even if those tactical actions have theate…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T016",
+    "zh": "战术C2",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "在战术层级进行战斗管理的C2节点，即使其战术行动具有战区范围的影响。",
+    "inclusion_signals": [
+      "explicit_definition",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "air tasking order (ATO)",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_full_form",
+      "cross_section"
+    ],
+    "feature_score": 5,
+    "evidence": "…ng circumstances. Examples of refining actions include a djusting the air tasking order (ATO) based on changing space or terrestrial weather conditions, refining target lists based on new intelligence, and updati…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T017",
+    "zh": "空中任务指令",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "空中任务指令（Air Tasking Order），是用于任务分配和协调空中作战的正式指令。",
+    "inclusion_signals": [
+      "acronym_full_form",
+      "cross_section"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "c2 process",
+    "exact_count": 26,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "THE COMMAND AND CONTROL PROCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T018",
+    "zh": "C2流程",
+    "category": "process",
+    "pos": "process",
+    "definition": "由指挥官领导的一系列渐进且迭代的主要C2活动，包括计划、准备、执行和评估。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "distributed control",
+    "exact_count": 13,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "Distributed Control",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T019",
+    "zh": "分散控制",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "将C2流程的权限下放给下级指挥官，使其能够执行所分配作战的控制方式。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "air component commander",
+    "exact_count": 10,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "subordinate commanders relied on centralized C2 from the theater air component commander",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T020",
+    "zh": "航空组成部分指挥官",
+    "category": "organization",
+    "pos": "organization",
+    "definition": "联合部队中负责航空力量的组成部分指挥官。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "component commander",
+    "exact_count": 10,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "subordinate commanders relied on centralized C2 from the theater air component commander",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T021",
+    "zh": "组成部分指挥官",
+    "category": "organization",
+    "pos": "organization",
+    "definition": "联合部队中各军种组成部分的指挥官。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "commander’s intent",
+    "exact_count": 8,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "…gn activities with the overall strategic plan and provide the initial commander’s intent for the operation or mission",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T022",
+    "zh": "指挥官意图",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "指挥官对作战目的和期望最终状态的明确表述，用于指导下级主动行动。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "c2 activities",
+    "exact_count": 6,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "…OCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T023",
+    "zh": "C2活动",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "构成C2流程的主要活动，包括计划、准备、执行和评估。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "command and control",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "THE COMMAND AND CONTROL PROCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T024",
+    "zh": "指挥与控制",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "指挥官通过行使指挥权和控制权来领导作战的职能，缩写为C2。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "theater air component commander",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "subordinate commanders relied on centralized C2 from the theater air component commander",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T025",
+    "zh": "战区航空组成部分指挥官",
+    "category": "organization",
+    "pos": "organization",
+    "definition": "战区级负责航空力量的组成部分指挥官。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "decision cycle",
+    "exact_count": 4,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "through the decision cycle",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T028",
+    "zh": "决策周期",
+    "category": "process",
+    "pos": "process",
+    "definition": "指挥官做出决策并驱动C2流程的循环过程。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "mission command",
+    "exact_count": 3,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "The C2 Process BACKGROUND The evolution of mission command",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T031",
+    "zh": "任务式指挥",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "一种指挥理念，强调通过分散执行和赋予下级决策权来发挥主动性。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "air tasking cycle",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "the air tasking cycle",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T032",
+    "zh": "空中任务周期",
+    "category": "process",
+    "pos": "process",
+    "definition": "空中组成部分内用于任务分配和协调的周期性流程。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "operational design",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "The operational design framework involves a continual effort to understand the strategic guidance",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T037",
+    "zh": "作战设计",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "设计框架在作战层面的应用，涉及理解战略指导、作战环境、定义问题和描述广泛行动。",
+    "inclusion_signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Coordination",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition"
+    ],
+    "feature_score": 3,
+    "evidence": "…asks, responsibilities, and timelines . • Effective communication and coordination among different units and agencies . • Timely and accurate exchange of information between planners and executors . Coo…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T041",
+    "zh": "协调",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "确保充分信息交流以整合、同步和消除不同组织间作战冲突的必要行动。",
+    "inclusion_signals": [
+      "explicit_definition"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Coordinating",
+    "exact_count": 4,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "…ddress lessons learned prior to execution . Preparing encompasses the coordinating, refining , and transitioning actions necessary to ensure positive communication and successful execution among superio…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T042",
+    "zh": "协调",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "准备活动中的子活动，指通过信息共享达成共识、解释任务和优化作战。",
+    "inclusion_signals": [
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "generation",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "…onizing operations based on the changes enacted by subordinate units. generation. The first execution activity is usually generation. Generating includes posturing forces aligned with the plan and cap…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T044",
+    "zh": "生成",
+    "category": "activity",
+    "pos": "activity",
+    "definition": "执行活动中的首要子活动，指按照计划调整部队态势并使其具备执行指挥官意图的能力。",
+    "inclusion_signals": [
+      "section_heading"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Composite Wing (CW)",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…ration with an associated operational area. In this case, the 7440 th Composite Wing (CW) commander was directed to open a second front in the Gulf War and accomplish several clearly defined tasks. The mechan…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T045",
+    "zh": "复合联队",
+    "category": "organization",
+    "pos": "organization",
+    "definition": "由多种机型组成的联队，如第7440复合联队。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "air expeditionary task force (AETF)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…rough the CC-DC-DE framework. The most relevant USAF structure is the air expeditionary task force (AETF). When established, AETFs may fill the role of a Service component command or as a subordinate Service command, ge",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T048",
+    "zh": "空中远征特遣部队",
+    "category": "organization",
+    "pos": "organization",
+    "definition": "美国空军可扩展、可定制的组织结构，可充当军种组成部分司令部或下级军种司令部。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "air task force (ATF)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…onent commander may choose to exercise Distributed Control through an air task force (ATF) or combat wing. As units of action advance their C2 capabilities with empowered commanders, operations centers, and ro…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T049",
+    "zh": "空中特遣部队",
+    "category": "organization",
+    "pos": "organization",
+    "definition": "航空组成部分指挥官可用来行使分散控制的特遣部队。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Airborne Warning and Control System (AWACS)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…theater air control system (TACS) such as mission commanders (MC s), Airborne Warning and Control System (AWACS ), forward air controllers (FAC s), and battle control centers (BCC s). Nodes may span several levels of Ba",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T050",
+    "zh": "机载预警与控制系统",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "机载预警与控制系统（Airborne Warning and Control System），是战区空中控制系统中的C2节点。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "airspace control plan (ACP)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…ns, refining target lists based on new intelligence, and updating the airspace control plan (ACP) to accommodate additional aircraft. Transitioning . Transitioning is a process that includes the final activities befo…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T051",
+    "zh": "空域控制计划",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "空域控制计划（Airspace Control Plan），用于协调空域使用的计划文件。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Global Air Mobility Support System (GAMSS)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…ement us es a variety of C2 systems. For air mobility operations, the Global Air Mobility Support System (GAMSS) is the C2 system that enable s air mobility operations . During execution, GAMSS C2 nodes perform battle m",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T060",
+    "zh": "全球空中机动支援系统",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "全球空中机动支援系统（Global Air Mobility Support System），是支持空中机动作战的C2系统。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Intelligence Surveillance and Reconnaissance (ISR)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…xecut e operations . Examples of coordinating actions include sharing Intelligence, Surveillance, and Reconnaissance (ISR) assets with joint force components ; coordinating with tanker and airlift units for refueling an",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T061",
+    "zh": "情报、监视与侦察",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "情报、监视与侦察（Intelligence, Surveillance, and Reconnaissance），指用于收集情报的资产和活动。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "joint planning process (JPP)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…anning methodologies that are applicable to Airmen. These include the joint planning process (JPP) , the joint planning process for air (JPPA) , and the Air Force Planning Process (AFPP) . Design. Design is the concep…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T062",
+    "zh": "联合计划流程",
+    "category": "process",
+    "pos": "process",
+    "definition": "联合计划流程（Joint Planning Process），是适用于空军的计划方法之一。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "joint planning process for air (JPPA)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…cable to Airmen. These include the joint planning process (JPP) , the joint planning process for air (JPPA) , and the Air Force Planning Process (AFPP) . Design. Design is the conception and construction of the framewor",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T063",
+    "zh": "联合空中计划流程",
+    "category": "process",
+    "pos": "process",
+    "definition": "联合空中计划流程（Joint Planning Process for Air），是适用于空军的计划方法之一。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "Joint Task Force (JTF)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…the C2 process for their assigned forces. The following example from Joint Task Force (JTF) Proven Force highlights how a combat wing or ATF may operate with Distributed Control. During the Gulf War of 1990-199…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T064",
+    "zh": "联合特遣部队",
+    "category": "organization",
+    "pos": "organization",
+    "definition": "联合特遣部队（Joint Task Force），由多个军种组成，执行特定任务。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "measures of effectiveness",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "contrast_pair"
+    ],
+    "feature_score": 3,
+    "evidence": "…gs right (measures of performance) ? • Are we doing the right things (measures of effectiveness) ? • Are we measuring the right things? The first question addresses the performance of planned air operations by asses…",
+    "locations": [
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T067",
+    "zh": "效能度量",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "用于衡量是否“做正确的事”的度量标准，评估期望效果在作战环境中达到的程度。",
+    "inclusion_signals": [
+      "contrast_pair"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "measures of performance",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "contrast_pair"
+    ],
+    "feature_score": 3,
+    "evidence": "…th the answers to these basic questions: • Are we doing things right (measures of performance) ? • Are we doing the right things (measures of effectiveness) ? • Are we measuring the right things? The first questio…",
+    "locations": [
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T068",
+    "zh": "性能度量",
+    "category": "doctrine_concept",
+    "pos": "doctrine_concept",
+    "definition": "用于衡量是否“正确地做事”的度量标准，评估计划空中作战的任务完成情况。",
+    "inclusion_signals": [
+      "contrast_pair"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "theater air control system (TACS)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…d operations. Common examples of C2 nodes include the elements in the theater air control system (TACS) such as mission commanders (MC s), Airborne Warning and Control System (AWACS ), forward air controllers (FAC s), a",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T071",
+    "zh": "战区空中控制系统",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "战区空中控制系统（Theater Air Control System），包含任务指挥官、AWACS、前方空中控制员和战斗控制中心等C2节点。",
+    "inclusion_signals": [
+      "acronym_full_form"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "C2",
+    "exact_count": 67,
+    "section_count": 3,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "CHAPTER 2: THE COMMAND AND CONTROL PROCESS The C2 process is the progressive and iterative series of major C2 activities, led by a commander, which c",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T077",
+    "zh": "指挥与控制",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "指挥与控制（Command and Control）的缩写，指指挥官行使指挥权和控制权的职能。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "CC",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "authorities that subordinate commanders need to realize the CC - DC -DE framework . It models how a commander makes decisions and the major C2 activities the comm",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T078",
+    "zh": "集中指挥",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "集中指挥（Centralized Command），是CC-DC-DE框架的组成部分。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "DC",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "rities that subordinate commanders need to realize the CC - DC -DE framework . It models how a commander makes decisions and the major C2 activities the commander",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T079",
+    "zh": "分散控制",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "分散控制（Decentralized Control），是CC-DC-DE框架的组成部分。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "DE",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "es that subordinate commanders need to realize the CC - DC -DE framework . It models how a commander makes decisions and the major C2 activities the commander is ",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T080",
+    "zh": "分散执行",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "分散执行（Decentralized Execution），是CC-DC-DE框架的组成部分。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "AFDP",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " > 7For additional information on planning and design, s ee AFDP 5 -0,Planning ,JP 5 -0, Joint Planning ,JP > 3-30 ,Joint Air Operations , and Air Force Tactics ,Te",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T081",
+    "zh": "空军条令出版物",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "空军条令出版物（Air Force Doctrine Publication）的缩写，如AFDP 5-0。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "AOC",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " Air Force Tactics ,Techniques , and Procedures (AFTTP )3-3.AOC ,Combat > Fundamentals Air Operations Center . History of the C2 Process The C2 process is not a ne",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T084",
+    "zh": "空中作战中心",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "空中作战中心（Air Operations Center），是空军C2系统的核心机构。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "USAF",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "“design, plan, execute, and assess” has been established in USAF doctrine since the 1998 version of Air Force Doctrine Document 2, Organization and Employment of Ae",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T085",
+    "zh": "美国空军",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "美国空军（United States Air Force）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "OE",
+    "exact_count": 11,
+    "section_count": 3,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " 5- 0, The Operations Process ). changing conditions in the OE . Planning is the process through which Airmen tailor the tenets of Airpower to the OE and provide ",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T088",
+    "zh": "作战环境",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "作战环境（Operational Environment）的缩写，指影响作战的条件和因素。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "DIRLAUTH",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "unctions of a supporting staff. Direct liaison authorized ( DIRLAUTH ) is used to coordinate with an organization outside of the immediate staff or organization, or bet",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T093",
+    "zh": "直接联络授权",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "直接联络授权（Direct Liaison Authorized），用于与直接参谋或组织之外的单位进行协调。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "JFC",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "onent of a joint force develops its own plan as part of the JFC’s overall effort, these plans are most successful if they are coordinated among the Service compone",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T094",
+    "zh": "联合部队指挥官",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "联合部队指挥官（Joint Force Commander）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "ATO",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " refining actions include a djusting the air tasking order (ATO) based on changing space or terrestrial weather conditions, refining target lists based on new inte",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T096",
+    "zh": "空中任务指令",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "空中任务指令（Air Tasking Order）的缩写，是用于任务分配和协调空中作战的正式指令。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "TPFDD",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " force deployments, time -phased force and deployment data [TPFDD ] management, establishing alert status, transloading). Examples of generating actions include p os",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T098",
+    "zh": "分阶段部队与部署数据",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "分阶段部队与部署数据（Time-Phased Force and Deployment Data），用于管理全球力量部署。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "MTO",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " air component commander and subordinate echelons may use a MTO technique to clearly communicate commander’s intent and empower Airmen to make effective on -scene ",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T099",
+    "zh": "任务型命令",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "任务型命令（Mission-Type Order），一种用于清晰传达指挥官意图并赋予空军人员决策权的技术。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "needs_domain_review"
+  },
+  {
+    "en": "TACS",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "des include the elements in the theater air control system (TACS) such as mission commanders (MC s), Airborne Warning and Control System (AWACS ), forward air contr",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T100",
+    "zh": "战区空中控制系统",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "战区空中控制系统（Theater Air Control System）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "MC",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "eater air control system (TACS) such as mission commanders (MC s), Airborne Warning and Control System (AWACS ), forward air controllers (FAC s), and battle contr",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T101",
+    "zh": "任务指挥官",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "任务指挥官（Mission Commander）的缩写，是战区空中控制系统中的C2节点。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "AWACS",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "ion commanders (MC s), Airborne Warning and Control System (AWACS ), forward air controllers (FAC s), and battle control centers (BCC s). Nodes may span several leve",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T102",
+    "zh": "机载预警与控制系统",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "机载预警与控制系统（Airborne Warning and Control System）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "FAC",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "rning and Control System (AWACS ), forward air controllers (FAC s), and battle control centers (BCC s). Nodes may span several levels of Battle Management Example:",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T103",
+    "zh": "前方空中控制员",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "前方空中控制员（Forward Air Controller）的缩写，是战区空中控制系统中的C2节点。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "BCC",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "orward air controllers (FAC s), and battle control centers (BCC s). Nodes may span several levels of Battle Management Example: Global Air Mobility Adjustment Batt",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T104",
+    "zh": "战斗控制中心",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "战斗控制中心（Battle Control Center）的缩写，是战区空中控制系统中的C2节点。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "GAMSS",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "obility operations, the Global Air Mobility Support System (GAMSS) is the C2 system that enable s air mobility operations . During execution, GAMSS C2 nodes perform ",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T105",
+    "zh": "全球空中机动支援系统",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "全球空中机动支援系统（Global Air Mobility Support System）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "HHQ",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "purpose is to maintain alignment with higher headquarters ( HHQ ) priorities, scheme s of maneuver, and operational objectives. Integrating assessment into plannin",
+    "locations": [
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T107",
+    "zh": "上级司令部",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "上级司令部（Higher Headquarters）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "CW",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "operational area. In this case, the 7440 th Composite Wing (CW) commander was directed to open a second front in the Gulf War and accomplish several clearly defin",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T108",
+    "zh": "复合联队",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "复合联队（Composite Wing）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "AETF",
+    "exact_count": 6,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "elevant USAF structure is the air expeditionary task force (AETF). When established, AETFs may fill the role of a Service component command or as a subordinate Serv",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T109",
+    "zh": "空中远征特遣部队",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "空中远征特遣部队（Air Expeditionary Task Force）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "CCMD",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "nd or as a subordinate Service command, generally below the CCMD -level. AETFs are scalable, > 9For additional information on orders, see AFDP 5 -0, Planning . tail",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T110",
+    "zh": "作战司令部",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "作战司令部（Combatant Command）的缩写，指联合部队的上级指挥层级。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "OPCON",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "lized command through their specified command relationship (OPCON established by the CCDR), and the AETF operates with Distributed Control as a sub -theater echelon.",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T111",
+    "zh": "作战控制",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "作战控制（Operational Control）的缩写，是一种指挥关系。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "CCDR",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "ir specified command relationship (OPCON established by the CCDR), and the AETF operates with Distributed Control as a sub -theater echelon. Subsequently, the tacti",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T112",
+    "zh": "作战司令部司令",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "作战司令部司令（Combatant Commander）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "ATF",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " to exercise Distributed Control through an air task force (ATF) or combat wing. As units of action advance their C2 capabilities with empowered commanders, operat",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T113",
+    "zh": "空中特遣部队",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "空中特遣部队（Air Task Force）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "JTF",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "signed forces. The following example from Joint Task Force (JTF) Proven Force highlights how a combat wing or ATF may operate with Distributed Control. During the ",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T114",
+    "zh": "联合特遣部队",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "联合特遣部队（Joint Task Force）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  },
+  {
+    "en": "CENTAF",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "ike packages without assistance from US Air Forces Central (CENTAF). CENTAF provided the wing a n order to open a second Iraqi front whenever possible. The order incl",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T115",
+    "zh": "美国中央空军",
+    "category": "acronym",
+    "pos": "acronym",
+    "definition": "美国中央空军（US Air Forces Central）的缩写。",
+    "inclusion_signals": [
+      "acronym_mention"
+    ],
+    "review_status": "candidate"
+  }
+]

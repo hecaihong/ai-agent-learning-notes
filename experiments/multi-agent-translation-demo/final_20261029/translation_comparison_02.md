@@ -1,0 +1,312 @@
+# Chapter 2 Part 2 - Preparing and Execution：原文与译稿对照
+
+新版未进入修订，本文件中的新版本仅为初稿。
+
+## 英文原文
+
+PREPARING
+Preparing represents the overlapping activities between planning and execution used to
+share information, gain consensus, explain tasks, and optimize operations. Effective
+preparation includes rehearsals or exercises to ensure transition activities are
+understood , inspections and checks to verify readiness , and timely back -briefs to
+address lessons learned prior to execution .
+Preparing encompasses the coordinating, refining , and transitioning actions
+necessary to ensure positive communication and successful execution among superior,
+subordinate, and parallel forces. Preparing ensures a seamless transition from planning
+to execution by establishing a common operational picture. This enables a smooth
+handoff from planners to executors, ensuring that all stakeholders are aligned and aware
+of their roles and responsibilities. Key indicators of a successful transition include:
+• Availability of required resources and support .
+• Clear understanding of tasks, responsibilities, and timelines .
+• Effective communication and coordination among different
+units and agencies .
+• Timely and accurate exchange of information between
+planners and executors .
+Coordinating . Coordination is defined as the necessary actions to ensure adequate
+information exchange that integrates, synchronizes, and deconflicts operations between
+separate organizations . It involves sharing information to gain consensus, explain ing
+tasks, and optimiz ing operations. Coordination in advance of execution is critical to
+ensuring that required support is available . Commanders should share information (both
+vertical ly and horizontal ly ) to produce trusting relationships , and secure agreement s
+
+necessary for efficient multinational and joint operations. Coordination’s benefits include
+minimizing the risk of fratricide through deconfliction and increasing overall understanding
+of the OE . Coordination does not replace formal approval process es . It is normally used
+between functions of a supporting staff.
+Direct liaison authorized ( DIRLAUTH ) is used to coordinate with an organization outside
+of the immediate staff or organization, or between component staffs. Although each
+component of a joint force develops its own plan as part of the JFC’s overall effort, these
+plans are most successful if they are coordinated among the Service components. Plans
+should be coordinated with as much time as possible before execution, to ensure all
+required support is coordinated for the operation.
+Preparing as a Unique Step
+Previous categorization of major C2 activities considered preparing sub -activities at
+the end of planning or the beginning of execution. Numerous lessons learned have
+identified that th e lack of a distinct preparing activi ty led to planning and execution
+oversights for the time and resource requirements necessary to execut e operations .
+
+Examples of coordinating actions include sharing Intelligence, Surveillance, and
+Reconnaissance (ISR) assets with joint force components ; coordinating with tanker and
+airlift units for refueling and transportation support ; and synchronizing airspace
+management with adjacent units .
+Refinin g. Refining is the modification of the planned concept of operations due to
+changes realized prior to execution . This ensures that the plan remains relevant and
+effective in response to changing circumstances.
+Examples of refining actions include a djusting the air tasking order (ATO) based on
+changing space or terrestrial weather conditions, refining target lists based on new
+intelligence, and updating the airspace control plan (ACP) to accommodate additional
+
+aircraft.
+Transitioning . Transitioning is a process that includes the final activities before
+execution. Commanders hold rehearsals and exercise s to ensure the staff is ready to
+proceed to execution. Checklists are generated and a battle rhythm is established to
+support the commander’s decision cycle. Inspections verify the readiness of subordinate
+units to ensure they understand their mission. Finally, lessons learned are communicated
+as the long -range planners formally hand off their plan to the operation executors .
+Transition generally ends with an order that puts the plan into action.
+EXECUT ING
+Execution is putting a plan into action while using situational understanding to assess
+progress and adjust operations as the situation changes . C2 in execution focuses on
+activities and decisions to seize and retain the initiative, build, and maintain
+momentum, and exploit success . Through C2 in execution, the commander can
+monitor and adapt operations, as necessary. Therefore, C2 in execution is directly linked
+to the commander’s decision cycle because commanders, staffs, and subordinate
+commanders focus their efforts on translating decisions into actions. They direct action to
+apply combat power at decisive points and times to achieve objectives and accomplish
+missions. Furthermore, e xecuting includes integrating and synchronizing operations
+based on the changes enacted by subordinate units.
+Generati on. The first execution activity is usually generation. Generating includes
+posturing forces aligned with the plan and capable of executing the commander’s intent.
+The actions required to generate airpower happen across a spectrum of organizations
+and processes ranging from mission generation up through global force management
+(e.g. , global force deployments, time -phased force and deployment data [TPFDD ]
+management, establishing alert status, transloading). Examples of generating actions
+include p os turing squadrons for combat operations, generating sorties, and tasking air
+defense systems.
+
+Execution marks a fundamental shift in the role of the commander. Whereas the
+commander is heavily involved in planning and preparing, their role changes during
+execution to empowe r subordinates to make decisions on their behalf. This fundamental
+shift in C2 during execution is key to achieving decentralized execution under the mission
+command philosophy. 
+
+Execution begins upon the direction of the commander. There are many methods
+that a commander can use to issue an execution order. In general, the air component
+commander and subordinate echelons may use a MTO technique to clearly communicate
+commander’s intent and empower Airmen to make effective on -scene decisions during
+complex, rapidly unfolding operations.
+Decentralized execution is the fundamental characteristic of operations guided by
+a mission command philosophy. The imperative for decentralized execution stems
+from the premise that decisions regarding tactical employment are optimized when made
+by those closest to the fight. Tactically proficient Airmen, armed with clear commander's
+intent and a shared understanding of an operation's purpose and wider operational and
+strategic context, maximize airpower's lethality. History shows that the rapidity of acti on
+generated by decentralized execution is the surest method of operating inside the
+enemy’s decision cycle. Decentralized execution promotes effectiveness and resilience
+at the tactical level .
+Battle Management. C2 in execution is battle management —the management of
+activities within the OE based on the commands, direction, and guidance given by
+appropriate authority. These activities include the process of directing weapons , sensors ,
+and support , within the commander's defined acceptable level of risk , to achieve the
+commander’s intent . Battle management allows the direct and often real -time monitoring
+of operations based on commander’s intent and the scope of a commander’s orders. The
+results of effective battle management include timely decisions, communicated
+
+assessments, and solved problems. Battle management enables decentralized
+operations through C2 nodes.
+C2 Nodes. C2 nodes are element s of a C2 system that represent people, places, or
+physical objects that execute decentralized operations. Common examples of C2 nodes
+include the elements in the theater air control system (TACS) such as mission
+commanders (MC s), Airborne Warning and Control System (AWACS ), forward air
+controllers (FAC s), and battle control centers (BCC s). Nodes may span several levels of
+Battle Management Example: Global Air Mobility Adjustment
+Battle management us es a variety of C2 systems. For air mobility operations, the
+Global Air Mobility Support System (GAMSS) is the C2 system that enable s air
+mobility operations . During execution, GAMSS C2 nodes perform battle
+management to meet dynamic changes in the OE .
+For example, on 16 April 2010, Iceland’s Eyjafjallajökull volcano erupted, spewing
+an ash cloud that closed much of Europe’s airspace . In response, nearly 400
+airlift, tanker, and aeromedical evacuation missions battle managed by the 618
+AOC were rerouted to ensure the continued delivery of personnel and equipment
+to support surge operations in Afghanistan and Iraq. In the end, effective C2 in
+execution rerouted over 600 missions, moved over 17,000 tons of supplies, and
+transported over 47,000 people to overcome unplanned hazards. 
+
+operations and have varying levels of capability. C2 nodes should understand their
+authorities, roles in decision -making and execution, and relationship to other nodes.
+Tactical C2. Some C2 nodes are known as t actical C2 (TAC C2) . TAC C2 are the
+elements conducting battle management at a tactical level, even if those tactical actions
+have theater -wide effects. Generally, TAC C2 manages specific missions. Missions are
+essential tasks, together with the purpose, that clearly indicate the action to be taken and
+the reason for the action. Missions are generally related to the air component in the form
+
+of dispatching aircraft to accomplish tasks. Mission execution begins with t he decision for
+mission launch and includes all functions necessary to ensure effective accomplishment.
+
+
+## 旧版初稿
+
+## 准备
+
+准备代表了计划与执行之间相互重叠的活动，用于共享信息、达成共识、说明任务并优化作战行动。有效的准备包括通过推演或演习确保转换活动得到理解，通过检查和核验确认战备状态，以及在执行前及时进行回馈简报以吸取经验教训。
+
+准备涵盖协调、精炼和转换行动，这些行动对于确保上级、下级和并行部队之间实现积极沟通和成功执行是必要的。准备通过建立通用作战图景来确保从计划到执行的无缝过渡。这使得从计划人员到执行人员的顺利交接成为可能，确保所有利益相关方保持一致并了解其角色和职责。成功过渡的关键指标包括：
+
+- 所需资源和支持的可用性。
+- 对任务、职责和时间线的清晰理解。
+- 不同单位和机构之间的有效沟通与协调。
+- 计划人员与执行人员之间及时准确的信息交换。
+
+**协调。** 协调被定义为确保充分信息交换的必要行动，以整合、同步和消除独立组织之间作战行动的冲突。它涉及共享信息以达成共识、说明任务并优化作战行动。执行前的协调对于确保所需支持到位至关重要。指挥官应当共享信息（纵向和横向），以建立信任关系，并达成高效多国和联合行动所需的共识。协调的好处包括通过消除冲突将误伤风险降至最低，以及增进对作战环境的整体理解。协调不替代正式审批流程。它通常用于支援参谋各职能之间。
+
+直接联络授权（DIRLAUTH）用于与直接参谋或组织之外的机构进行协调，或用于组成部分参谋之间。尽管联合部队的每个组成部分都作为联合部队指挥官整体工作的一部分制定自己的计划，但如果这些计划在各军种组成部分之间进行了协调，则最为成功。计划应在执行前尽可能早地进行协调，以确保为作战行动协调所有所需支持。
+
+**准备作为独立步骤**
+
+此前对主要C2活动的分类将准备视为计划末尾或执行开始的子活动。大量经验教训表明，缺乏独立的准备活动导致了对执行作战行动所需时间和资源要求的计划与执行疏忽。
+
+协调行动的示例包括：与联合部队各组成部分共享情报、监视与侦察（ISR）资产；与加油机和空运单位协调燃油和运输支持；以及与相邻单位同步空域管理。
+
+**精炼。** 精炼是由于执行前所认识到的变化而对计划中的作战概念进行修改。这确保计划在应对不断变化的情况时保持相关性和有效性。
+
+精炼行动的示例包括：根据变化的太空或地面天气条件调整空中任务指令（ATO），根据新情报精炼目标清单，以及更新空域控制计划（ACP）以容纳额外飞机。
+
+**转换。** 转换是一个包括执行前最终活动的过程。指挥官举行推演和演习以确保参谋准备好进入执行阶段。生成检查清单并建立战斗节奏以支持指挥官的决策周期。检查核验下级单位的战备状态以确保他们理解其任务。最后，随着远期计划人员正式将其计划移交给作战执行人员，经验教训得到传达。转换通常以将计划付诸行动的命令结束。
+
+## 执行
+
+执行是在将计划付诸行动的同时，利用态势理解来评估进展并根据情况变化调整作战行动。执行中的C2侧重于夺取和保持主动权、建立和维持势头以及利用成功的活动与决策。通过执行中的C2，指挥官可以根据需要监视和调整作战行动。因此，执行中的C2与指挥官的决策周期直接相关，因为指挥官、参谋和下级指挥官将精力集中在将决策转化为行动上。他们指挥行动以在决定性地点和时间运用战斗力来实现目标和完成任务。此外，执行包括根据下级单位所实施的变更来整合和同步作战行动。
+
+**生成。** 第一个执行活动通常是生成。生成包括使部队按照计划进入态势并能够执行指挥官意图。生成空中力量所需的行动跨越一系列组织和流程，从任务生成到全球部队管理（例如，全球部队部署、分阶段部队与部署数据[TPFDD]管理、建立警戒状态、转运装载）。生成行动的示例包括：为作战行动部署中队、生成出动架次以及指派防空系统任务。
+
+执行标志着指挥官角色的根本转变。指挥官在计划和准备中深度参与，而在执行期间其角色转变为授权下级代表其做出决策。执行期间C2的这一根本转变是在任务式指挥理念下实现分散执行的关键。
+
+执行在指挥官指示下开始。指挥官可以使用多种方法发布执行命令。一般而言，空中组成部分指挥官和下级梯队可能使用任务式指挥技术来清晰传达指挥官意图，并授权飞行员在复杂、快速展开的作战行动中做出有效的现场决策。
+
+分散执行是任务式指挥理念指导下作战行动的基本特征。分散执行的必要性源于这样一个前提：当战术运用决策由最接近战斗的人员做出时，决策效果最佳。具备战术素养的飞行员，在清晰的指挥官意图以及对作战行动目的和更广泛作战与战略背景的共同理解武装下，能够最大限度地发挥空中力量的杀伤力。历史表明，分散执行所产生的行动速度是在敌方决策周期内行动的最可靠方法。分散执行提升了战术层面的有效性和韧性。
+
+**战斗管理。** 执行中的C2就是战斗管理——根据相应权限所赋予的命令、指示和指导，对作战环境内的活动进行管理。这些活动包括在指挥官确定的可接受风险水平内，指挥武器、传感器和支援力量的流程，以实现指挥官意图。战斗管理允许根据指挥官意图和指挥官命令范围对作战行动进行直接且往往是实时的监视。有效战斗管理的成果包括及时决策、传达评估结果和解决问题。战斗管理通过C2节点实现分散作战。
+
+**C2节点。** C2节点是C2系统的组成要素，代表执行分散作战的人员、场所或物理对象。C2节点的常见示例包括战区空中控制系统（TACS）中的要素，如任务指挥官（MC）、机载预警与控制系统（AWACS）、前沿空中控制员（FAC）和战斗控制中心（BCC）。节点可能跨越多个梯次
+
+> **战斗管理示例：全球空中机动调整**
+>
+> 战斗管理使用各种C2系统。对于空中机动行动，全球空中机动支援系统（GAMSS）是支持空中机动行动的C2系统。在执行期间，GAMSS的C2节点执行战斗管理以应对作战环境中的动态变化。
+>
+> 例如，2010年4月16日，冰岛埃亚菲亚德拉冰盖火山爆发，喷出的火山灰云关闭了欧洲大部分空域。作为回应，由第618空中作战中心进行战斗管理的近400架空运、加油和航空医疗后送任务被改道，以确保继续投送人员和装备以支持阿富汗和伊拉克的增援行动。最终，执行中的有效C2改道了600多个任务，运送了超过17，000吨物资，运送了超过47，000人员，克服了计划外的危险。
+
+作战行动，并具有不同级别的能力。C2节点应了解其权限、在决策和执行中的角色以及与其他节点的关系。
+
+**战术C2。** 某些C2节点被称为战术C2（TAC C2）。TAC C2是在战术层面执行战斗管理的要素，即使这些战术行动具有战区范围的影响。通常，TAC C2管理特定任务。任务是基本任务及其目的，明确指示要采取的行动和行动原因。任务通常与空中组成部分相关，其形式为派遣飞机完成任务。任务执行始于任务发射决策，包括确保有效完成所需的所有职能。
+
+## 旧版修订稿（参考）
+
+## 准备
+
+准备是计划与执行之间相互重叠的活动，用于共享信息、达成共识、说明任务并优化作战。有效的准备包括通过推演或演习确保转换活动被理解，通过检查和核对验证战备状态，以及在执行前及时进行反向简报以吸取经验教训。
+
+准备涵盖必要的协调、精炼与转换行动，以确保上级、下级和平行部队之间实现积极沟通和成功执行。准备通过建立通用作战图景，确保从计划到执行的无缝转换。这使计划人员能够顺利移交给执行人员，确保所有利益相关方保持一致并了解其角色和职责。成功转换的关键指标包括：
+
+- 所需资源与支援的可用性。
+- 对任务、职责和时间线的清晰理解。
+- 不同单位和机构之间有效的沟通与协调。
+- 计划人员与执行人员之间及时准确的信息交换。
+
+**协调。** 协调被定义为确保充分信息交换的必要行动，以整合、同步和消除独立组织之间作战行动的冲突。它涉及共享信息以达成共识、说明任务并优化作战。执行前的协调对于确保所需支援到位至关重要。指挥官应（纵向和横向地）共享信息以建立信任关系，并达成高效多国和联合行动所需的共识。协调的益处包括通过消除冲突将误伤风险降至最低，并增进对作战环境的整体理解。协调不替代正式审批流程。它通常用于支援参谋各职能之间的协调。
+
+直接联络授权（DIRLAUTH）[待审]用于与直接参谋或组织之外的组织进行协调，或在各组成部分参谋之间进行协调。尽管联合部队的每个组成部分都作为联合部队指挥官整体工作的一部分制定自己的计划，但如果这些计划在各军种组成部分之间进行了协调，则最为成功。计划应在执行前尽可能早地进行协调，以确保为作战协调所有所需支援。
+
+**准备作为独立步骤**
+
+以往对主要C2活动的分类将准备视为计划末尾或执行开始的子活动。大量经验教训表明，缺乏独立的准备活动导致计划和执行在实施作战所需时间和资源方面出现疏漏。
+
+协调行动的示例包括：与联合部队各组成部分共享情报、监视与侦察（ISR）资产；与加油机和空运单位协调燃油和运输支援；以及与相邻单位同步空域管理。
+
+**精炼。** 精炼是由于执行前所认识到的变化而对计划中的作战概念进行修改。这确保计划在应对不断变化的情况时保持相关性和有效性。
+
+精炼行动的示例包括：根据变化的太空或地面气象条件调整空中任务指令（ATO）；根据新情报精炼目标清单；以及更新空域控制计划（ACP）以容纳更多飞机。
+
+**转换。** 转换是一个包括执行前最终活动的过程。指挥官举行推演和演习以确保参谋准备好进入执行。生成检查清单并建立战斗节奏以支持指挥官的决策周期。检查验证下级单位的战备状态以确保他们理解其任务。最后，随着远期计划人员正式将计划移交给作战执行人员，经验教训得以传达。转换通常以将计划付诸行动的命令结束。
+
+## 执行
+
+执行是将计划付诸行动，同时利用态势理解评估进展并根据情况变化调整作战。执行中的C2侧重于夺取和保持主动权、建立和维持势头以及利用成功的活动与决策。通过执行中的C2，指挥官可以根据需要监控和调整作战。因此，执行中的C2与指挥官的决策周期直接相关，因为指挥官、参谋和下级指挥官将精力集中于将决策转化为行动。他们指挥行动以在决定性地点和时间运用战斗力以实现目标和完成任务。此外，执行包括根据下级单位所实施的变更来整合和同步作战。
+
+**生成。** 第一个执行活动通常是生成。生成包括使部队按照计划进入预定态势并能够执行指挥官意图。生成空中力量所需的行动跨越一系列组织和流程，从任务生成到全球力量管理（例如，全球力量部署、分阶段部队与部署数据[TPFDD]管理、建立警戒状态、转运装载）。生成行动的示例包括：为作战行动部署中队、生成出动架次以及为防空系统分配任务。
+
+执行标志着指挥官角色的根本转变。指挥官在计划和准备中深度参与，而在执行期间其角色转变为授权下级代表其做出决策。执行期间C2的这一根本转变是在任务式指挥理念下实现分散执行的关键。
+
+执行在指挥官指示下开始。指挥官可以使用多种方法发布执行命令。一般而言，空中组成部分指挥官和下级梯队可能使用任务式指挥技术来清晰传达指挥官意图，并授权飞行员在复杂、快速展开的作战中做出有效的现场决策。
+
+分散执行是任务式指挥理念指导下作战的基本特征。分散执行的必要性源于这样一个前提：关于战术运用的决策在由最接近战斗的人员做出时最为优化。具备战术素养的飞行员，在清晰的指挥官意图以及对作战目的和更广泛作战与战略背景的共同理解武装下，能够最大化空中力量的杀伤力。历史表明，分散执行所产生的行动速度是在敌方决策周期内行动的最可靠方法。分散执行提升战术层面的有效性和韧性。
+
+**战斗管理。** 执行中的C2就是战斗管理——即根据相应权威所给出的命令、指示和指导，对作战环境内的活动进行管理。这些活动包括在指挥官规定的可接受风险水平内指挥武器、传感器和支援的过程，以实现指挥官意图。战斗管理允许根据指挥官意图和指挥官命令范围对作战进行直接且往往是实时的监控。有效战斗管理的成果包括及时决策、传达评估和解决问题。战斗管理通过C2节点实现分散作战。
+
+**C2节点。** C2节点是C2系统的要素，代表执行分散作战的人员、场所或物理对象。C2节点的常见示例包括战区空中控制系统（TACS）中的要素，如任务指挥官（MC）、机载预警与控制系统（AWACS）、前沿空中控制员（FAC）和战斗控制中心（BCC）。节点可能跨越多个梯次作战行动，并具有不同级别的能力。C2节点应了解其权限、在决策和执行中的角色以及与其他节点的关系。
+
+**战术C2。** 一些C2节点被称为战术C2（TAC C2）。战术C2是在战术层面进行战斗管理的要素，即使这些战术行动具有战区范围的影响。通常，战术C2管理特定任务。任务是基本任务及其目的，明确指示要采取的行动和行动的原因。任务通常与空中组成部分相关，其形式为派遣飞机完成任务。任务执行始于任务发射决策，包括确保有效完成所需的所有职能。
+
+> **战斗管理示例：全球空中机动调整**
+>
+> 战斗管理使用多种C2系统。对于空中机动作战，全球空中机动支援系统（GAMSS）是使能空中机动作战的C2系统。在执行期间，GAMSS C2节点执行战斗管理以应对作战环境中的动态变化。
+>
+> 例如，2010年4月16日，冰岛埃亚菲亚德拉冰盖火山爆发，喷出的火山灰云关闭了欧洲大部分空域。作为回应，由第618空中作战中心进行战斗管理的近400架次空运、加油和医疗后送任务被改航，以确保继续向阿富汗和伊拉克的增援行动运送人员和装备。最终，执行中的有效C2改航了600多架次任务，运送了超过17,000吨物资，运送了超过47,000人员，克服了计划外的危险。
+
+## 新版初稿
+
+## 准备
+
+准备是指计划与执行之间相互重叠的活动，用于共享信息、达成共识、说明任务并优化作战。有效的准备包括通过演练或演习确保过渡活动得到理解，通过检查和核查验证战备状态，以及及时进行回授简报以在执行前处理经验教训。
+
+准备涵盖协调、细化和过渡行动，这些行动对于确保上级、下级和并行部队之间的顺畅沟通和成功执行是必要的。准备通过建立共同作战图景，确保从计划到执行的无缝过渡。这使计划人员能够顺利移交给执行人员，确保所有利益相关方保持一致并了解其角色和职责。成功过渡的关键指标包括：
+
+- 所需资源和支援的可用性。
+- 对任务、职责和时间线的清晰理解。
+- 不同单位和机构之间有效的沟通与协调。
+- 计划人员与执行人员之间及时准确的信息交换。
+
+**协调。** 协调被定义为确保充分信息交流的必要行动，以整合、同步和消除不同组织间作战的冲突。它涉及共享信息以达成共识、说明任务并优化作战。执行前的协调对于确保所需支援到位至关重要。指挥官应（纵向和横向地）共享信息以建立信任关系，并达成高效多国和联合行动所需的共识。协调的好处包括通过消除冲突将误伤风险降至最低，以及增进对作战环境的整体理解。协调不能替代正式审批流程。它通常用于支援参谋各部门之间。
+
+直接联络授权（DIRLAUTH）用于与直接参谋或组织之外的单位进行协调，或用于组成部分参谋之间。尽管联合部队的每个组成部分都作为联合部队指挥官整体工作的一部分制定自己的计划，但如果这些计划在各军种组成部分之间进行了协调，则最为成功。计划应尽可能在执行前尽早协调，以确保为作战协调所有所需支援。
+
+**准备作为独立步骤**
+
+以往对主要C2活动的分类将准备视为计划末尾或执行开始的子活动。大量经验教训表明，缺乏独立的准备活动导致在计划与执行中忽视了执行作战所需的时间和资源需求。
+
+协调行动的示例包括：与联合部队各组成部分共享情报、监视与侦察（ISR）资产；与加油机和空运单位协调燃油和运输支援；以及与相邻单位同步空域管理。
+
+**细化。** 细化是指因执行前出现的变化而对计划中的作战概念进行修改。这确保计划在应对不断变化的情况时保持相关性和有效性。
+
+细化行动的示例包括：根据变化的太空或地面天气条件调整空中任务指令（ATO），根据新情报细化目标清单，以及更新空域控制计划（ACP）以容纳更多飞机。
+
+**过渡。** 过渡是一个包括执行前最后活动的过程。指挥官举行演练和演习以确保参谋准备好进入执行。生成检查清单并建立战斗节奏以支持指挥官的决策周期。检查验证下级单位的战备状态以确保他们理解其任务。最后，随着远期计划人员正式将其计划移交给作战执行人员，经验教训得到传达。过渡通常以一道将计划付诸行动的命令结束。
+
+## 执行
+
+执行是在将计划付诸行动的同时，运用态势理解评估进展并根据情况变化调整作战。执行中的C2侧重于夺取和保持主动权、建立和维持势头以及利用成功的活动与决策。通过执行中的C2，指挥官可以根据需要监视和调整作战。因此，执行中的C2与指挥官的决策周期直接相关，因为指挥官、参谋和下级指挥官将其努力集中于将决策转化为行动。他们指挥行动，在决定性地点和时间运用战斗力以实现目标和完成任务。此外，执行包括根据下级单位所实施的变化来整合和同步作战。
+
+**生成。** 第一项执行活动通常是生成。生成包括按照计划调整部队态势并使其具备执行指挥官意图的能力。生成空中力量所需的行动跨越一系列组织和流程，从任务生成一直到全球力量管理（例如全球力量部署、分阶段部队与部署数据[TPFDD]管理、建立警戒状态、转运装载）。生成行动的示例包括：为作战行动调整中队态势、生成架次以及为防空系统分配任务。
+
+执行标志着指挥官角色的根本转变。指挥官在计划和准备中深度参与，而在执行期间其角色转变为赋予下级代表其做出决策的权力。执行期间C2的这一根本转变是在任务式指挥理念下实现分散执行的关键。
+
+执行始于指挥官的指示。指挥官可以使用多种方法下达执行命令。一般而言，航空组成部分指挥官和下级梯队可使用任务型命令（MTO）技术来清晰传达指挥官意图，并赋予空军人员在复杂、快速展开的作战中做出有效现场决策的权力。
+
+分散执行是任务式指挥理念指导下作战的基本特征。分散执行的必要性源于这样一个前提：关于战术运用的决策由最接近战斗的人员做出时最为优化。具备战术素养的空军人员，在清晰的指挥官意图以及对作战目的和更广泛作战与战略背景的共同理解武装下，能够最大限度地发挥空中力量的杀伤力。历史表明，分散执行所产生的行动速度是在敌方决策周期内作战的最可靠方法。分散执行提升战术层面的效能和韧性。
+
+**战斗管理。** 执行中的C2就是战斗管理——即根据相应权威下达的命令、指示和指导，对作战环境内的活动进行管理。这些活动包括在指挥官确定的可接受风险水平内，指挥武器、传感器和支援的过程，以实现指挥官意图。战斗管理允许根据指挥官意图和指挥官命令的范围对作战进行直接且往往是实时的监视。有效战斗管理的成果包括及时决策、传达评估和解决问题。战斗管理通过C2节点实现分散作战。
+
+**C2节点。** C2节点是C2系统的组成部分，代表执行分散作战的人员、地点或物理对象。C2节点的常见示例包括战区空中控制系统（TACS）中的要素，如任务指挥官（MC）、机载预警与控制系统（AWACS）、前方空中控制员（FAC）和战斗控制中心（BCC）。节点可能跨越多个层级。
+
+> **战斗管理示例：全球空中机动调整**
+>
+> 战斗管理使用多种C2系统。对于空中机动作战，全球空中机动支援系统（GAMSS）是支持空中机动作战的C2系统。在执行期间，GAMSS的C2节点执行战斗管理以应对作战环境中的动态变化。
+>
+> 例如，2010年4月16日，冰岛埃亚菲亚德拉冰盖火山爆发，喷出的火山灰云关闭了欧洲大部分空域。作为回应，由第618空中作战中心进行战斗管理的近400架次空运、加油和医疗后送任务被改航，以确保继续投送人员和装备以支援阿富汗和伊拉克的增援行动。最终，执行中的有效C2改航了600多架次任务，运送了超过17,000吨物资，并运送了超过47,000人，克服了计划外的危险。
+
+作战并具有不同层级的能力。C2节点应了解其权限、在决策和执行中的角色以及与其他节点的关系。
+
+**战术C2。** 一些C2节点被称为战术C2（TAC C2）。战术C2是在战术层级进行战斗管理的要素，即使这些战术行动具有战区范围的影响。一般而言，战术C2管理特定任务。任务是基本任务及其目的，明确指示要采取的行动和行动的原因。任务通常以派遣飞机完成任务的形式与航空组成部分相关。任务执行始于任务出动决策，包括确保有效完成所需的所有职能。
+
+## 新版修订稿
+
+未生成：流程在术语返修处中断。

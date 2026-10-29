@@ -1,0 +1,221 @@
+# Chapter 2 Part 3 - Assessing：原文与译稿对照
+
+新版未进入修订，本文件中的新版本仅为初稿。
+
+## 英文原文
+
+ASSESSING
+Assessment starts when defining tactical tasks and objectives. Assessment is a continual
+activity where the staff observes the OE and incremental progress toward the
+end -state(s). Assessment drives changes to plans and strategy . Operational
+assessments help the commander and staff determine progress toward mission
+accomplishmen t. Assessment results enhance the commander’s decision -making
+capability, directing more effective operations, and addressing a constantly evolving OE.
+A secondary purpose is to maintain alignment with higher headquarters ( HHQ ) priorities,
+scheme s of maneuver, and operational objectives.
+Integrating assessment into planning , preparing, and execution can help commanders
+and staffs at any echelon to:
+• Develop mission success criteria to address specified and
+essential tasks .
+• Compare observed OE conditions to desired objectives and/or
+end -state conditions.
+• Determine validity of key planning facts and assumptions.
+• During execution, determine whether the desired effects have
+been created and
+whether the objectives are being achieved.
+• During execution, assess the effectiveness of allocated
+resources against objectives,
+
+task s, effects, and mission performance.
+• Determine whether an increase, decrease or change to
+resources is required.
+• Identify the risks and barriers to mission accomplishment.
+• Identify opportunities to accelerate mission accomplishment.
+Fundamental Principles. The assessment activity consists of the following fundamental
+principles :
+• Identify information and intelligence requirements . During
+planning, acquiring a
+baseline understanding assists in setting objectives and determining thresholds for
+success and failure. 
+
+• Develop or modify the assessment plan . Linking information
+and intelligence
+requirements to appropriate measures and indicators and containing a collection plan
+to gather appropriate data.
+• Collect information and intelligence . During execution, forces
+use the collection
+plan and defined reporting procedures to gather information about the environment
+and ongoing operations.
+• Conduct periodic or event -based assessments . Commanders
+and their staffs
+
+usually conduct an assessment based on events or at specified intervals during an
+operation.
+• Conduct change reporting . Commanders are especially
+interested in learning how
+friendly or enemy behavior has changed from expectations or norms established
+earlier in prior operations. While many initial reports may prove false or are regarded
+as outliers, once a pattern of change is reliably perceived or discerned by
+assessment, it should be highlighted for commanders’ attention.
+• Provide feedback . Assessment reports inform the
+commander and other
+stakeholders about current conditions and communicate progress toward desired
+objectives and end -states.
+Assessment Considerations. Assessment is a continuous process that measures the
+overall effectiveness of employing capabilities during military operations. It is also the
+determination of the progress toward accomplishing a task, creating a condition, or
+achieving an objective . Assessment support s a commander’s decision -making process
+by providing insight into the effectiveness of the ir strategy and accompanying plans. Many
+types of assessment exist and may be used to support operations . Still, assessment in
+this document refers to activities that support the commander’s decision -making process.
+In an effects -based approach , assessment should provide the commander with the
+answers to these basic questions:
+• Are we doing things right (measures of performance) ?
+• Are we doing the right things (measures of effectiveness) ?
+
+• Are we measuring the right things?
+The first question addresses the performance of planned air operations by assessing the
+completion of tasks . The second question addresses the level at which the commander’s
+desired effects are being observed in the OE and prompts an examinati on of the links
+between performance and effects. Finally, t he third question addresses the assessment
+process and the importance of understanding how one chooses to measure the links
+between performance, cause, and effect. When appropriately determined , the answers
+to these questions should provide the commander with valid information to base decisions
+about adapting strategy.
+While often depicted as a separate stage of the air tasking cycle for conceptual clarity,
+assessment is interwoven throughout operational design , planning, and execution. The 
+
+assessment process should begin as the broad strategy is laid out (including the
+development of assessment criteria) . It continue s through detailed planning (with the
+development of metrics and data sources) . Finally, it extend s to the evaluation of
+measures during and after execution. This process is iterative as assessment results
+influence future strategy and planning.
+Assessment consolidates data from many sources and should summarize that data
+concisely and in context. It should follow a rigorous, defensible analytical process that
+allows commanders and planners to view details of methods used and results produced.
+It communicates relevant uncertainty in the data and the associated risks. In short,
+assessment should allow judgments on a commander’s strategy supported by analysis .
+
+
+## 旧版初稿
+
+## 评估
+
+评估始于对战术任务和目标的界定。评估是一项持续性活动，参谋人员通过它观察作战环境（OE）以及朝向最终状态的渐进进展。评估驱动计划和战略的调整。作战评估帮助指挥官和参谋人员判断任务完成的进展。评估结果增强指挥官的决策能力，指导更有效的作战行动，并应对不断演变的作战环境。次要目的是与上级总部（HHQ）的优先事项、机动方案和作战目标保持一致。
+
+将评估融入计划、准备和执行，可以帮助任何梯队的指挥官和参谋人员：
+
+- 制定任务成功标准，以应对指定任务和基本任务。
+- 将观察到的作战环境条件与期望的目标和/或最终状态条件进行比较。
+- 确定关键计划事实和假设的有效性。
+- 在执行期间，确定是否已产生期望的效果，以及目标是否正在实现。
+- 在执行期间，对照目标、任务、效果和任务遂行情况，评估所分配资源的有效性。
+- 确定是否需要增加、减少或调整资源。
+- 识别任务完成的风险和障碍。
+- 识别加速任务完成的机会。
+
+**基本原则。** 评估活动由以下基本原则构成：
+
+- **识别信息和情报需求。** 在计划期间，获取基线理解有助于设定目标和确定成功与失败的阈值。
+- **制定或修改评估计划。** 将信息和情报需求与适当的度量指标和指标联系起来，并包含收集计划以收集适当数据。
+- **收集信息和情报。** 在执行期间，部队使用收集计划和规定的报告程序来收集有关环境和正在进行的作战行动的信息。
+- **进行定期或基于事件的评估。** 指挥官及其参谋人员通常根据事件或在作战行动期间的指定间隔进行评做。
+- **进行变化报告。** 指挥官尤其关注了解友方或敌方行为与先前作战行动中建立的预期或规范相比发生了何种变化。虽然许多初始报告可能被证明是虚假的或被视为异常值，但一旦评估可靠地感知或辨别出变化模式，就应将其突出显示以引起指挥官的注意。
+- **提供反馈。** 评估报告向指挥官和其他利益相关者通报当前状况，并传达朝向期望目标和最终状态的进展。
+
+**评估考虑因素。** 评估是一个持续过程，衡量在军事行动中运用能力的整体有效性。它也是确定完成任务、创造条件或实现目标的进展。评估通过提供对战略及伴随计划有效性的洞察，支持指挥官的决策过程。存在多种类型的评估，可用于支持作战行动。然而，本文件中的评估指的是支持指挥官决策过程的活动。
+
+在基于效果的方法中，评估应为指挥官提供以下基本问题的答案：
+
+- 我们是否在正确地做事（性能度量）？
+- 我们是否在做正确的事（效能度量）？
+- 我们是否在衡量正确的事物？
+
+第一个问题通过评估任务完成情况来解决计划空中作战行动的性能问题。第二个问题解决在作战环境中观察到指挥官期望效果的程度，并促使审查性能与效果之间的联系。最后，第三个问题涉及评估过程以及理解如何选择衡量性能、原因和效果之间联系的重要性。当适当地确定后，这些问题的答案应为指挥官提供有效信息，作为调整战略决策的基础。
+
+虽然为了概念清晰，评估常被描述为空中任务分配周期的一个独立阶段，但评估贯穿于作战设计、计划和执行之中。评估过程应在总体战略制定时开始（包括制定评估标准）。它持续贯穿详细计划（制定度量指标和数据来源）。最后，它延伸到执行期间和执行后对度量指标的评估。这个过程是迭代的，因为评估结果会影响未来的战略和计划。
+
+评估整合来自许多来源的数据，并应简明且结合上下文地总结这些数据。它应遵循严格、可辩护的分析过程，使指挥官和计划人员能够查看所使用方法的细节和产生的结果。它传达数据中的相关不确定性以及相关风险。简而言之，评估应允许在分析支持下对指挥官的战略做出判断。
+
+## 旧版修订稿（参考）
+
+## 评估
+
+评估始于界定战术任务与目标之时。评估是一项持续性活动，参谋人员据此观察作战环境（OE）以及朝向最终状态的渐进进展。评估驱动计划与战略的调整。作战评估有助于指挥官和参谋人员判断任务完成的进展。评估结果增强指挥官的决策能力，指导更有效的作战行动，并应对不断演变的作战环境。其次要目的是与上级总部（HHQ）的优先事项、机动方案和作战目标保持一致。
+
+将评估融入计划、准备和执行，可帮助各级梯队的指挥官和参谋人员：
+
+- 制定任务成功标准，以应对指定任务和基本任务。
+- 将观察到的作战环境条件与预期目标和/或最终状态条件进行比较。
+- 确定关键计划事实和假设的有效性。
+- 在执行期间，确定是否已产生预期效果，以及目标是否正在实现。
+- 在执行期间，对照目标、任务、效果和任务遂行情况，评估所分配资源的有效性。
+- 确定是否需要增加、减少或变更资源。
+- 识别任务完成的风险和障碍。
+- 识别加速任务完成的机会。
+
+**基本原则**。评估活动由以下基本原则构成：
+
+- 确定信息和情报需求。在计划期间，获取基线理解有助于设定目标并确定成功与失败的阈值。
+- 制定或修改评估计划。将信息和情报需求与适当的度量指标和指标项相关联，并包含收集计划以收集适当数据。
+- 收集信息和情报。在执行期间，部队使用收集计划和规定的报告程序来收集有关环境和正在进行的作战行动的信息。
+- 开展定期或基于事件的评估。指挥官及其参谋人员通常根据事件或在作战行动期间的指定间隔开展评估。
+- 开展变化报告。指挥官尤其关注了解友方或敌方行为与先前作战行动中建立的预期或规范相比发生了何种变化。虽然许多初始报告可能被证明是虚假的或被视为异常值，但一旦评估可靠地感知或辨别出变化模式，就应将其突出显示以引起指挥官的注意。
+- 提供反馈。评估报告向指挥官和其他利益相关方通报当前状况，并传达朝向预期目标和最终状态的进展。
+
+**评估考虑因素**。评估是一个持续过程，既衡量军事行动中运用能力的整体有效性，也确定完成任务、创造条件或实现目标的进展。评估通过提供对战略及 accompanying 计划有效性的洞察，支持指挥官的决策过程。评估存在多种类型，可用于支持作战行动。然而，本文件中的评估指的是支持指挥官决策过程的活动。
+
+在基于效果的方法中，评估应为指挥官提供以下基本问题的答案：
+
+- 我们是否在正确地做事（性能度量）？
+- 我们是否在做正确的事（效能度量）？
+- 我们是否在衡量正确的事物？
+
+第一个问题通过评估任务的完成情况来解决计划空中作战行动的性能问题。第二个问题解决在作战环境中观察到指挥官预期效果的程度，并促使审查性能与效果之间的联系。最后，第三个问题涉及评估过程以及理解如何选择衡量性能、原因和效果之间联系的重要性。当适当地确定时，这些问题的答案应为指挥官提供有效信息，作为调整战略决策的基础。
+
+虽然为了概念清晰，评估常被描述为空中任务分配周期的一个独立阶段，但它贯穿于作战设计、计划和执行的全过程。评估过程应在总体战略制定时开始（包括制定评估标准）。它持续贯穿详细计划（随着度量指标和数据源的制定）。最后，它延伸到执行期间和执行之后的度量指标评估。这一过程是迭代的，因为评估结果会影响未来的战略和计划。
+
+评估整合来自许多来源的数据，并应简洁且结合上下文地总结这些数据。它应遵循严格、可辩护的分析过程，使指挥官和计划人员能够查看所使用方法的细节和产生的结果。它传达数据中的相关不确定性及伴随的风险。简而言之，评估应允许在分析支持下对指挥官的战略做出判断。
+
+## 新版初稿
+
+## 评估
+
+评估始于界定战术任务和目标之时。评估是一项持续性活动，参谋人员据此观察作战环境（OE）以及朝向最终状态的渐进进展。评估推动计划与战略的调整。作战评估帮助指挥官和参谋人员判定任务完成进展。评估结果增强指挥官的决策能力，指导更有效的作战，并应对不断演变的作战环境。其次要目的是与上级司令部（HHQ）的优先事项、机动方案和作战目标保持对齐。
+
+将评估融入计划、准备和执行，可帮助各级指挥官和参谋人员：
+
+• 制定任务成功标准，以涵盖指定任务和基本任务。
+• 将观察到的作战环境条件与期望目标及/或最终状态条件进行比较。
+• 判定关键计划事实和假设的有效性。
+• 在执行期间，判定期望效果是否已产生、目标是否正在实现。
+• 在执行期间，对照目标、任务、效果和任务遂行情况，评估所分配资源的有效性。
+• 判定是否需要增加、减少或变更资源。
+• 识别任务完成的风险和障碍。
+• 识别加速任务完成的机会。
+
+**基本原则。** 评估活动由以下基本原则构成：
+
+• 确定信息和情报需求。在计划期间，获取基线理解有助于设定目标并确定成功与失败的阈值。
+
+• 制定或修改评估计划。将信息和情报需求与适当的度量标准和指标相链接，并包含用于收集适当数据的收集计划。
+• 收集信息和情报。在执行期间，部队使用收集计划和规定的报告程序，收集关于环境和正在进行的作战的信息。
+• 开展定期或基于事件的评估。指挥官及其参谋人员通常根据事件或在作战期间的指定间隔开展评估。
+• 开展变化报告。指挥官尤其关心了解友方或敌方行为与先前作战中确立的预期或规范相比发生了何种变化。虽然许多初始报告可能被证明是虚假的或被视为异常值，但一旦评估可靠地感知或辨别出变化模式，就应将其突出提请指挥官注意。
+• 提供反馈。评估报告向指挥官和其他利益相关方通报当前状况，并传达朝向期望目标和最终状态的进展。
+
+**评估考虑事项。** 评估是一个持续过程，衡量军事行动中运用能力的总体有效性。它也是判定朝向完成任务、创造条件或实现目标的进展。评估通过提供对战略及伴随计划有效性的洞察，支持指挥官的决策过程。评估存在多种类型，可用于支持作战。尽管如此，本文件中的评估指的是支持指挥官决策过程的活动。在基于效果的方法中，评估应向指挥官提供以下基本问题的答案：
+
+• 我们是否正确地做事（性能度量）？
+• 我们是否做正确的事（效能度量）？
+• 我们是否在衡量正确的事项？
+
+第一个问题通过评估任务完成情况来处理计划空中作战的遂行情况。第二个问题处理在作战环境中观察到指挥官期望效果的程度，并促使审视遂行与效果之间的联系。最后，第三个问题处理评估过程以及理解如何选择衡量遂行、原因与效果之间联系的重要性。当适当确定时，这些问题的答案应向指挥官提供有效信息，作为调整战略决策的依据。
+
+虽然为概念清晰起见，评估常被描绘为空中任务周期的一个独立阶段，但它贯穿于作战设计、计划和执行之中。评估过程应在总体战略制定之时（包括制定评估标准）开始。它持续贯穿详细计划（制定度量标准和数据来源）。最后，它延伸至执行期间和执行之后对度量标准的评价。这一过程是迭代的，因为评估结果会影响未来的战略和计划。
+
+评估汇集来自许多来源的数据，并应简明且结合背景地总结这些数据。它应遵循严谨、可辩护的分析过程，使指挥官和计划人员能够查看所使用方法的细节和所产生的结果。它传达数据中的相关不确定性及伴随风险。简言之，评估应允许在分析支持下对指挥官的战略作出判断。
+
+## 新版修订稿
+
+未生成：流程在术语返修处中断。

@@ -1,0 +1,479 @@
+CHAPTER 2: THE COMMAND AND CONTROL PROCESS
+The C2 process is the progressive and iterative series of major C2 activities, led by
+a commander, which characterize the act of command and control. The C2 process
+consists of four major C2 activities : planning, preparing, executing, and assessing. The
+C2 process captures many different processes and cycles that occur within the air
+component ( e.g., the air tasking cycle, targeting cycle, and airlift cycle).
+The C2 process provides a common language for understanding command and control
+and communicates the authorities that subordinate commanders need to realize the CC -
+DC -DE framework . It models how a commander makes decisions and the major C2
+activities the commander is conducting . See the figure below for a visual depiction of the
+process. In the figure, the commander is central and influential to all activities because
+they make decisions (through the decision cycle) that drive the pro cess. The C2 process
+generally flows clockwise starting with planning, but because operations are continuous,
+each activity occur s both repeatedly and concurrently . All activities are con stantly
+undergoing iterative refinement as new information is fed into the process.
+C2 in the Conduct of Operations . In the air component, t he C2 process typically occurs
+at the operational level of warfare . T herefore, it may be referred to as “operational C2”
+
+
+第 17 页
+among Airmen. However, this doctrine avoids the label “operational C2” since the C2
+process is irrespective of the level of warfare.
+The C2 Process Air Force Doctrine Publication 3 -0.1 , Command and Control
+10
+BACKGROUND
+The evolution of mission command , Distributed Control , and the role of commanders
+below the theater air component has matured the understanding of the C2 function and
+the C2 process. Previously , subordinate commanders relied on centralized C2 from the
+theater air component commander. However, i n future operations, lower echelons may
+gain increased responsibility for airpower C2 across the joint functions.
+The C2 process addresses this issue by presenting a holistic collection of C2 activities
+that is simple and scalable. It answers the question: “ What is being distributed in
+Distributed Control?” With : “ The authority to run the C2 process to conduct assigned
+operations.”
+MAJOR COMMAND AND CONTROL ACTIVITIES
+A commander commands and controls operations through the four major activities of the
+C2 process: planning, preparing, executing, and assessing. These activities are both
+progressive and continuous.
+PLANNING
+Planning is the broad term to describe how Airmen address and solve problems. It is
+generally the first C2 activity conducted by a commander and their staff. The outputs of
+planning provide foundational guidance for the remainder of the C2 process. The planning
+activity includes design. Design and planning are discussed separately, but they are
+inextricably linked. Design is part of planning and planning informs design. 7
+Planning. Planning is a problem -solving methodology to understand a situation,
+incorporate the desired end -state from design, and lay out effective ways to create the
+
+
+第 18 页
+desired future state. Planning at every echelon integrates processes for orderly and
+coordinated problem -solving and decision -making across the competition continuum.
+Planning should incorporate the delegation of authorities necessary to execute
+operations. During preparation and execution, iterative planning adapts to address
+> 7For additional information on planning and design, s ee AFDP 5 -0,Planning ,JP 5 -0, Joint Planning ,JP
+> 3-30 ,Joint Air Operations , and Air Force Tactics ,Techniques , and Procedures (AFTTP )3-3.AOC ,Combat
+> Fundamentals Air Operations Center .
+History of the C2 Process
+The C2 process is not a new concept. It was previously titled “The Common
+Operations Framework” in the 2016 version of AFDP 3 -0, Operations and Planning .
+Additionally, the sequence of “design, plan, execute, and assess” has been
+established in USAF doctrine since the 1998 version of Air Force Doctrine
+Document 2, Organization and Employment of Aerospace Power , and the
+framework of “planning, preparing, executing, and assessing” is currently described
+as the operations process in US Army doctrine (Army Doctrine Pub lication [ ADP ] 5-
+0, The Operations Process ). Air Force Doctrine Publication 3 -0.1 , Command and Control
+11
+changing conditions in the OE .
+Planning is the process through which Airmen tailor the tenets of Airpower to the OE and
+provide air and cross -domain solutions to achieve national and military objectives.
+Depending on the desired output, there are several different planning methodologies that
+are applicable to Airmen. These include the joint planning process (JPP) , the joint
+planning process for air (JPPA) , and the Air Force Planning Process (AFPP) .
+Design. Design is the conception and construction of the framework that underpins
+planning. The operational design framework involves a continual effort to understand the
+strategic guidance, understand the OE , define the problem, and develop a description of
+the broad actions needed to achieve the objective . Design provides and shapes the
+foundation of C2 for operations, regardless of the level of war. Its principal purpose is to
+
+
+第 19 页
+distill clarity from complexity through a b road perspective that deepens understanding
+and visualiz es the problem. Additionally , design clearly identifies the problem and informs
+the iterative problem -solving process . The single most important element of design is the
+objective. Therefore, t he objective should be determined first to determine why the
+mission is being conducted. Objectives may be defined by a military end -state , higher
+echelon intent, or directed by policy or strategy. Design anchors the C2 process to a
+commander .
+Design at all levels supports commanders and planners in organizing and understanding
+the OE as a complex interactive system . Each level of design is guided by higher echelon
+design and planning activities. It provides context for decision -making and enables
+commanders to accomplish planning, preparing, executing, and assessing. As a
+framework, d esign provides the necessary “front end” to planning , allows focused
+adaptation in preparation and execution, and serves as the measure for assessment
+activities . Design underpins planning and anchors the other activities to the overarching
+analytical framework for the operation. Ultimately, d esign results in approaches that align
+activities with the overall strategic plan and provide the initial commander’s intent for the
+operation or mission. 8
+> 8For additional information on planning as a C2 activity , see AFDP 5 -0, Planning .
+“Design does not replace planning, but planning is
+incomplete without design. The balance between the two varies
+from operation to operation as well as within each operation.
+Design helps the commander provide enough structure to an
+ill -structured problem so that planning can lead to effective action
+toward strategic objectives [emphasis in original] .”
+–General James N. Matti s, USMC (Ret)
+26 th Secretary of Defense Air Force Doctrine Publication 3 -0.1 , Command and Control
+12
+
+
+第 20 页
+PREPARING
+Preparing represents the overlapping activities between planning and execution used to
+share information, gain consensus, explain tasks, and optimize operations. Effective
+preparation includes rehearsals or exercises to ensure transition activities are
+understood , inspections and checks to verify readiness , and timely back -briefs to
+address lessons learned prior to execution .
+Preparing encompasses the coordinating, refining , and transitioning actions
+necessary to ensure positive communication and successful execution among superior,
+subordinate, and parallel forces. Preparing ensures a seamless transition from planning
+to execution by establishing a common operational picture. This enables a smooth
+handoff from planners to executors, ensuring that all stakeholders are aligned and aware
+of their roles and responsibilities. Key indicators of a successful transition include:
+• Availability of required resources and support .
+• Clear understanding of tasks, responsibilities, and timelines .
+• Effective communication and coordination among different
+units and agencies .
+• Timely and accurate exchange of information between
+planners and executors .
+Coordinating . Coordination is defined as the necessary actions to ensure adequate
+information exchange that integrates, synchronizes, and deconflicts operations between
+separate organizations . It involves sharing information to gain consensus, explain ing
+tasks, and optimiz ing operations. Coordination in advance of execution is critical to
+ensuring that required support is available . Commanders should share information (both
+vertical ly and horizontal ly ) to produce trusting relationships , and secure agreement s
+
+
+第 21 页
+necessary for efficient multinational and joint operations. Coordination’s benefits include
+minimizing the risk of fratricide through deconfliction and increasing overall understanding
+of the OE . Coordination does not replace formal approval process es . It is normally used
+between functions of a supporting staff.
+Direct liaison authorized ( DIRLAUTH ) is used to coordinate with an organization outside
+of the immediate staff or organization, or between component staffs. Although each
+component of a joint force develops its own plan as part of the JFC’s overall effort, these
+plans are most successful if they are coordinated among the Service components. Plans
+should be coordinated with as much time as possible before execution, to ensure all
+required support is coordinated for the operation.
+Preparing as a Unique Step
+Previous categorization of major C2 activities considered preparing sub -activities at
+the end of planning or the beginning of execution. Numerous lessons learned have
+identified that th e lack of a distinct preparing activi ty led to planning and execution
+oversights for the time and resource requirements necessary to execut e operations .Air Force Doctrine Publication 3
+-0.1 , Command and Control
+13
+Examples of coordinating actions include sharing Intelligence, Surveillance, and
+Reconnaissance (ISR) assets with joint force components ; coordinating with tanker and
+airlift units for refueling and transportation support ; and synchronizing airspace
+management with adjacent units .
+Refinin g. Refining is the modification of the planned concept of operations due to
+changes realized prior to execution . This ensures that the plan remains relevant and
+effective in response to changing circumstances.
+Examples of refining actions include a djusting the air tasking order (ATO) based on
+changing space or terrestrial weather conditions, refining target lists based on new
+intelligence, and updating the airspace control plan (ACP) to accommodate additional
+
+
+第 22 页
+aircraft.
+Transitioning . Transitioning is a process that includes the final activities before
+execution. Commanders hold rehearsals and exercise s to ensure the staff is ready to
+proceed to execution. Checklists are generated and a battle rhythm is established to
+support the commander’s decision cycle. Inspections verify the readiness of subordinate
+units to ensure they understand their mission. Finally, lessons learned are communicated
+as the long -range planners formally hand off their plan to the operation executors .
+Transition generally ends with an order that puts the plan into action.
+EXECUT ING
+Execution is putting a plan into action while using situational understanding to assess
+progress and adjust operations as the situation changes . C2 in execution focuses on
+activities and decisions to seize and retain the initiative, build, and maintain
+momentum, and exploit success . Through C2 in execution, the commander can
+monitor and adapt operations, as necessary. Therefore, C2 in execution is directly linked
+to the commander’s decision cycle because commanders, staffs, and subordinate
+commanders focus their efforts on translating decisions into actions. They direct action to
+apply combat power at decisive points and times to achieve objectives and accomplish
+missions. Furthermore, e xecuting includes integrating and synchronizing operations
+based on the changes enacted by subordinate units.
+Generati on. The first execution activity is usually generation. Generating includes
+posturing forces aligned with the plan and capable of executing the commander’s intent.
+The actions required to generate airpower happen across a spectrum of organizations
+and processes ranging from mission generation up through global force management
+(e.g. , global force deployments, time -phased force and deployment data [TPFDD ]
+management, establishing alert status, transloading). Examples of generating actions
+include p os turing squadrons for combat operations, generating sorties, and tasking air
+defense systems.
+
+
+第 23 页
+Execution marks a fundamental shift in the role of the commander. Whereas the
+commander is heavily involved in planning and preparing, their role changes during
+execution to empowe r subordinates to make decisions on their behalf. This fundamental
+shift in C2 during execution is key to achieving decentralized execution under the mission
+command philosophy. Air Force Doctrine Publication 3 -0.1 , Command and Control
+14
+Execution begins upon the direction of the commander. There are many methods
+that a commander can use to issue an execution order. In general, the air component
+commander and subordinate echelons may use a MTO technique to clearly communicate
+commander’s intent and empower Airmen to make effective on -scene decisions during
+complex, rapidly unfolding operations.
+Decentralized execution is the fundamental characteristic of operations guided by
+a mission command philosophy. The imperative for decentralized execution stems
+from the premise that decisions regarding tactical employment are optimized when made
+by those closest to the fight. Tactically proficient Airmen, armed with clear commander's
+intent and a shared understanding of an operation's purpose and wider operational and
+strategic context, maximize airpower's lethality. History shows that the rapidity of acti on
+generated by decentralized execution is the surest method of operating inside the
+enemy’s decision cycle. Decentralized execution promotes effectiveness and resilience
+at the tactical level .
+Battle Management. C2 in execution is battle management —the management of
+activities within the OE based on the commands, direction, and guidance given by
+appropriate authority. These activities include the process of directing weapons , sensors ,
+and support , within the commander's defined acceptable level of risk , to achieve the
+commander’s intent . Battle management allows the direct and often real -time monitoring
+of operations based on commander’s intent and the scope of a commander’s orders. The
+results of effective battle management include timely decisions, communicated
+
+
+第 24 页
+assessments, and solved problems. Battle management enables decentralized
+operations through C2 nodes.
+C2 Nodes. C2 nodes are element s of a C2 system that represent people, places, or
+physical objects that execute decentralized operations. Common examples of C2 nodes
+include the elements in the theater air control system (TACS) such as mission
+commanders (MC s), Airborne Warning and Control System (AWACS ), forward air
+controllers (FAC s), and battle control centers (BCC s). Nodes may span several levels of
+Battle Management Example: Global Air Mobility Adjustment
+Battle management us es a variety of C2 systems. For air mobility operations, the
+Global Air Mobility Support System (GAMSS) is the C2 system that enable s air
+mobility operations . During execution, GAMSS C2 nodes perform battle
+management to meet dynamic changes in the OE .
+For example, on 16 April 2010, Iceland’s Eyjafjallajökull volcano erupted, spewing
+an ash cloud that closed much of Europe’s airspace . In response, nearly 400
+airlift, tanker, and aeromedical evacuation missions battle managed by the 618
+AOC were rerouted to ensure the continued delivery of personnel and equipment
+to support surge operations in Afghanistan and Iraq. In the end, effective C2 in
+execution rerouted over 600 missions, moved over 17,000 tons of supplies, and
+transported over 47,000 people to overcome unplanned hazards. Air Force Doctrine Publication 3 -0.1 , Command and
+Control
+15
+operations and have varying levels of capability. C2 nodes should understand their
+authorities, roles in decision -making and execution, and relationship to other nodes.
+Tactical C2. Some C2 nodes are known as t actical C2 (TAC C2) . TAC C2 are the
+elements conducting battle management at a tactical level, even if those tactical actions
+have theater -wide effects. Generally, TAC C2 manages specific missions. Missions are
+essential tasks, together with the purpose, that clearly indicate the action to be taken and
+the reason for the action. Missions are generally related to the air component in the form
+
+
+第 25 页
+of dispatching aircraft to accomplish tasks. Mission execution begins with t he decision for
+mission launch and includes all functions necessary to ensure effective accomplishment.
+ASSESSING
+Assessment starts when defining tactical tasks and objectives. Assessment is a continual
+activity where the staff observes the OE and incremental progress toward the
+end -state(s). Assessment drives changes to plans and strategy . Operational
+assessments help the commander and staff determine progress toward mission
+accomplishmen t. Assessment results enhance the commander’s decision -making
+capability, directing more effective operations, and addressing a constantly evolving OE.
+A secondary purpose is to maintain alignment with higher headquarters ( HHQ ) priorities,
+scheme s of maneuver, and operational objectives.
+Integrating assessment into planning , preparing, and execution can help commanders
+and staffs at any echelon to:
+• Develop mission success criteria to address specified and
+essential tasks .
+• Compare observed OE conditions to desired objectives and/or
+end -state conditions.
+• Determine validity of key planning facts and assumptions.
+• During execution, determine whether the desired effects have
+been created and
+whether the objectives are being achieved.
+• During execution, assess the effectiveness of allocated
+resources against objectives,
+
+
+第 26 页
+task s, effects, and mission performance.
+• Determine whether an increase, decrease or change to
+resources is required.
+• Identify the risks and barriers to mission accomplishment.
+• Identify opportunities to accelerate mission accomplishment.
+Fundamental Principles. The assessment activity consists of the following fundamental
+principles :
+• Identify information and intelligence requirements . During
+planning, acquiring a
+baseline understanding assists in setting objectives and determining thresholds for
+success and failure. Air Force Doctrine Publication 3 -0.1 , Command and Control
+16
+• Develop or modify the assessment plan . Linking information
+and intelligence
+requirements to appropriate measures and indicators and containing a collection plan
+to gather appropriate data.
+• Collect information and intelligence . During execution, forces
+use the collection
+plan and defined reporting procedures to gather information about the environment
+and ongoing operations.
+• Conduct periodic or event -based assessments . Commanders
+and their staffs
+
+
+第 27 页
+usually conduct an assessment based on events or at specified intervals during an
+operation.
+• Conduct change reporting . Commanders are especially
+interested in learning how
+friendly or enemy behavior has changed from expectations or norms established
+earlier in prior operations. While many initial reports may prove false or are regarded
+as outliers, once a pattern of change is reliably perceived or discerned by
+assessment, it should be highlighted for commanders’ attention.
+• Provide feedback . Assessment reports inform the
+commander and other
+stakeholders about current conditions and communicate progress toward desired
+objectives and end -states.
+Assessment Considerations. Assessment is a continuous process that measures the
+overall effectiveness of employing capabilities during military operations. It is also the
+determination of the progress toward accomplishing a task, creating a condition, or
+achieving an objective . Assessment support s a commander’s decision -making process
+by providing insight into the effectiveness of the ir strategy and accompanying plans. Many
+types of assessment exist and may be used to support operations . Still, assessment in
+this document refers to activities that support the commander’s decision -making process.
+In an effects -based approach , assessment should provide the commander with the
+answers to these basic questions:
+• Are we doing things right (measures of performance) ?
+• Are we doing the right things (measures of effectiveness) ?
+
+
+第 28 页
+• Are we measuring the right things?
+The first question addresses the performance of planned air operations by assessing the
+completion of tasks . The second question addresses the level at which the commander’s
+desired effects are being observed in the OE and prompts an examinati on of the links
+between performance and effects. Finally, t he third question addresses the assessment
+process and the importance of understanding how one chooses to measure the links
+between performance, cause, and effect. When appropriately determined , the answers
+to these questions should provide the commander with valid information to base decisions
+about adapting strategy.
+While often depicted as a separate stage of the air tasking cycle for conceptual clarity,
+assessment is interwoven throughout operational design , planning, and execution. The Air Force Doctrine Publication 3
+-0.1 , Command and Control
+17
+assessment process should begin as the broad strategy is laid out (including the
+development of assessment criteria) . It continue s through detailed planning (with the
+development of metrics and data sources) . Finally, it extend s to the evaluation of
+measures during and after execution. This process is iterative as assessment results
+influence future strategy and planning.
+Assessment consolidates data from many sources and should summarize that data
+concisely and in context. It should follow a rigorous, defensible analytical process that
+allows commanders and planners to view details of methods used and results produced.
+It communicates relevant uncertainty in the data and the associated risks. In short,
+assessment should allow judgments on a commander’s strategy supported by analysis .
+APPLYING THE COMMAND AND CONTROL PROCESS
+Assigning an operation to a subordinate commander and establishing an appropriate
+force structure are requisites for conducting the C2 process within the CC -DC -DE
+
+
+第 29 页
+framework . The following section provides considerations for applying the C2 process to
+realize distributed control.
+ASSIGNING OPERATIONS AND AUTHORITIES
+To distribute control, the air component commander c learly defin es and assig ns
+an operation, with authority to conduct the corresponding C2 process, to a
+subordinate commander . In this context, certain limitations may be imposed by the air
+component commander to delineate the extent of authority delegated to a subordinate
+commander. Since the C2 process is conducted for a specific operation, there may be
+instances where a subordinate unit has Distributed Control for some operations while the
+air component c ommander retains control of others. The vignette on page 21 provides an
+example of distributing control to a subordinate echelon with a specific operation with an
+associated operational area. In this case, the 7440 th Composite Wing (CW) commander
+was directed to open a second front in the Gulf War and accomplish several clearly
+defined tasks. The mechanism for transmitting commander’s intent and authorities to the
+7440 CW was an order .
+An order is a communication, written, oral, or by signal, which conveys instructions from
+a superior to a subordinate. Orders that delegate authority to conduct the C2 process
+should focus on the purpose of the operation rather than details of how to perform
+assigned tasks. Furthermore, they should specify delegated authorities that are enduring,
+temporary, or conditions -based. 9
+FORCE STRUCTURE
+There is no mandatory structure for realizing CC -DC -DE in operations. However,
+there are established USAF organizations that facilitate C2 through the CC -DC -DE
+framework. The most relevant USAF structure is the air expeditionary task force (AETF).
+When established, AETFs may fill the role of a Service component command or as a
+subordinate Service command, generally below the CCMD -level. AETFs are scalable,
+> 9For additional information on orders, see AFDP 5 -0, Planning .
+
+
+第 30 页
+Air Force Doctrine Publication 3 -0.1 , Command and Control
+18
+tailorable organization s with three elements: a single, clearly designated commander ,
+appropriate C2 mechanisms , and tailored and fully supported forces . AETFs provide
+JFC s with a task -organized and integrated package with the appropriate balance of force
+sustainment, C2, and force protection .10
+An air component commander may delegate an AETF commander specific operational
+authorities (derived from their specified command relationship) that are sufficient to
+conduct the C2 process for their assigned or attached forces. This model supports
+operations within the framework of CC -DC -DE because the theater air component
+commander maintains centralized command through their specified command
+relationship (OPCON established by the CCDR), and the AETF operates with Distributed
+Control as a sub -theater echelon. Subsequently, the tactical echelon commanders are
+delegated execution authority to enable decentralized operations.
+Distributed Control may be replicated across several sub -theater or “middle” echelons.
+During normal operations, AETF commanders, while conducting the C2 process for their
+assigned operations, continuously communicate, coordinate, and synchronize their
+operations with the theater air component commander and horizontally with other AETFs.
+The theater air component commander is able to reprioritize and adjust the C2 activities
+of the AETFs as necessary to meet the overall CCMD mission.
+In a contested, degraded, or operationally limited environment, the AETF has the
+necessary authority to C2 its forces when disconnected from the theater air component
+commander. By delegating sufficient operational authorities and exercising them prior to
+the degraded environment, the air component can continue effective air operations. See
+the following “Distributed Control Examples” for a depiction of how an AETF may conduct
+the C2 process at an echelon below the theater air component level.
+> 10 For additional information on AETFs, see AFDP 3 -0, Operations .
+
+
+第 31 页
+Sub -Theater Force Presentation Terminology
+The USAF is actively iterating through terminology to describe levels of sub -theater
+command. In the following figures, the level below the theater is referred to as the
+sub -theater or “middle” echelon. Another commonly used term is the “3rd echelon.”
+Rega rdless of naming convention, the intent is to describe force structure below
+the CCMD level. Air Force Doctrine Publication 3 -0.1 , Command and Control
+19
+Distributed Control Example 1 of 3
+Distributed Control Example 2 of 3Air Force Doctrine Publication 3 -0.1 , Command and Control
+20
+Distributed Control Example 3 of 3Air Force Doctrine Publication 3 -0.1 , Command and Control
+21
+JOINT TASK FORCE PROVEN FORCE:
+A Historical Example of Distributed Control
+An air component commander may choose to exercise Distributed Control
+through an air task force (ATF) or combat wing. As units of action advance their
+C2 capabilities with empowered commanders, operations centers, and robust
+staffs, they may gain the capacity to conduct the C2 process for their assigned
+forces. The following example from Joint Task Force (JTF) Proven Force highlights
+how a combat wing or ATF may operate with Distributed Control.
+During the Gulf War of 1990 -1991, the 7440th Composite Wing
+(CW) (Provisional), the combat arm of JTF Proven Force, was
+staffed to support combat operations and composed of airframes
+capable of strike, suppression of enemy air defenses, electronic
+warfare, surveillance and reconnaissance, counterair, refueling,
+and res cue. Resourced with the necessary organic capabilities, the
+wing was able to launch its own strike packages without assistance
+
+
+第 32 页
+from US Air Forces Central (CENTAF).
+CENTAF provided the wing a n order to open a second Iraqi front whenever
+possible. The order included three broad tasks: 1) deny sanctuary to the Iraqi Air
+Force by attacking Iraq’s northern air bases , 2) tie down Iraqi ground forces near
+the Turkish border , and 3) attack nuclear, biological, and chemical facilities in
+northern Iraq. Because some of the wing’s aircraft lacked the range to attack south
+of Baghdad, the wing was assigned a large area of responsibility in northern Iraq.
+However, CENTAF retained command authority over the wing’s operational plans
+as well as the authority to task the wing by exception.
+The wing commander, Brig Gen Downer, operated in accordance with
+commander’s intent, but the method of accomplishing the three broad tasks was
+left to him. The wing issued its squadrons orders and allowed mission commanders
+to build strike packages. The 7440th produced its own air tasking order (ATO) and
+flew 50 -60 combat sorties per day in two or three waves at General Downer’s
+discretion. CENTAF occasionally tasked the wing by exception , otherwise, General
+Horner empowered General Downer to effectively “f ight” with his wing.
+Ultimately, the 7440 CW had the authority, capability, and capacity to conduct the
+entire C2 process. Gen Downer and the 7440 CW planned, prepared, executed,
+and assessed operations with distributed authority from the CENTAF commander.
+JTF Proven Force represents a practical example of a decentralized operation
+conducted through the mission comman d philosophy and framework.
+–Derived from the Gulf War Air Power Survey and a thesis presented to the
+USAF’s School of Advanced Airpower Studies by Major Michael E. Fischer Air Force Doctrine Publication 3 -0.1 ,
+Command and Control
+22

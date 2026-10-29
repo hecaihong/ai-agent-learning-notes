@@ -1,0 +1,236 @@
+{
+  "status": "source_prepared_only_no_model_calls",
+  "record_date": "2026-10-26",
+  "source_pdf": "AFDP_3-0.1_Command_and_Control_2025_文本镜像转换版.pdf",
+  "source_sha256": "9ae41ef67b62aac53e01f8da51d891e1caed6c648048dc760de0c31f0f6ddb37",
+  "local_pdf_pages": 91,
+  "selected_chapter": "Chapter 2: The Command and Control Process",
+  "local_pdf_page_span": [
+    16,
+    32
+  ],
+  "chapter_start_marker": "CHAPTER 2: THE COMMAND AND CONTROL PROCESS",
+  "chapter_end_exclusive_marker": "CHAPTER 3: COMMAND AND CONTROL SYSTEM S",
+  "raw_characters": 30559,
+  "clean_characters": 29631,
+  "clean_text_sha256": "cb1d1625755d0b8abc55f39b1a8cd4f1fc9f7e4c385996f91965c6a7922d9479",
+  "coverage_check": "ordered unit bodies reproduce complete cleaned chapter exactly",
+  "units": [
+    {
+      "file": "inputs/01_overview_and_planning.md",
+      "title": "Chapter 2 Part 1 - Overview and Planning",
+      "pdf_pages": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "clean_start": 0,
+      "clean_end": 7036,
+      "characters": 7036,
+      "approx_english_words": 1012,
+      "sha256": "5731da30ef55944a50f56e0685c8a4f766fafd455e0a90cce4d7a645faa3efee"
+    },
+    {
+      "file": "inputs/02_preparing_and_execution.md",
+      "title": "Chapter 2 Part 2 - Preparing and Execution",
+      "pdf_pages": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "clean_start": 7036,
+      "clean_end": 16906,
+      "characters": 9870,
+      "approx_english_words": 1385,
+      "sha256": "1955b979117e570189d91ec7a3df63b733c879e0c20320be8056bc93c6a88a37"
+    },
+    {
+      "file": "inputs/03_assessing.md",
+      "title": "Chapter 2 Part 3 - Assessing",
+      "pdf_pages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "clean_start": 16906,
+      "clean_end": 22229,
+      "characters": 5323,
+      "approx_english_words": 738,
+      "sha256": "6e72a8fce02556e6f127999cdfd51c6f4ae1bf8a637f036494aa61c343f6c1d0"
+    },
+    {
+      "file": "inputs/04_applying_the_process.md",
+      "title": "Chapter 2 Part 4 - Applying the C2 Process",
+      "pdf_pages": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "clean_start": 22229,
+      "clean_end": 29631,
+      "characters": 7402,
+      "approx_english_words": 1086,
+      "sha256": "3382cf0411c51d6d36643be81cc2db0ace9d71bd460d42233e38d8b5be0f7dbe"
+    }
+  ],
+  "cleaning_operations": [
+    {
+      "pdf_page": 17,
+      "type": "mirror_page_marker",
+      "removed": "第 17 页\n"
+    },
+    {
+      "pdf_page": 17,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n10"
+    },
+    {
+      "pdf_page": 18,
+      "type": "mirror_page_marker",
+      "removed": "第 18 页\n"
+    },
+    {
+      "pdf_page": 18,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n11"
+    },
+    {
+      "pdf_page": 19,
+      "type": "mirror_page_marker",
+      "removed": "第 19 页\n"
+    },
+    {
+      "pdf_page": 19,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n12"
+    },
+    {
+      "pdf_page": 20,
+      "type": "mirror_page_marker",
+      "removed": "第 20 页\n"
+    },
+    {
+      "pdf_page": 21,
+      "type": "mirror_page_marker",
+      "removed": "第 21 页\n"
+    },
+    {
+      "pdf_page": 21,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3\n-0.1 , Command and Control\n13"
+    },
+    {
+      "pdf_page": 22,
+      "type": "mirror_page_marker",
+      "removed": "第 22 页\n"
+    },
+    {
+      "pdf_page": 23,
+      "type": "mirror_page_marker",
+      "removed": "第 23 页\n"
+    },
+    {
+      "pdf_page": 23,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n14"
+    },
+    {
+      "pdf_page": 24,
+      "type": "mirror_page_marker",
+      "removed": "第 24 页\n"
+    },
+    {
+      "pdf_page": 24,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and\nControl\n15"
+    },
+    {
+      "pdf_page": 25,
+      "type": "mirror_page_marker",
+      "removed": "第 25 页\n"
+    },
+    {
+      "pdf_page": 26,
+      "type": "mirror_page_marker",
+      "removed": "第 26 页\n"
+    },
+    {
+      "pdf_page": 26,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n16"
+    },
+    {
+      "pdf_page": 27,
+      "type": "mirror_page_marker",
+      "removed": "第 27 页\n"
+    },
+    {
+      "pdf_page": 28,
+      "type": "mirror_page_marker",
+      "removed": "第 28 页\n"
+    },
+    {
+      "pdf_page": 28,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3\n-0.1 , Command and Control\n17"
+    },
+    {
+      "pdf_page": 29,
+      "type": "mirror_page_marker",
+      "removed": "第 29 页\n"
+    },
+    {
+      "pdf_page": 30,
+      "type": "mirror_page_marker",
+      "removed": "第 30 页\n"
+    },
+    {
+      "pdf_page": 30,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n18"
+    },
+    {
+      "pdf_page": 31,
+      "type": "mirror_page_marker",
+      "removed": "第 31 页\n"
+    },
+    {
+      "pdf_page": 31,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n19"
+    },
+    {
+      "pdf_page": 31,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n20"
+    },
+    {
+      "pdf_page": 31,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 , Command and Control\n21"
+    },
+    {
+      "pdf_page": 32,
+      "type": "mirror_page_marker",
+      "removed": "第 32 页\n"
+    },
+    {
+      "pdf_page": 32,
+      "type": "running_header_and_original_page_number",
+      "removed": "Air Force Doctrine Publication 3 -0.1 ,\nCommand and Control\n22"
+    }
+  ],
+  "source_limitations": [
+    "Local text-mirror conversion, not publisher original layout.",
+    "No embedded images; figure references may remain without figures.",
+    "Word spacing and line wrapping retained; no inferred word repairs."
+  ],
+  "source_changed": false
+}

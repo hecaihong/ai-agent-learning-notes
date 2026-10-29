@@ -1,0 +1,35 @@
+{
+  "agent": "Glossary",
+  "stage": "extraction",
+  "unit_id": null,
+  "note": "完整章节术语提取；不设置数量上限；须包含低频关键术语与原文依据",
+  "directory": "agents/001_glossary_extraction",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-26T15:01:06.221083+00:00",
+  "status": "failed",
+  "manual_review": "pending",
+  "review_questions": [
+    "术语是否确实出现在本章？",
+    "译法是否符合此处语境？",
+    "是否遗漏关键概念或缩写？"
+  ],
+  "response_id": "819a2b53-0188-4c0a-b0d4-16cac2201b50",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 8193,
+    "prompt_tokens": 6213,
+    "total_tokens": 14406,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 6213
+  },
+  "finish_reason": "length",
+  "error_type": "ValueError",
+  "error_message": "模型未正常结束：finish_reason=length",
+  "latency_seconds": 31.243
+}

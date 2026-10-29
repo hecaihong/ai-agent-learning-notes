@@ -1,0 +1,132 @@
+{
+  "scope": "32项固定检查点，助手辅助单人评审，非全文准确率或专家验收",
+  "accuracy": {
+    "old_draft": {
+      "correct": 29,
+      "total": 32,
+      "percent": 90.625,
+      "failed_checkpoints": [
+        "A14",
+        "A15",
+        "A32"
+      ]
+    },
+    "old_final": {
+      "correct": 27,
+      "total": 32,
+      "percent": 84.375,
+      "failed_checkpoints": [
+        "A14",
+        "A15",
+        "A16",
+        "A23",
+        "A32"
+      ]
+    },
+    "new_draft": {
+      "correct": 30,
+      "total": 32,
+      "percent": 93.75,
+      "failed_checkpoints": [
+        "A15",
+        "A16"
+      ]
+    }
+  },
+  "fluency": {
+    "old_draft": {
+      "unit_means": [
+        3.5,
+        2.0,
+        3.75,
+        2.5
+      ],
+      "mean": 2.9375,
+      "scale": 5,
+      "reviewer": "助手按预先固定量表评分"
+    },
+    "old_final": {
+      "unit_means": [
+        4.0,
+        2.5,
+        3.75,
+        3.75
+      ],
+      "mean": 3.5,
+      "scale": 5,
+      "reviewer": "助手按预先固定量表评分"
+    },
+    "new_draft": {
+      "unit_means": [
+        3.5,
+        2.5,
+        4.0,
+        3.0
+      ],
+      "mean": 3.25,
+      "scale": 5,
+      "reviewer": "助手按预先固定量表评分"
+    }
+  },
+  "glossary": {
+    "old_entries": 81,
+    "new_initial_entries": 72,
+    "critical_acronym_coverage": {
+      "old": [],
+      "new": [
+        "DIRLAUTH",
+        "OPCON",
+        "CCMD",
+        "JFC",
+        "MTO",
+        "OE"
+      ]
+    },
+    "invalid_refinement_ids": [
+      "T116"
+    ]
+  },
+  "proofreading": {
+    "old": {
+      "counts": {
+        "N": 17,
+        "P": 3,
+        "T": 11,
+        "F": 2,
+        "U": 3
+      },
+      "adjudicated": 30,
+      "total": 36,
+      "confirmed_ratio_among_adjudicated": 0.36666666666666664
+    },
+    "new": {
+      "counts": {
+        "T": 9,
+        "N": 7,
+        "F": 1,
+        "P": 1,
+        "U": 3
+      },
+      "adjudicated": 17,
+      "total": 21,
+      "confirmed_ratio_among_adjudicated": 0.5294117647058824
+    }
+  },
+  "runtime": {
+    "old_calls": 11,
+    "new_unique_calls": 8,
+    "replayed_in_continuation": 6,
+    "new_requests_in_continuation": 2,
+    "old_total_tokens": 62920,
+    "new_total_tokens": 151515,
+    "new_workflow_status": "failed",
+    "new_revision_available": false,
+    "new_final_review_available": false
+  },
+  "annotation_sha256": {
+    "accuracy_checkpoints.json": "52b6202b1d3bfe4d9864f6c0652b400699d66223e2473dc9e1d04b163e039d4a",
+    "accuracy_annotations.json": "9b462f515b4ca339afc0f820337544d3b8726595ddf608595b3831980c73dad4",
+    "fluency_annotations.json": "78424411e8976689dc3358835e2622162a3b951552e3375a6194f534bba9089c",
+    "proofreading_annotations.json": "9944ad6c6cb6f43b2384698fde1f32665092989e06122d7d2031dd0b84d2459f"
+  }
+}

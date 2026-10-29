@@ -1,0 +1,33 @@
+{
+  "agent": "Proofreading",
+  "stage": "initial_review",
+  "unit_id": null,
+  "note": "一致性审校",
+  "directory": "agents/006_proofreading_initial_review",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-26T14:48:56.507775+00:00",
+  "status": "format_valid_semantics_unreviewed",
+  "manual_review": "pending",
+  "review_questions": [
+    "指出的问题能否在译文中定位？",
+    "问题是否真实，建议是否可执行？",
+    "是否漏掉了人工发现的问题？本角色未读取原文。"
+  ],
+  "response_id": "15d674ad-afed-4f66-b846-62218ac84f7d",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 1430,
+    "prompt_tokens": 5138,
+    "total_tokens": 6568,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 5138
+  },
+  "finish_reason": "stop",
+  "latency_seconds": 7.264
+}

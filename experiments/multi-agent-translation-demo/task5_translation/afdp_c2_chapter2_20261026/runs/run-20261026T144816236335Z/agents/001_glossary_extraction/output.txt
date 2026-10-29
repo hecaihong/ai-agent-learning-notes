@@ -1,0 +1,64 @@
+{
+  "glossary": [
+    {
+      "en": "Command and Control (C2)",
+      "zh": "指挥与控制",
+      "pos": "noun",
+      "context": "The overarching process and authority by which a commander directs and controls forces, consisting of planning, preparing, executing, and assessing."
+    },
+    {
+      "en": "C2 Process",
+      "zh": "指挥与控制流程",
+      "pos": "noun",
+      "context": "The iterative series of major activities (planning, preparing, executing, assessing) led by a commander to conduct command and control."
+    },
+    {
+      "en": "Distributed Control",
+      "zh": "分布式控制",
+      "pos": "noun",
+      "context": "A component of the CC-DC-DE framework where authority to run the C2 process is delegated to subordinate commanders."
+    },
+    {
+      "en": "Decentralized Execution",
+      "zh": "分散执行",
+      "pos": "noun",
+      "context": "The execution of operations by subordinates closest to the fight, empowered by commander's intent, a key tenet of mission command."
+    },
+    {
+      "en": "Commander's Intent",
+      "zh": "指挥官意图",
+      "pos": "noun",
+      "context": "A clear and concise expression of the purpose and desired end state of an operation, guiding subordinates' actions."
+    },
+    {
+      "en": "Operational Environment (OE)",
+      "zh": "作战环境",
+      "pos": "noun",
+      "context": "The composite of conditions, circumstances, and influences that affect the employment of capabilities and bear on decisions."
+    },
+    {
+      "en": "Air Tasking Order (ATO)",
+      "zh": "空中任务指令",
+      "pos": "noun",
+      "context": "A document that tasks air assets for a specific period, often refined during preparation and execution."
+    },
+    {
+      "en": "Battle Management",
+      "zh": "战斗管理",
+      "pos": "noun",
+      "context": "The management of activities within the operational environment based on commander's guidance, often conducted through C2 nodes."
+    },
+    {
+      "en": "Assessment",
+      "zh": "评估",
+      "pos": "noun",
+      "context": "A continuous C2 activity that measures progress toward objectives and informs decision-making."
+    },
+    {
+      "en": "Air Expeditionary Task Force (AETF)",
+      "zh": "空中远征特遣部队",
+      "pos": "noun",
+      "context": "A scalable USAF organization with a designated commander, C2 mechanisms, and tailored forces, used to implement the CC-DC-DE framework."
+    }
+  ]
+}

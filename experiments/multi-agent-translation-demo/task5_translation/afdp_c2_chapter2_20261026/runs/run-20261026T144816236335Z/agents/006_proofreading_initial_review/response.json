@@ -1,0 +1,38 @@
+{
+  "id": "15d674ad-afed-4f66-b846-62218ac84f7d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"issues\": [{\"chapter\": \"Chapter 2 Part 1 - Overview and Planning\", \"type\": \"术语不一致\", \"detail\": \"“subordinate commanders”未翻译，保留英文，应译为“下级指挥官”。\"}, {\"chapter\": \"Chapter 2 Part 1 - Overview and Planning\", \"type\": \"术语不一致\", \"detail\": \"“CC-DC-DE 框架”未按术语表展开，应统一为“指挥与控制—分布式控制—分散执行（CC-DC-DE）框架”，与后文一致。\"}, {\"chapter\": \"Chapter 2 Part 1 - Overview and Planning\", \"type\": \"术语不一致\", \"detail\": \"“计划”一节中“计划流程（JPP）”与“空中联合计划流程（JPPA）”的译名与术语表“计划”条目及后文“规划”用法不统一；全文“planning”时而译“计划”、时而译“规划”（如“规划人员”“规划与执行”），需统一。\"}, {\"chapter\": \"Chapter 2 Part 2 - Preparing and Execution\", \"type\": \"术语不一致\", \"detail\": \"“规划与执行之间”与本章标题“准备”及全文“计划”术语不一致，应统一为“计划与执行”。\"}, {\"chapter\": \"Chapter 2 Part 2 - Preparing and Execution\", \"type\": \"术语不一致\", \"detail\": \"“规划人员”与“计划人员”混用（如“规划人员能够顺利将工作移交”“计划人员”），应统一。\"}, {\"chapter\": \"Chapter 2 Part 2 - Preparing and Execution\", \"type\": \"术语不一致\", \"detail\": \"“空中任务指令（ATO）”与术语表“空中任务指令”一致，但同段又出现“空中任务指令（ATO）”与“任务指令”混用，需统一。\"}, {\"chapter\": \"Chapter 2 Part 2 - Preparing and Execution\", \"type\": \"术语不一致\", \"detail\": \"“战斗管理”定义句“执行中的指挥与控制就是战斗管理”与术语表“Battle Management → 战斗管理”一致，但“指挥与控制节点”段落中“指挥与控制节点”与“C2 节点”混用，需统一。\"}, {\"chapter\": \"Chapter 2 Part 2 - Preparing and Execution\", \"type\": \"流畅性\", \"detail\": \"“生成”一词作为 execution 的首个活动，译法生硬且与“生成架次”“任务生成”混用，建议统一为“部队生成”或“兵力生成”并加注原文。\"}, {\"chapter\": \"Chapter 2 Part 3 - Assessing\", \"type\": \"术语不一致\", \"detail\": \"“accompanying 计划”中英文未译，应译为“配套计划”。\"}, {\"chapter\": \"Chapter 2 Part 3 - Assessing\", \"type\": \"术语不一致\", \"detail\": \"“性能度量”“效能度量”与“度量指标”混用，术语表未统一；建议统一为“性能度量（MOP）”“效能度量（MOE）”。\"}, {\"chapter\": \"Chapter 2 Part 3 - Assessing\", \"type\": \"前后矛盾\", \"detail\": \"“我们是否在做正确的事情（性能度量）？”与“我们是否在做正确的事情（效能度量）？”两句重复，第二句应为“我们是否在做正确的事情（效能度量）？”或“我们是否在做正确的事情（效能度量）？”——原文应为“Are we doing things right?”与“Are we doing the right things?”，译文两句均作“做正确的事情”，造成矛盾，需修正。\"}, {\"chapter\": \"Chapter 2 Part 4 - Applying the C2 Process\", \"type\": \"术语不一致\", \"detail\": \"“指挥与控制—分布式控制—分散执行（CC-DC-DE）框架”首次出现时展开，但本章前文“CC-DC-DE 框架”未展开，需统一。\"}, {\"chapter\": \"Chapter 2 Part 4 - Applying the C2 Process\", \"type\": \"术语不一致\", \"detail\": \"“空中远征特遣部队（AETF）”与术语表一致，但“空中特遣部队（ATF）”为另一术语，需确认区分并统一。\"}, {\"chapter\": \"Chapter 2 Part 4 - Applying the C2 Process\", \"type\": \"术语不一致\", \"detail\": \"“作战控制权”与“作战控制”混用；“指挥关系”与“指挥权限”混用，需统一。\"}, {\"chapter\": \"Chapter 2 Part 4 - Applying the C2 Process\", \"type\": \"流畅性\", \"detail\": \"“第7440复合联队（CW）”与“第7440复合联队（临时）（CW）”表述不一致，同一单位名称前后不统一。\"}, {\"chapter\": \"Chapter 2 Part 4 - Applying the C2 Process\", \"type\": \"术语不一致\", \"detail\": \"“任务指挥官”与“任务指挥官（MC）”一致，但“任务指挥理念”与“任务式指挥”混用（前文用“任务式指挥”），需统一为“任务式指挥”。\"}, {\"chapter\": \"Chapter 2 Part 4 - Applying the C2 Process\", \"type\": \"术语不一致\", \"detail\": \"“中央空军（CENTAF）”与“美国中央空军”混用，需统一。\"}, {\"chapter\": \"Chapter 2 Part 4 - Applying the C2 Process\", \"type\": \"流畅性\", \"detail\": \"“霍纳将军授权唐纳将军有效地以他的联队进行‘作战’”一句口语化且指代不清，建议改为“霍纳将军授权唐纳将军以其联队有效实施作战”。\"}, {\"chapter\": \"Chapter 2 Part 4 - Applying the C2 Process\", \"type\": \"术语不一致\", \"detail\": \"“例外式任务分配权限”与“以例外方式对该联队进行任务分配”表述不一致，需统一术语。\"}], \"chapters_need_revision\": [\"Chapter 2 Part 1 - Overview and Planning\", \"Chapter 2 Part 2 - Preparing and Execution\", \"Chapter 2 Part 3 - Assessing\", \"Chapter 2 Part 4 - Applying the C2 Process\"], \"summary\": \"四章译文整体可读，但存在多处术语不一致：planning 在“计划/规划”间摇摆，subordinate commanders 未译，CC-DC-DE 首次出现未展开，性能/效能度量表述重复矛盾，单位名称与“任务式指挥”等术语前后不统一。建议统一术语表用法、补译残留英文、修正评估三问的重复表述，并统一“计划人员”“任务式指挥”“空中远征特遣部队”等关键术语。\"}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793026137,
+  "model": "deepseek-flash",
+  "object": "chat.completion",
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+  "usage": {
+    "completion_tokens": 1430,
+    "prompt_tokens": 5138,
+    "total_tokens": 6568,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 5138
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "reviewer": "assistant_assisted_single_reviewer_not_expert_acceptance",
+  "labels": {
+    "T": "可确认缺陷",
+    "N": "中性提醒或合理风格偏好，不应直接当缺陷",
+    "F": "与现稿事实矛盾或无有效修复目标",
+    "P": "部分观察有效但诊断或建议不完整",
+    "U": "领域或翻译规范尚待核定"
+  },
+  "metric": "已裁定项缺陷确证率=T/(T+N+F)。P/U单列，不计为正确，也不假定为错误。此比值不是独立专家测得的总体精确率。",
+  "old": [
+    {
+      "issue_number": 1,
+      "label": "N",
+      "reason": "全称与缩写交替不自动构成误译；需先约定风格。"
+    },
+    {
+      "issue_number": 2,
+      "label": "P",
+      "reason": "术语库漏OE是真实问题，但首次给缩写后不重复属于正常写法。"
+    },
+    {
+      "issue_number": 3,
+      "label": "N",
+      "reason": "原文两组活动序列本来不同，不能因不同就当成译错。"
+    },
+    {
+      "issue_number": 4,
+      "label": "T",
+      "reason": "“将……针对……裁剪”搭配生硬，修改位置可定位。"
+    },
+    {
+      "issue_number": 5,
+      "label": "T",
+      "reason": "“构建……构思与构建”重复且拗口。"
+    },
+    {
+      "issue_number": 6,
+      "label": "N",
+      "reason": "报告自己说明使用一致、无问题，不应列为确认缺陷。"
+    },
+    {
+      "issue_number": 7,
+      "label": "N",
+      "reason": "报告自己说明两术语不同且使用正确。"
+    },
+    {
+      "issue_number": 8,
+      "label": "N",
+      "reason": "英文复数与中文/缩写单数形式不自动构成错误。"
+    },
+    {
+      "issue_number": 9,
+      "label": "N",
+      "reason": "代表了改成是主要属于润色偏好。"
+    },
+    {
+      "issue_number": 10,
+      "label": "F",
+      "reason": "建议中的第一种措辞与原句相同，未指出可执行的缺字位置。"
+    },
+    {
+      "issue_number": 11,
+      "label": "T",
+      "reason": "“它通常用于……之间”句法不完整。"
+    },
+    {
+      "issue_number": 12,
+      "label": "T",
+      "reason": "DIRLAUTH确实未在术语表，问题可核对；译名权威性另核。"
+    },
+    {
+      "issue_number": 13,
+      "label": "N",
+      "reason": "进入态势加预定属于可考虑的润色，本轮不认定为明确误译。"
+    },
+    {
+      "issue_number": 14,
+      "label": "N",
+      "reason": "原文明确写C2 in execution is battle management，不能因等同表达而怀疑译错。"
+    },
+    {
+      "issue_number": 15,
+      "label": "T",
+      "reason": "发现了跨侧栏断句；提出的“多个梯次作战行动”修法仍错误，发现与建议质量分开。"
+    },
+    {
+      "issue_number": 16,
+      "label": "P",
+      "reason": "同义词形在术语库重复是真实结构问题，但不要求译文制造不存在的差别。"
+    },
+    {
+      "issue_number": 17,
+      "label": "T",
+      "reason": "评做为明确错字。"
+    },
+    {
+      "issue_number": 18,
+      "label": "N",
+      "reason": "原文在两处重复此意，不能把忠实保留直接当翻译错误。"
+    },
+    {
+      "issue_number": 19,
+      "label": "N",
+      "reason": "泛称度量指标不自动与MOP/MOE矛盾。"
+    },
+    {
+      "issue_number": 20,
+      "label": "N",
+      "reason": "主要属于句式润色偏好，原意仍可辨认。"
+    },
+    {
+      "issue_number": 21,
+      "label": "N",
+      "reason": "原句已配中文“下级指挥官”，保留英文属风格选择，不能等同漏译。"
+    },
+    {
+      "issue_number": 22,
+      "label": "N",
+      "reason": "原句已配“海湾战争”，不等同只有英文未翻译。"
+    },
+    {
+      "issue_number": 23,
+      "label": "T",
+      "reason": "contested/degraded在正文中未提供中文。"
+    },
+    {
+      "issue_number": 24,
+      "label": "T",
+      "reason": "另一处degraded也未译，属于不同位置。"
+    },
+    {
+      "issue_number": 25,
+      "label": "N",
+      "reason": "释明后的CW与全称交替本身可接受。"
+    },
+    {
+      "issue_number": 26,
+      "label": "P",
+      "reason": "command与commander须辨别，但本条只有待确认意见，未证明现译矛盾。"
+    },
+    {
+      "issue_number": 27,
+      "label": "U",
+      "reason": "CCMD保留缩写不是自动的语义错误；首次释义要求与目标读者规范待确认。"
+    },
+    {
+      "issue_number": 28,
+      "label": "U",
+      "reason": "OPCON首次是否必须补全由翻译规范决定；不能只按有字母判错。"
+    },
+    {
+      "issue_number": 29,
+      "label": "U",
+      "reason": "JFC释义可提高可读性，但无既定规范时不直接算准确性错误。"
+    },
+    {
+      "issue_number": 30,
+      "label": "F",
+      "reason": "原初稿已有“美国中央空军（CENTAF）”，报告说首次未给中文不符合现稿。"
+    },
+    {
+      "issue_number": 31,
+      "label": "T",
+      "reason": "部队呈现术语标题生硬，属于可定位的中文表达问题；具体规范译名另核。"
+    },
+    {
+      "issue_number": 32,
+      "label": "N",
+      "reason": "原文直接给中间梯队与第三梯队的名称关系，无已确认矛盾。"
+    },
+    {
+      "issue_number": 33,
+      "label": "T",
+      "reason": "launch strike packages译“发射自己的打击包”搭配错误。"
+    },
+    {
+      "issue_number": 34,
+      "label": "N",
+      "reason": "责任区域/责任区在此基本达意，属统一风格建议。"
+    },
+    {
+      "issue_number": 35,
+      "label": "T",
+      "reason": "“有效地与其联队一起作战”表述生硬；不等于建议的每种改写都已验真。"
+    },
+    {
+      "issue_number": 36,
+      "label": "N",
+      "reason": "原文有这两层表述，不应无依据要求合并删减。"
+    }
+  ],
+  "new": [
+    {
+      "issue_number": 1,
+      "label": "T",
+      "reason": "commander在正文无中文，属于明确未译。"
+    },
+    {
+      "issue_number": 2,
+      "label": "T",
+      "reason": "operational level of warfare的层级概念不应译作战争行动层级。"
+    },
+    {
+      "issue_number": 3,
+      "label": "N",
+      "reason": "锚定于指挥官基本表达以指挥官为依托，不构成所声称的语序反转。"
+    },
+    {
+      "issue_number": 4,
+      "label": "N",
+      "reason": "可视化/形象化属于可接受表达选择，不能据此列误译。"
+    },
+    {
+      "issue_number": 5,
+      "label": "T",
+      "reason": "“用于支援参谋各部门之间”句法不完整，可改善职能措辞。"
+    },
+    {
+      "issue_number": 6,
+      "label": "T",
+      "reason": "refueling加油支援被写成燃油支援，动作与物资混淆。"
+    },
+    {
+      "issue_number": 7,
+      "label": "T",
+      "reason": "“指挥武器、传感器和支援”搭配含混，属于中文表达缺陷；重大误译等级过高。"
+    },
+    {
+      "issue_number": 8,
+      "label": "F",
+      "reason": "引文已经有“第618空中作战中心”，并且报告自己承认数字正确。"
+    },
+    {
+      "issue_number": 9,
+      "label": "P",
+      "reason": "节点句确实断裂，但能力文字在侧栏后仍存在，不能直接断言全局漏译。"
+    },
+    {
+      "issue_number": 10,
+      "label": "N",
+      "reason": "任务定义译文基本达意，建议改写本身也不更清楚。"
+    },
+    {
+      "issue_number": 11,
+      "label": "N",
+      "reason": "涵盖/针对主要为措辞偏好，不足以定为major误译。"
+    },
+    {
+      "issue_number": 12,
+      "label": "U",
+      "reason": "性能/绩效/执行度量的规范中文译名待领域核定。"
+    },
+    {
+      "issue_number": 13,
+      "label": "N",
+      "reason": "可辩护的/经得起检验为润色选择，不据此认定明确意义错误。"
+    },
+    {
+      "issue_number": 14,
+      "label": "T",
+      "reason": "正文Gulf War没有中文释义。"
+    },
+    {
+      "issue_number": 15,
+      "label": "T",
+      "reason": "另一处正文Gulf War同样没有中文释义。"
+    },
+    {
+      "issue_number": 16,
+      "label": "N",
+      "reason": "参考书名保留英文允许，不因拉丁字母自动扣分。"
+    },
+    {
+      "issue_number": 17,
+      "label": "T",
+      "reason": "作战臂属明显直译搭配问题；不把它自动算重大意义错误。"
+    },
+    {
+      "issue_number": 18,
+      "label": "N",
+      "reason": "指挥权/指挥权限在此基本对应command authority，不足以认定误译。"
+    },
+    {
+      "issue_number": 19,
+      "label": "T",
+      "reason": "fight with his wing改成驾驭联队，丢失作战含义。"
+    },
+    {
+      "issue_number": 20,
+      "label": "U",
+      "reason": "复合/混合联队的中文惯译需要领域依据；括号顺序本身不构成意义错误。"
+    },
+    {
+      "issue_number": 21,
+      "label": "U",
+      "reason": "Force Presentation中文规范译名应领域核定，不能只凭另一个直译定错。"
+    }
+  ]
+}

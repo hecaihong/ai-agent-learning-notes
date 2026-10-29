@@ -1,0 +1,4 @@
+# 此版本组合通过了发布副本的本地检查。
+openai==2.48.0
+python-dotenv==1.2.2
+tiktoken==0.13.0

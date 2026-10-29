@@ -1,0 +1,36 @@
+{
+  "agent": "Glossary",
+  "stage": "refinement",
+  "unit_id": null,
+  "note": "基于频次、章节分布、结构信号和原文依据筛选术语；不设置数量上限",
+  "directory": "agents/008_glossary_refinement",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-29T13:17:12.011009+00:00",
+  "status": "failed",
+  "manual_review": "pending",
+  "review_questions": [
+    "候选特征是否足以支持收录？",
+    "Agent 是否排除了普通词和候选噪声？",
+    "译法是否符合本章语境？",
+    "是否遗漏低频但关键的概念或缩写？"
+  ],
+  "response_id": "e2e5da60-b630-423a-8cbb-107929a24c1b",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 7111,
+    "prompt_tokens": 24330,
+    "total_tokens": 31441,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 21248
+    },
+    "prompt_cache_hit_tokens": 21248,
+    "prompt_cache_miss_tokens": 3082
+  },
+  "finish_reason": "stop",
+  "error_type": "ValueError",
+  "error_message": "Glossary Agent 排除了候选表之外的编号：T116",
+  "latency_seconds": 28.089
+}

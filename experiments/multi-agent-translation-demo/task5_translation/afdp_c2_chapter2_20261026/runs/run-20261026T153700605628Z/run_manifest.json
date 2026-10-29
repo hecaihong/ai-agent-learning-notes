@@ -1,0 +1,31 @@
+{
+  "workflow_status": "completed",
+  "quality_status": "pending_human_review",
+  "model": "deepseek-flash",
+  "source_sha256": "9ae41ef67b62aac53e01f8da51d891e1caed6c648048dc760de0c31f0f6ddb37",
+  "max_calls": 11,
+  "max_output_tokens": 8192,
+  "thinking": "disabled",
+  "automatic_retries": 0,
+  "adaptations": [
+    "复用教材翻译、审校和 Manager 角色函数，证据记录器替代原 llm_chat。",
+    "Python 先按频次、章节分布、标题、定义句、缩写和概念对生成候选；Glossary Agent 再依据术语性筛选。",
+    "Glossary 不设置术语数量上限，每条正式术语必须保留候选编号、收录理由和原文依据。",
+    "独立编排，不使用教材 EDITORIAL_MANDATE。",
+    "审校检查初稿译文，修订后的语义质量仍待人工复核。"
+  ],
+  "code_sha256": {
+    "task5_translation\\run_afdp_chapter2.py": "e6c122a0fbfe74d8605005a90807beb4a7d3f7e466bbb50e6cc4cc1c1380a3f6",
+    "task5_translation\\terminology_candidates.py": "781edeb7faf59c71a3da6e18037e067f1de624aadba7648dbe99228f7bb3799c",
+    "task5_translation\\translation_evidence.py": "a35b7ea4dc6b9ad60635e8228f855c77593577da04c78c954ac9e20a79f125eb",
+    "<PRIVATE_COURSE>\\chapter10\\book-translation\\agents.py": "7f0fd50942d617fb0917a0df0f60ccaed066cf5752a070cb213e071824afb16a"
+  },
+  "revised_units": [
+    "Chapter 2 Part 1 - Overview and Planning",
+    "Chapter 2 Part 2 - Preparing and Execution",
+    "Chapter 2 Part 3 - Assessing",
+    "Chapter 2 Part 4 - Applying the C2 Process"
+  ],
+  "model_request_count": 11,
+  "finished_utc": "2026-10-26T15:38:39.820408+00:00"
+}

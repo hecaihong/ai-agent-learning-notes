@@ -1,0 +1,27 @@
+{
+  "workflow_status": "failed",
+  "quality_status": "pending_human_review",
+  "model": "deepseek-flash",
+  "source_sha256": "9ae41ef67b62aac53e01f8da51d891e1caed6c648048dc760de0c31f0f6ddb37",
+  "max_calls": 11,
+  "max_output_tokens": 8192,
+  "thinking": "disabled",
+  "automatic_retries": 0,
+  "adaptations": [
+    "复用教材翻译、审校和 Manager 角色函数，证据记录器替代原 llm_chat。",
+    "Python 先按频次、章节分布、标题、定义句、缩写和概念对生成候选；Glossary Agent 再依据术语性筛选。",
+    "Glossary 不设置术语数量上限，每条正式术语必须保留候选编号、收录理由和原文依据。",
+    "独立编排，不使用教材 EDITORIAL_MANDATE。",
+    "审校检查初稿译文，修订后的语义质量仍待人工复核。"
+  ],
+  "code_sha256": {
+    "task5_translation\\run_afdp_chapter2.py": "4e93da8dccc2e07bc170bd40b2a58520937fa55db1452a2771c916d008de6407",
+    "task5_translation\\terminology_candidates.py": "781edeb7faf59c71a3da6e18037e067f1de624aadba7648dbe99228f7bb3799c",
+    "task5_translation\\translation_evidence.py": "77ef0d5dbcb4efae92f468c33ac8ea73b037d0c23d684b98990afdaffbb863d6",
+    "<PRIVATE_COURSE>\\chapter10\\book-translation\\agents.py": "7f0fd50942d617fb0917a0df0f60ccaed066cf5752a070cb213e071824afb16a"
+  },
+  "error_type": "ValueError",
+  "error_message": "每个术语选择都必须有非空 inclusion_signals 列表。",
+  "model_request_count": 1,
+  "finished_utc": "2026-10-26T15:21:21.114104+00:00"
+}

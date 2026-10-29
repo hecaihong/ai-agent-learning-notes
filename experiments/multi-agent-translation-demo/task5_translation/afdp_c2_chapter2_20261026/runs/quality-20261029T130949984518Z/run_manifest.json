@@ -1,0 +1,17 @@
+{
+  "workflow_status": "failed",
+  "quality_status": "pending",
+  "model": "deepseek-flash",
+  "max_calls": 13,
+  "source_sha256": "9ae41ef67b62aac53e01f8da51d891e1caed6c648048dc760de0c31f0f6ddb37",
+  "code_sha256": {
+    "run_afdp_quality.py": "2a5ec2941389d32baa4640c7431db772322b2c018c31f4df6a5506c28294c9a8",
+    "translation_evidence.py": "70b1bc0ad94f6292379b2a55f80136dc001248c64c3d43fe6b3167e3eb854dc1",
+    "run_afdp_chapter2.py": "7df543110a120d7e8f5d918eea0eb06235938f1772d66199447e2d3c1a76a481",
+    "terminology_candidates.py": "781edeb7faf59c71a3da6e18037e067f1de624aadba7648dbe99228f7bb3799c"
+  },
+  "error_type": "ValueError",
+  "error_message": "审校原文定位必须是提供的英文中的精确片段。",
+  "model_request_count": 6,
+  "finished_utc": "2026-10-29T13:11:06.175885+00:00"
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "issue_number": 1,
+    "chapter": "Chapter 2 Part 1 - Overview and Planning",
+    "kind": "exact",
+    "source_segments": [
+      "It is\ngenerally the first C2 activity conducted by a commander and their staff."
+    ]
+  },
+  {
+    "issue_number": 2,
+    "chapter": "Chapter 2 Part 1 - Overview and Planning",
+    "kind": "exact",
+    "source_segments": [
+      "In the air component, t he C2 process typically occurs\nat the operational level of warfare ."
+    ]
+  },
+  {
+    "issue_number": 3,
+    "chapter": "Chapter 2 Part 1 - Overview and Planning",
+    "kind": "exact",
+    "source_segments": [
+      "Design anchors the C2 process to a\ncommander ."
+    ]
+  },
+  {
+    "issue_number": 4,
+    "chapter": "Chapter 2 Part 1 - Overview and Planning",
+    "kind": "whitespace_only",
+    "source_segments": [
+      "Its principal purpose is to\n\ndistill clarity from complexity through a b road perspective that deepens understanding\nand visualiz es the problem."
+    ]
+  },
+  {
+    "issue_number": 5,
+    "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+    "kind": "exact",
+    "source_segments": [
+      "Coordination does not replace formal approval process es . It is normally used\nbetween functions of a supporting staff."
+    ]
+  },
+  {
+    "issue_number": 6,
+    "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+    "kind": "exact",
+    "source_segments": [
+      "coordinating with tanker and\nairlift units for refueling and transportation support"
+    ]
+  },
+  {
+    "issue_number": 7,
+    "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+    "kind": "exact",
+    "source_segments": [
+      "These activities include the process of directing weapons , sensors ,\nand support , within the commander's defined acceptable level of risk , to achieve the\ncommander’s intent ."
+    ]
+  },
+  {
+    "issue_number": 8,
+    "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+    "kind": "exact",
+    "source_segments": [
+      "In response, nearly 400\nairlift, tanker, and aeromedical evacuation missions battle managed by the 618\nAOC were rerouted"
+    ]
+  },
+  {
+    "issue_number": 9,
+    "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+    "kind": "verified_sidebar_interruption",
+    "source_segments": [
+      "Nodes may span several levels of",
+      "operations and have varying levels of capability."
+    ],
+    "intervening_sidebar": "\nBattle Management Example: Global Air Mobility Adjustment\nBattle management us es a variety of C2 systems. For air mobility operations, the\nGlobal Air Mobility Support System (GAMSS) is the C2 system that enable s air\nmobility operations . During execution, GAMSS C2 nodes perform battle\nmanagement to meet dynamic changes in the OE .\nFor example, on 16 April 2010, Iceland’s Eyjafjallajökull volcano erupted, spewing\nan ash cloud that closed much of Europe’s airspace . In response, nearly 400\nairlift, tanker, and aeromedical evacuation missions battle managed by the 618\nAOC were rerouted to ensure the continued delivery of personnel and equipment\nto support surge operations in Afghanistan and Iraq. In the end, effective C2 in\nexecution rerouted over 600 missions, moved over 17,000 tons of supplies, and\ntransported over 47,000 people to overcome unplanned hazards. \n\n",
+    "explanation": "已核对的原文侧栏将同一句拆为两段；未删改任何原文文件。"
+  },
+  {
+    "issue_number": 10,
+    "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+    "kind": "exact",
+    "source_segments": [
+      "Missions are\nessential tasks, together with the purpose, that clearly indicate the action to be taken and\nthe reason for the action."
+    ]
+  },
+  {
+    "issue_number": 11,
+    "chapter": "Chapter 2 Part 3 - Assessing",
+    "kind": "exact",
+    "source_segments": [
+      "Develop mission success criteria to address specified and\nessential tasks ."
+    ]
+  },
+  {
+    "issue_number": 12,
+    "chapter": "Chapter 2 Part 3 - Assessing",
+    "kind": "exact",
+    "source_segments": [
+      "Are we doing things right (measures of performance) ?"
+    ]
+  },
+  {
+    "issue_number": 13,
+    "chapter": "Chapter 2 Part 3 - Assessing",
+    "kind": "exact",
+    "source_segments": [
+      "It should follow a rigorous, defensible analytical process"
+    ]
+  },
+  {
+    "issue_number": 14,
+    "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+    "kind": "exact",
+    "source_segments": [
+      "was directed to open a second front in the Gulf War"
+    ]
+  },
+  {
+    "issue_number": 15,
+    "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+    "kind": "exact",
+    "source_segments": [
+      "During the Gulf War of 1990 -1991"
+    ]
+  },
+  {
+    "issue_number": 16,
+    "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+    "kind": "exact",
+    "source_segments": [
+      "–Derived from the Gulf War Air Power Survey"
+    ]
+  },
+  {
+    "issue_number": 17,
+    "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+    "kind": "exact",
+    "source_segments": [
+      "the combat arm of JTF Proven Force"
+    ]
+  },
+  {
+    "issue_number": 18,
+    "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+    "kind": "exact",
+    "source_segments": [
+      "CENTAF retained command authority over the wing’s operational plans\nas well as the authority to task the wing by exception."
+    ]
+  },
+  {
+    "issue_number": 19,
+    "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+    "kind": "exact",
+    "source_segments": [
+      "General\nHorner empowered General Downer to effectively “f ight” with his wing."
+    ]
+  },
+  {
+    "issue_number": 20,
+    "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+    "kind": "exact",
+    "source_segments": [
+      "the 7440th Composite Wing\n(CW) (Provisional)"
+    ]
+  },
+  {
+    "issue_number": 21,
+    "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+    "kind": "exact",
+    "source_segments": [
+      "Sub -Theater Force Presentation Terminology"
+    ]
+  }
+]

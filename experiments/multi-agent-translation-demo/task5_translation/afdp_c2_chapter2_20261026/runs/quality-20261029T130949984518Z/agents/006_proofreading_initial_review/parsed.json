@@ -1,0 +1,180 @@
+{
+  "issues": [
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "英文残留",
+      "severity": "major",
+      "source_quote": "It is\ngenerally the first C2 activity conducted by a commander and their staff.",
+      "target_quote": "它通常是 commander 及其参谋开展的第一项C2活动。",
+      "detail": "译文正文中残留英文单词“commander”，应译为“指挥官”，即“它通常是指挥官及其参谋开展的第一项C2活动”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "In the air component, t he C2 process typically occurs\nat the operational level of warfare .",
+      "target_quote": "在航空组成部分中，C2流程通常发生在战争行动层级。",
+      "detail": "“operational level of warfare”是美军战争层级术语，指“战役层级”（与战略层级、战术层级并列），不是“战争行动层级”。应改为“战役层级”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "Design anchors the C2 process to a\ncommander .",
+      "target_quote": "设计将C2流程锚定于指挥官。",
+      "detail": "原文意为设计使C2流程以指挥官为锚定/依托对象，译文“锚定于指挥官”语序颠倒，读作流程被固定在指挥官身上。宜改为“设计使C2流程以指挥官为依托/锚点”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 1 - Overview and Planning",
+      "type": "误译",
+      "severity": "minor",
+      "source_quote": "Its principal purpose is to\ndistill clarity from complexity through a b road perspective that deepens understanding\nand visualiz es the problem.",
+      "target_quote": "其主要目的是通过深化理解和使问题可视化的广阔视角，从复杂性中提炼清晰度。",
+      "detail": "“visualizes the problem”意为“使问题形象化/形成对问题的构想”，译作“使问题可视化”属字面直译，偏离条令语境。建议改为“使问题形象化”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "Coordination does not replace formal approval process es . It is normally used\nbetween functions of a supporting staff.",
+      "target_quote": "协调不能替代正式审批流程。它通常用于支援参谋各部门之间。",
+      "detail": "“between functions of a supporting staff”指支援参谋机构各职能之间（横向职能间协调），译文“支援参谋各部门之间”把 functions 误作“部门”，且句子不完整。建议改为“它通常用于支援参谋机构各职能之间的协调”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "coordinating with tanker and\nairlift units for refueling and transportation support",
+      "target_quote": "与加油机和空运单位协调燃油和运输支援",
+      "detail": "“refueling”在此指空中加油支援，不是“燃油”。应改为“与加油机和空运单位协调空中加油与运输支援”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "These activities include the process of directing weapons , sensors ,\nand support , within the commander's defined acceptable level of risk , to achieve the\ncommander’s intent .",
+      "target_quote": "这些活动包括在指挥官确定的可接受风险水平内，指挥武器、传感器和支援的过程，以实现指挥官意图。",
+      "detail": "“directing”在此为“指挥引导/调度”武器、传感器与支援力量，译作“指挥武器、传感器和支援”搭配不当且语义含混。建议改为“在指挥官确定的可接受风险水平内调度武器、传感器与支援力量”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "In response, nearly 400\nairlift, tanker, and aeromedical evacuation missions battle managed by the 618\nAOC were rerouted",
+      "target_quote": "由第618空中作战中心进行战斗管理的近400架次空运、加油和医疗后送任务被改航",
+      "detail": "“618 AOC”为第618空中作战中心，但“missions battle managed by the 618 AOC”意为“由第618空中作战中心实施战斗管理的近400架次……任务”，译文将“战斗管理”作动词化处理尚可，但“618空中作战中心”前缺“第”字编号格式不一致；更关键的是“nearly 400 missions”与后文“over 600 missions”数字需核对，此处译文数字正确。主要缺陷为“battle managed”被译为“进行战斗管理”可接受，但“618 AOC”应统一为“第618空中作战中心”。",
+      "detail_alt": ""
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "漏译",
+      "severity": "major",
+      "source_quote": "Nodes may span several levels of\noperations and have varying levels of capability.",
+      "target_quote": "节点可能跨越多个层级。",
+      "detail": "原文“several levels of operations and have varying levels of capability”被压缩为“多个层级”，漏译“作战”及“具有不同层级的能力”。应补全为“节点可能跨越多个作战层级，并具有不同层级的能力”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 2 - Preparing and Execution",
+      "type": "误译",
+      "severity": "minor",
+      "source_quote": "Missions are\nessential tasks, together with the purpose, that clearly indicate the action to be taken and\nthe reason for the action.",
+      "target_quote": "任务是基本任务及其目的，明确指示要采取的行动和行动的原因。",
+      "detail": "“essential tasks”在此为“基本任务/必要任务”，译文“基本任务”可，但“together with the purpose”结构被处理为“及其目的”尚可；主要问题是“clearly indicate”主语应为“任务（连同目的）”，译文“明确指示”主语不清。建议改为“任务是由目的连同明确指示所要采取行动及行动原因的基本任务构成”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 3 - Assessing",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "Develop mission success criteria to address specified and\nessential tasks .",
+      "target_quote": "制定任务成功标准，以涵盖指定任务和基本任务。",
+      "detail": "“specified and essential tasks”为条令术语“指定任务与基本任务”，译文用“涵盖”对应 address 偏弱，但术语基本正确；主要缺陷是“address”应译为“针对/应对”，且“specified tasks”宜作“指定的任务”。建议改为“制定任务成功标准，以针对指定任务和基本任务”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 3 - Assessing",
+      "type": "术语",
+      "severity": "major",
+      "source_quote": "Are we doing things right (measures of performance) ?",
+      "target_quote": "我们是否正确地做事（性能度量）？",
+      "detail": "“measures of performance”在美军评估条令中通常译为“绩效度量/执行度量”，与“measures of effectiveness（效能度量）”对应；“性能度量”偏工程语境。建议统一为“绩效度量”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 3 - Assessing",
+      "type": "误译",
+      "severity": "minor",
+      "source_quote": "It should follow a rigorous, defensible analytical process",
+      "target_quote": "它应遵循严谨、可辩护的分析过程",
+      "detail": "“defensible”在此指分析过程“站得住脚/经得起检验”，译作“可辩护的”生硬。建议改为“经得起检验的分析过程”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "英文残留",
+      "severity": "major",
+      "source_quote": "was directed to open a second front in the Gulf War",
+      "target_quote": "受命在 Gulf War 中开辟第二战线",
+      "detail": "正文残留英文“Gulf War”，应译为“海湾战争”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "英文残留",
+      "severity": "major",
+      "source_quote": "During the Gulf War of 1990 -1991",
+      "target_quote": "在1990-1991年Gulf War期间",
+      "detail": "正文残留英文“Gulf War”，应译为“海湾战争”，即“在1990-1991年海湾战争期间”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "英文残留",
+      "severity": "major",
+      "source_quote": "–Derived from the Gulf War Air Power Survey",
+      "target_quote": "——摘自《Gulf War Air Power Survey》",
+      "detail": "书名残留英文，应译为《海湾战争空中力量调查》（或《海湾战争空中力量概览》），并与后文中文书名号体例一致。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "the combat arm of JTF Proven Force",
+      "target_quote": "JTF“普罗文力量”的作战臂",
+      "detail": "“combat arm”指该特遣部队的“作战力量/作战拳头”，译作“作战臂”为生硬直译。建议改为“JTF‘普罗文力量’的作战力量”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "误译",
+      "severity": "major",
+      "source_quote": "CENTAF retained command authority over the wing’s operational plans\nas well as the authority to task the wing by exception.",
+      "target_quote": "CENTAF保留了对该联队作战计划的指挥权，以及按例外方式向该联队下达任务的权限。",
+      "detail": "“command authority over the wing’s operational plans”意为对作战计划的指挥权限，译文“保留了对……作战计划的指挥权”基本达意；但“by exception”在美军条令中为“例外下达任务/例外指挥”，译作“按例外方式”可，建议统一为“例外任务下达权”。主要缺陷是“command authority”宜作“指挥权限”而非“指挥权”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "误译",
+      "severity": "minor",
+      "source_quote": "General\nHorner empowered General Downer to effectively “f ight” with his wing.",
+      "target_quote": "Horner将军赋予Downer将军有效“驾驭”其联队的权力。",
+      "detail": "原文引号内为“fight”，意为“作战/打仗”，译文改译为“驾驭”，改变了原意。建议改为“有效‘作战’”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语",
+      "severity": "minor",
+      "source_quote": "the 7440th Composite Wing\n(CW) (Provisional)",
+      "target_quote": "第7440复合联队（临时）（CW）",
+      "detail": "“Composite Wing”术语库作“复合联队”，但美军惯译为“混合联队”；且“（临时）”与“（CW）”顺序与原文“（CW）（Provisional）”不一致。建议统一为“第7440混合联队（临时）（CW）”，并全篇统一“复合/混合联队”。"
+    },
+    {
+      "chapter": "Chapter 2 Part 4 - Applying the C2 Process",
+      "type": "术语",
+      "severity": "minor",
+      "source_quote": "Sub -Theater Force Presentation Terminology",
+      "target_quote": "战区下属力量编成术语",
+      "detail": "“Force Presentation”在美军术语中为“力量提供/兵力呈现”，译作“力量编成”易与 force structure（力量结构）混淆。建议改为“战区下属力量提供术语”。"
+    }
+  ],
+  "chapters_need_revision": [
+    "Chapter 2 Part 1 - Overview and Planning",
+    "Chapter 2 Part 2 - Preparing and Execution",
+    "Chapter 2 Part 3 - Assessing",
+    "Chapter 2 Part 4 - Applying the C2 Process"
+  ],
+  "summary": "四个块均存在可证实缺陷：Part 1 有英文残留“commander”、战争层级误译（operational level 应为战役层级）；Part 2 有“refueling”误作燃油、“functions”误作部门、C2节点段漏译“作战层级及不同能力”；Part 3 有 measures of performance 术语偏差及 defensible 生硬直译；Part 4 多处“Gulf War”英文残留、书名残留、“combat arm”直译、引号内 fight 改译失真，以及 Composite Wing 术语与括号顺序问题。术语库中“复合联队”“性能度量”等条目本身存在可商榷之处，已按英文语境独立核查后列入。"
+}

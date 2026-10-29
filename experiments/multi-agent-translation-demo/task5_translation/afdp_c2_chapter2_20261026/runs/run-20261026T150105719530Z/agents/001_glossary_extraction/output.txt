@@ -1,0 +1,833 @@
+{
+  "glossary": [
+    {
+      "en": "C2 process",
+      "zh": "指挥与控制流程",
+      "pos": "名词短语",
+      "context": "由指挥官主导的渐进且迭代的重大C2活动序列，包括规划、准备、执行和评估。",
+      "evidence": "The C2 process is the progressive and iterative series of major C2 activities, led by a commander",
+      "review_status": "candidate"
+    },
+    {
+      "en": "command and control (C2)",
+      "zh": "指挥与控制",
+      "pos": "名词短语",
+      "context": "指挥与控制职能的统称，缩写为C2。",
+      "evidence": "The C2 process is the progressive and iterative series of major C2 activities",
+      "review_status": "candidate"
+    },
+    {
+      "en": "CC-DC-DE framework",
+      "zh": "集中指挥-分布式控制-分散执行框架",
+      "pos": "名词短语",
+      "context": "集中指挥、分布式控制和分散执行的框架，用于实现指挥控制。",
+      "evidence": "communicates the authorities that subordinate commanders need to realize the CC-DC-DE framework",
+      "review_status": "candidate"
+    },
+    {
+      "en": "planning",
+      "zh": "规划",
+      "pos": "名词",
+      "context": "C2流程的第一个主要活动，是解决问题的方法论，包括设计。",
+      "evidence": "Planning is the broad term to describe how Airmen address and solve problems.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "preparing",
+      "zh": "准备",
+      "pos": "名词",
+      "context": "规划与执行之间的重叠活动，用于共享信息、达成共识、解释任务和优化行动。",
+      "evidence": "Preparing represents the overlapping activities between planning and execution",
+      "review_status": "candidate"
+    },
+    {
+      "en": "executing",
+      "zh": "执行",
+      "pos": "名词",
+      "context": "将计划付诸行动，同时利用态势理解评估进展并调整行动。",
+      "evidence": "Execution is putting a plan into action while using situational understanding to assess progress",
+      "review_status": "candidate"
+    },
+    {
+      "en": "assessing",
+      "zh": "评估",
+      "pos": "名词",
+      "context": "持续观察作战环境和朝向最终状态的渐进进展的活动。",
+      "evidence": "Assessment is a continual activity where the staff observes the OE and incremental progress toward the end-state(s).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "design",
+      "zh": "设计",
+      "pos": "名词",
+      "context": "构建支撑规划的框架的概念化和构建过程，是规划的一部分。",
+      "evidence": "Design is the conception and construction of the framework that underpins planning.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "operational design framework",
+      "zh": "作战设计框架",
+      "pos": "名词短语",
+      "context": "涉及理解战略指导、理解作战环境、定义问题和制定行动描述的持续努力。",
+      "evidence": "The operational design framework involves a continual effort to understand the strategic guidance, understand the OE, define the problem",
+      "review_status": "candidate"
+    },
+    {
+      "en": "joint planning process (JPP)",
+      "zh": "联合规划流程",
+      "pos": "名词短语",
+      "context": "适用于空军的规划方法之一。",
+      "evidence": "These include the joint planning process (JPP), the joint planning process for air (JPPA), and the Air Force Planning Process (AFPP).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "joint planning process for air (JPPA)",
+      "zh": "空中联合规划流程",
+      "pos": "名词短语",
+      "context": "适用于空军的规划方法之一。",
+      "evidence": "These include the joint planning process (JPP), the joint planning process for air (JPPA), and the Air Force Planning Process (AFPP).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "Air Force Planning Process (AFPP)",
+      "zh": "空军规划流程",
+      "pos": "名词短语",
+      "context": "适用于空军的规划方法之一。",
+      "evidence": "These include the joint planning process (JPP), the joint planning process for air (JPPA), and the Air Force Planning Process (AFPP).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "operational environment (OE)",
+      "zh": "作战环境",
+      "pos": "名词短语",
+      "context": "影响作战的环境条件，包括战略指导、问题等。",
+      "evidence": "understand the OE, define the problem",
+      "review_status": "candidate"
+    },
+    {
+      "en": "objective",
+      "zh": "目标",
+      "pos": "名词",
+      "context": "设计中最关键的要素，应首先确定以明确任务执行的原因。",
+      "evidence": "The single most important element of design is the objective.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "commander's intent",
+      "zh": "指挥官意图",
+      "pos": "名词短语",
+      "context": "指挥官对行动目的的明确表达，用于指导下属决策。",
+      "evidence": "provide the initial commander’s intent for the operation or mission.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "mission command",
+      "zh": "任务式指挥",
+      "pos": "名词短语",
+      "context": "一种指挥哲学，强调分散执行和下属主动性。",
+      "evidence": "The evolution of mission command, Distributed Control, and the role of commanders",
+      "review_status": "candidate"
+    },
+    {
+      "en": "Distributed Control",
+      "zh": "分布式控制",
+      "pos": "名词短语",
+      "context": "将运行C2流程的权限下放给下级指挥官，以实现分布式作战。",
+      "evidence": "It answers the question: “What is being distributed in Distributed Control?” With: “The authority to run the C2 process to conduct assigned operations.”",
+      "review_status": "candidate"
+    },
+    {
+      "en": "decentralized execution",
+      "zh": "分散执行",
+      "pos": "名词短语",
+      "context": "任务式指挥哲学指导下的作战基本特征，决策由最接近战斗的人员做出。",
+      "evidence": "Decentralized execution is the fundamental characteristic of operations guided by a mission command philosophy.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "coordinating",
+      "zh": "协调",
+      "pos": "名词",
+      "context": "准备活动的子活动，确保充分的信息交换以整合、同步和消除冲突。",
+      "evidence": "Coordinating. Coordination is defined as the necessary actions to ensure adequate information exchange",
+      "review_status": "candidate"
+    },
+    {
+      "en": "refining",
+      "zh": "细化",
+      "pos": "名词",
+      "context": "准备活动的子活动，因执行前的变更而修改计划的概念。",
+      "evidence": "Refining. Refining is the modification of the planned concept of operations due to changes realized prior to execution.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "transitioning",
+      "zh": "转换",
+      "pos": "名词",
+      "context": "准备活动的子活动，包括执行前的最终活动，如演练和检查。",
+      "evidence": "Transitioning. Transitioning is a process that includes the final activities before execution.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "direct liaison authorized (DIRLAUTH)",
+      "zh": "授权直接联络",
+      "pos": "名词短语",
+      "context": "用于与直接参谋或组织之外的组织协调，或组件参谋之间协调。",
+      "evidence": "Direct liaison authorized (DIRLAUTH) is used to coordinate with an organization outside of the immediate staff or organization",
+      "review_status": "candidate"
+    },
+    {
+      "en": "air tasking order (ATO)",
+      "zh": "空中任务指令",
+      "pos": "名词短语",
+      "context": "根据天气等变化调整的空中任务指令。",
+      "evidence": "adjusting the air tasking order (ATO) based on changing space or terrestrial weather conditions",
+      "review_status": "candidate"
+    },
+    {
+      "en": "airspace control plan (ACP)",
+      "zh": "空域控制计划",
+      "pos": "名词短语",
+      "context": "为容纳额外飞机而更新的空域控制计划。",
+      "evidence": "updating the airspace control plan (ACP) to accommodate additional aircraft.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "generating",
+      "zh": "生成",
+      "pos": "名词",
+      "context": "执行活动的第一个子活动，包括部署部队、生成架次等。",
+      "evidence": "Generating includes posturing forces aligned with the plan and capable of executing the commander’s intent.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "global force management",
+      "zh": "全球力量管理",
+      "pos": "名词短语",
+      "context": "生成空中力量所需的行动之一，包括全球力量部署等。",
+      "evidence": "ranging from mission generation up through global force management",
+      "review_status": "candidate"
+    },
+    {
+      "en": "time-phased force and deployment data (TPFDD)",
+      "zh": "分阶段部队与部署数据",
+      "pos": "名词短语",
+      "context": "全球力量管理的一部分，管理部署数据。",
+      "evidence": "time-phased force and deployment data [TPFDD] management",
+      "review_status": "candidate"
+    },
+    {
+      "en": "MTO technique",
+      "zh": "任务式命令技术",
+      "pos": "名词短语",
+      "context": "用于清晰传达指挥官意图并授权空军人员做出有效决策的技术。",
+      "evidence": "may use a MTO technique to clearly communicate commander’s intent",
+      "review_status": "needs_domain_review"
+    },
+    {
+      "en": "battle management",
+      "zh": "战斗管理",
+      "pos": "名词短语",
+      "context": "执行中的C2，基于指挥官的指挥和指导管理作战环境中的活动。",
+      "evidence": "C2 in execution is battle management —the management of activities within the OE",
+      "review_status": "candidate"
+    },
+    {
+      "en": "C2 nodes",
+      "zh": "指挥控制节点",
+      "pos": "名词短语",
+      "context": "C2系统的要素，代表执行分散作战的人员、地点或物理对象。",
+      "evidence": "C2 nodes are elements of a C2 system that represent people, places, or physical objects that execute decentralized operations.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "theater air control system (TACS)",
+      "zh": "战区空中控制系统",
+      "pos": "名词短语",
+      "context": "包含任务指挥官、预警机、前方空中管制员和战斗控制中心等要素的系统。",
+      "evidence": "Common examples of C2 nodes include the elements in the theater air control system (TACS)",
+      "review_status": "candidate"
+    },
+    {
+      "en": "mission commanders (MCs)",
+      "zh": "任务指挥官",
+      "pos": "名词短语",
+      "context": "TACS中的要素之一，负责特定任务。",
+      "evidence": "such as mission commanders (MCs), Airborne Warning and Control System (AWACS), forward air controllers (FACs), and battle control centers (BCCs).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "Airborne Warning and Control System (AWACS)",
+      "zh": "机载预警与控制系统",
+      "pos": "名词短语",
+      "context": "TACS中的要素之一，提供空中预警和控制。",
+      "evidence": "such as mission commanders (MCs), Airborne Warning and Control System (AWACS), forward air controllers (FACs), and battle control centers (BCCs).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "forward air controllers (FACs)",
+      "zh": "前方空中管制员",
+      "pos": "名词短语",
+      "context": "TACS中的要素之一，负责前方空中控制。",
+      "evidence": "such as mission commanders (MCs), Airborne Warning and Control System (AWACS), forward air controllers (FACs), and battle control centers (BCCs).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "battle control centers (BCCs)",
+      "zh": "战斗控制中心",
+      "pos": "名词短语",
+      "context": "TACS中的要素之一，负责战斗控制。",
+      "evidence": "such as mission commanders (MCs), Airborne Warning and Control System (AWACS), forward air controllers (FACs), and battle control centers (BCCs).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "Global Air Mobility Support System (GAMSS)",
+      "zh": "全球空中机动支持系统",
+      "pos": "名词短语",
+      "context": "用于空中机动行动的C2系统。",
+      "evidence": "the Global Air Mobility Support System (GAMSS) is the C2 system that enables air mobility operations",
+      "review_status": "candidate"
+    },
+    {
+      "en": "tactical C2 (TAC C2)",
+      "zh": "战术指挥控制",
+      "pos": "名词短语",
+      "context": "在战术层面执行战斗管理的C2节点。",
+      "evidence": "Some C2 nodes are known as tactical C2 (TAC C2).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "mission",
+      "zh": "任务",
+      "pos": "名词",
+      "context": "明确指示行动及原因的基本任务。",
+      "evidence": "Missions are essential tasks, together with the purpose, that clearly indicate the action to be taken and the reason for the action.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "assessment",
+      "zh": "评估",
+      "pos": "名词",
+      "context": "持续观察作战环境和朝向最终状态的进展的活动。",
+      "evidence": "Assessment is a continual activity where the staff observes the OE and incremental progress toward the end-state(s).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "measures of performance",
+      "zh": "性能度量",
+      "pos": "名词短语",
+      "context": "评估中用于回答“我们是否正确地做事”的度量。",
+      "evidence": "Are we doing things right (measures of performance)?",
+      "review_status": "candidate"
+    },
+    {
+      "en": "measures of effectiveness",
+      "zh": "效能度量",
+      "pos": "名词短语",
+      "context": "评估中用于回答“我们是否做正确的事”的度量。",
+      "evidence": "Are we doing the right things (measures of effectiveness)?",
+      "review_status": "candidate"
+    },
+    {
+      "en": "effects-based approach",
+      "zh": "基于效果的方法",
+      "pos": "名词短语",
+      "context": "评估中用于提供指挥官基本问题答案的方法。",
+      "evidence": "In an effects-based approach, assessment should provide the commander with the answers to these basic questions:",
+      "review_status": "candidate"
+    },
+    {
+      "en": "air expeditionary task force (AETF)",
+      "zh": "空中远征特遣部队",
+      "pos": "名词短语",
+      "context": "美国空军用于实现CC-DC-DE框架的组织结构。",
+      "evidence": "The most relevant USAF structure is the air expeditionary task force (AETF).",
+      "review_status": "candidate"
+    },
+    {
+      "en": "order",
+      "zh": "命令",
+      "pos": "名词",
+      "context": "上级向下级传达指令的通信方式，可以是书面、口头或信号。",
+      "evidence": "An order is a communication, written, oral, or by signal, which conveys instructions from a superior to a subordinate.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "specified command relationship",
+      "zh": "特定指挥关系",
+      "pos": "名词短语",
+      "context": "指挥官通过特定指挥关系保持集中指挥。",
+      "evidence": "the theater air component commander maintains centralized command through their specified command relationship",
+      "review_status": "candidate"
+    },
+    {
+      "en": "OPCON",
+      "zh": "作战控制",
+      "pos": "名词",
+      "context": "由CCDR建立的作战控制权。",
+      "evidence": "(OPCON established by the CCDR)",
+      "review_status": "candidate"
+    },
+    {
+      "en": "CCDR",
+      "zh": "作战指挥官",
+      "pos": "名词",
+      "context": "建立作战控制权的指挥官。",
+      "evidence": "(OPCON established by the CCDR)",
+      "review_status": "candidate"
+    },
+    {
+      "en": "CCMD",
+      "zh": "作战司令部",
+      "pos": "名词",
+      "context": "作战司令部级别，AETF通常低于此级别。",
+      "evidence": "generally below the CCMD-level",
+      "review_status": "candidate"
+    },
+    {
+      "en": "JFC",
+      "zh": "联合部队指挥官",
+      "pos": "名词",
+      "context": "联合部队指挥官，AETF为其提供任务编组和整合包。",
+      "evidence": "AETFs provide JFCs with a task-organized and integrated package",
+      "review_status": "candidate"
+    },
+    {
+      "en": "air task force (ATF)",
+      "zh": "空中特遣部队",
+      "pos": "名词短语",
+      "context": "空中组成部分指挥官可通过空中特遣部队行使分布式控制。",
+      "evidence": "An air component commander may choose to exercise Distributed Control through an air task force (ATF) or combat wing.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "combat wing",
+      "zh": "战斗联队",
+      "pos": "名词短语",
+      "context": "与空中特遣部队类似，可行使分布式控制的组织。",
+      "evidence": "An air component commander may choose to exercise Distributed Control through an air task force (ATF) or combat wing.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "Joint Task Force (JTF) Proven Force",
+      "zh": "联合特遣部队“证明力量”",
+      "pos": "名词短语",
+      "context": "历史案例中的联合特遣部队，展示了分布式控制。",
+      "evidence": "The following example from Joint Task Force (JTF) Proven Force highlights how a combat wing or ATF may operate with Distributed Control.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "CENTAF",
+      "zh": "美国中央空军",
+      "pos": "名词",
+      "context": "美国空军中央司令部，在案例中向联队提供命令。",
+      "evidence": "CENTAF provided the wing an order to open a second Iraqi front whenever possible.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "7440th Composite Wing (CW)",
+      "zh": "第7440复合联队",
+      "pos": "名词短语",
+      "context": "联合特遣部队“证明力量”的战斗臂，在案例中行使分布式控制。",
+      "evidence": "the 7440th Composite Wing (CW) (Provisional), the combat arm of JTF Proven Force",
+      "review_status": "candidate"
+    },
+    {
+      "en": "area of responsibility",
+      "zh": "责任区",
+      "pos": "名词短语",
+      "context": "联队被分配的大片责任区域。",
+      "evidence": "the wing was assigned a large area of responsibility in northern Iraq.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "task by exception",
+      "zh": "例外任务指派",
+      "pos": "动词短语",
+      "context": "CENTAF保留的权限，可例外地向联队指派任务。",
+      "evidence": "CENTAF retained command authority over the wing’s operational plans as well as the authority to task the wing by exception.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "strike packages",
+      "zh": "打击包",
+      "pos": "名词短语",
+      "context": "由任务指挥官构建的打击编组。",
+      "evidence": "allowed mission commanders to build strike packages.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "air tasking cycle",
+      "zh": "空中任务周期",
+      "pos": "名词短语",
+      "context": "C2流程中捕获的众多周期之一。",
+      "evidence": "the air tasking cycle, targeting cycle, and airlift cycle",
+      "review_status": "candidate"
+    },
+    {
+      "en": "targeting cycle",
+      "zh": "目标选择周期",
+      "pos": "名词短语",
+      "context": "C2流程中捕获的众多周期之一。",
+      "evidence": "the air tasking cycle, targeting cycle, and airlift cycle",
+      "review_status": "candidate"
+    },
+    {
+      "en": "airlift cycle",
+      "zh": "空运周期",
+      "pos": "名词短语",
+      "context": "C2流程中捕获的众多周期之一。",
+      "evidence": "the air tasking cycle, targeting cycle, and airlift cycle",
+      "review_status": "candidate"
+    },
+    {
+      "en": "decision cycle",
+      "zh": "决策周期",
+      "pos": "名词短语",
+      "context": "指挥官通过决策周期做出决策，驱动C2流程。",
+      "evidence": "they make decisions (through the decision cycle) that drive the process.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "operational level of warfare",
+      "zh": "战争行动级",
+      "pos": "名词短语",
+      "context": "C2流程通常发生在战争行动级。",
+      "evidence": "the C2 process typically occurs at the operational level of warfare",
+      "review_status": "candidate"
+    },
+    {
+      "en": "operational C2",
+      "zh": "作战级指挥控制",
+      "pos": "名词短语",
+      "context": "空军人员中可能使用的术语，但条令避免使用，因为C2流程与战争级别无关。",
+      "evidence": "it may be referred to as “operational C2” among Airmen. However, this doctrine avoids the label “operational C2”",
+      "review_status": "candidate"
+    },
+    {
+      "en": "theater air component commander",
+      "zh": "战区空中组成部分指挥官",
+      "pos": "名词短语",
+      "context": "战区空中组成部分的指挥官，负责集中指挥。",
+      "evidence": "subordinate commanders relied on centralized C2 from the theater air component commander.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "subordinate commander",
+      "zh": "下级指挥官",
+      "pos": "名词短语",
+      "context": "接受授权并运行C2流程的下级指挥官。",
+      "evidence": "Assigning an operation to a subordinate commander and establishing an appropriate force structure",
+      "review_status": "candidate"
+    },
+    {
+      "en": "force structure",
+      "zh": "部队结构",
+      "pos": "名词短语",
+      "context": "在CC-DC-DE框架内运行C2流程所需的适当部队结构。",
+      "evidence": "establishing an appropriate force structure are requisites for conducting the C2 process",
+      "review_status": "candidate"
+    },
+    {
+      "en": "sub-theater echelon",
+      "zh": "战区内层级",
+      "pos": "名词短语",
+      "context": "战区以下的层级，也称为“中间”层级或“第三层级”。",
+      "evidence": "the AETF operates with Distributed Control as a sub-theater echelon.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "middle echelon",
+      "zh": "中间层级",
+      "pos": "名词短语",
+      "context": "战区以下的层级，与“战区内层级”同义。",
+      "evidence": "the level below the theater is referred to as the sub-theater or “middle” echelon.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "3rd echelon",
+      "zh": "第三层级",
+      "pos": "名词短语",
+      "context": "描述战区以下层级的另一种常用术语。",
+      "evidence": "Another commonly used term is the “3rd echelon.”",
+      "review_status": "candidate"
+    },
+    {
+      "en": "specified and essential tasks",
+      "zh": "指定任务和基本任务",
+      "pos": "名词短语",
+      "context": "评估中用于制定任务成功标准的任务类型。",
+      "evidence": "Develop mission success criteria to address specified and essential tasks.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "mission success criteria",
+      "zh": "任务成功标准",
+      "pos": "名词短语",
+      "context": "评估中用于衡量任务成功的标准。",
+      "evidence": "Develop mission success criteria to address specified and essential tasks.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "collection plan",
+      "zh": "收集计划",
+      "pos": "名词短语",
+      "context": "评估中用于收集适当数据的计划。",
+      "evidence": "containing a collection plan to gather appropriate data.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "change reporting",
+      "zh": "变化报告",
+      "pos": "名词短语",
+      "context": "评估中报告友军或敌军行为变化的活动。",
+      "evidence": "Conduct change reporting. Commanders are especially interested in learning how friendly or enemy behavior has changed",
+      "review_status": "candidate"
+    },
+    {
+      "en": "feedback",
+      "zh": "反馈",
+      "pos": "名词",
+      "context": "评估中向指挥官和其他利益相关者提供进展信息的活动。",
+      "evidence": "Provide feedback. Assessment reports inform the commander and other stakeholders",
+      "review_status": "candidate"
+    },
+    {
+      "en": "end-state",
+      "zh": "最终状态",
+      "pos": "名词",
+      "context": "设计中所期望的最终状态，评估中衡量进展的基准。",
+      "evidence": "incorporate the desired end-state from design",
+      "review_status": "candidate"
+    },
+    {
+      "en": "problem-solving methodology",
+      "zh": "解决问题方法论",
+      "pos": "名词短语",
+      "context": "规划的定义，用于理解情况并制定有效方法。",
+      "evidence": "Planning is a problem-solving methodology to understand a situation",
+      "review_status": "candidate"
+    },
+    {
+      "en": "competition continuum",
+      "zh": "竞争连续体",
+      "pos": "名词短语",
+      "context": "规划整合流程以在竞争连续体中解决问题和决策。",
+      "evidence": "integrates processes for orderly and coordinated problem-solving and decision-making across the competition continuum.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "delegation of authorities",
+      "zh": "权限下放",
+      "pos": "名词短语",
+      "context": "规划中应包括执行行动所需的权限下放。",
+      "evidence": "Planning should incorporate the delegation of authorities necessary to execute operations.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "iterative planning",
+      "zh": "迭代规划",
+      "pos": "名词短语",
+      "context": "在准备和执行期间，迭代规划适应不断变化的条件。",
+      "evidence": "During preparation and execution, iterative planning adapts to address changing conditions in the OE.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "common operational picture",
+      "zh": "共同作战图",
+      "pos": "名词短语",
+      "context": "准备中建立共同作战图以确保从规划到执行的无缝过渡。",
+      "evidence": "Preparing ensures a seamless transition from planning to execution by establishing a common operational picture.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "back-briefs",
+      "zh": "反向简报",
+      "pos": "名词",
+      "context": "准备中用于在执行前处理经验教训的及时反向简报。",
+      "evidence": "timely back-briefs to address lessons learned prior to execution.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "rehearsals",
+      "zh": "演练",
+      "pos": "名词",
+      "context": "准备中包括演练或演习以确保过渡活动被理解。",
+      "evidence": "Effective preparation includes rehearsals or exercises",
+      "review_status": "candidate"
+    },
+    {
+      "en": "inspections",
+      "zh": "检查",
+      "pos": "名词",
+      "context": "准备中用于验证准备状态的检查。",
+      "evidence": "inspections and checks to verify readiness",
+      "review_status": "candidate"
+    },
+    {
+      "en": "deconfliction",
+      "zh": "消除冲突",
+      "pos": "名词",
+      "context": "协调中通过消除冲突最小化误伤风险。",
+      "evidence": "minimizing the risk of fratricide through deconfliction",
+      "review_status": "candidate"
+    },
+    {
+      "en": "fratricide",
+      "zh": "误伤",
+      "pos": "名词",
+      "context": "协调中通过消除冲突最小化的风险。",
+      "evidence": "minimizing the risk of fratricide through deconfliction",
+      "review_status": "candidate"
+    },
+    {
+      "en": "supporting staff",
+      "zh": "支援参谋",
+      "pos": "名词短语",
+      "context": "协调通常用于支援参谋的职能之间。",
+      "evidence": "It is normally used between functions of a supporting staff.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "Intelligence, Surveillance, and Reconnaissance (ISR)",
+      "zh": "情报、监视与侦察",
+      "pos": "名词短语",
+      "context": "协调行动示例中与联合部队组成部分共享的资产。",
+      "evidence": "sharing Intelligence, Surveillance, and Reconnaissance (ISR) assets with joint force components",
+      "review_status": "candidate"
+    },
+    {
+      "en": "airspace management",
+      "zh": "空域管理",
+      "pos": "名词短语",
+      "context": "协调行动示例中与相邻单位同步的空域管理。",
+      "evidence": "synchronizing airspace management with adjacent units",
+      "review_status": "candidate"
+    },
+    {
+      "en": "battle rhythm",
+      "zh": "战斗节奏",
+      "pos": "名词短语",
+      "context": "转换中建立以支持指挥官决策周期的节奏。",
+      "evidence": "a battle rhythm is established to support the commander’s decision cycle.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "long-range planners",
+      "zh": "远程规划人员",
+      "pos": "名词短语",
+      "context": "转换中将计划正式移交给执行者的规划人员。",
+      "evidence": "the long-range planners formally hand off their plan to the operation executors.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "operation executors",
+      "zh": "行动执行者",
+      "pos": "名词短语",
+      "context": "转换中接收计划移交的执行者。",
+      "evidence": "the long-range planners formally hand off their plan to the operation executors.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "initiative",
+      "zh": "主动权",
+      "pos": "名词",
+      "context": "执行中C2侧重于夺取和保持主动权的活动。",
+      "evidence": "C2 in execution focuses on activities and decisions to seize and retain the initiative",
+      "review_status": "candidate"
+    },
+    {
+      "en": "momentum",
+      "zh": "势头",
+      "pos": "名词",
+      "context": "执行中C2侧重于建立和保持势头。",
+      "evidence": "build, and maintain momentum",
+      "review_status": "candidate"
+    },
+    {
+      "en": "combat power",
+      "zh": "战斗力",
+      "pos": "名词短语",
+      "context": "执行中在决定性地点和时间运用战斗力。",
+      "evidence": "They direct action to apply combat power at decisive points and times",
+      "review_status": "candidate"
+    },
+    {
+      "en": "decisive points",
+      "zh": "决定性地点",
+      "pos": "名词短语",
+      "context": "执行中运用战斗力的关键地点。",
+      "evidence": "apply combat power at decisive points and times",
+      "review_status": "candidate"
+    },
+    {
+      "en": "mission generation",
+      "zh": "任务生成",
+      "pos": "名词短语",
+      "context": "生成空中力量所需的行动之一。",
+      "evidence": "ranging from mission generation up through global force management",
+      "review_status": "candidate"
+    },
+    {
+      "en": "alert status",
+      "zh": "警戒状态",
+      "pos": "名词短语",
+      "context": "生成行动示例中建立警戒状态。",
+      "evidence": "establishing alert status, transloading",
+      "review_status": "candidate"
+    },
+    {
+      "en": "transloading",
+      "zh": "转运",
+      "pos": "名词",
+      "context": "生成行动示例中的转运活动。",
+      "evidence": "establishing alert status, transloading",
+      "review_status": "candidate"
+    },
+    {
+      "en": "sorties",
+      "zh": "架次",
+      "pos": "名词",
+      "context": "生成行动示例中生成架次。",
+      "evidence": "generating sorties, and tasking air defense systems.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "air defense systems",
+      "zh": "防空系统",
+      "pos": "名词短语",
+      "context": "生成行动示例中指派防空系统。",
+      "evidence": "generating sorties, and tasking air defense systems.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "empower subordinates",
+      "zh": "授权下属",
+      "pos": "动词短语",
+      "context": "执行中指挥官角色转变为授权下属代表其做出决策。",
+      "evidence": "their role changes during execution to empower subordinates to make decisions on their behalf.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "execution order",
+      "zh": "执行命令",
+      "pos": "名词短语",
+      "context": "指挥官发布以开始执行的命令。",
+      "evidence": "There are many methods that a commander can use to issue an execution order.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "on-scene decisions",
+      "zh": "现场决策",
+      "pos": "名词短语",
+      "context": "授权空军人员在复杂快速展开的行动中做出有效现场决策。",
+      "evidence": "empower Airmen to make effective on-scene decisions during complex, rapidly unfolding operations.",
+      "review_status": "candidate"
+    },
+    {
+      "en": "tactical employment",
+      "zh": "战术运用",
+      "pos": "名词短语",
+      "context": "分散执行中关于战术运用的决策由最接近战斗的人员优化。",
+      "evidence": "decisions regarding tactical employment are optimized when made by those closest to the fight.",
+      "review_status

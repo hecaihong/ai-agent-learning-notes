@@ -1,0 +1,1707 @@
+[
+  {
+    "en": "Planning",
+    "exact_count": 47,
+    "section_count": 4,
+    "signals": [
+      "cross_section",
+      "explicit_definition",
+      "section_heading"
+    ],
+    "feature_score": 8,
+    "evidence": "PLANNING",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 3 - Assessing",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T001"
+  },
+  {
+    "en": "Design",
+    "exact_count": 22,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "explicit_definition",
+      "section_heading"
+    ],
+    "feature_score": 8,
+    "evidence": "…e for the remainder of the C2 process. The planning activity includes design. Design and planning are discussed separately, but they are inextricably linked. Design is part of planning and plannin…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T002"
+  },
+  {
+    "en": "refining",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition",
+      "section_heading"
+    ],
+    "feature_score": 6,
+    "evidence": "…learned prior to execution . Preparing encompasses the coordinating, refining , and transitioning actions necessary to ensure positive communication and successful execution among superior, subordi…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T003"
+  },
+  {
+    "en": "Transitioning",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition",
+      "section_heading"
+    ],
+    "feature_score": 6,
+    "evidence": "…to execution . Preparing encompasses the coordinating, refining , and transitioning actions necessary to ensure positive communication and successful execution among superior, subordinate, and parallel f…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T004"
+  },
+  {
+    "en": "3rd echelon",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "named_level",
+      "quoted_label"
+    ],
+    "feature_score": 6,
+    "evidence": "…e sub-theater or “middle” echelon. Another commonly used term is the “3rd echelon.” Rega rdless of naming convention, the intent is to describe force structure below the CCMD level. Distributed Control…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T005"
+  },
+  {
+    "en": "Assessment",
+    "exact_count": 24,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "explicit_definition"
+    ],
+    "feature_score": 5,
+    "evidence": "Assessment starts when defining tactical tasks and objectives. Assessment is a continual activity where the staff observes the OE…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T006"
+  },
+  {
+    "en": "Preparing",
+    "exact_count": 13,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "PREPARING",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T007"
+  },
+  {
+    "en": "Battle Management",
+    "exact_count": 9,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "…ecution promotes effectiveness and resilience at the tactical level . Battle Management. C2 in execution is battle management —the management of activities within the OE based on the commands, direction, and…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T008"
+  },
+  {
+    "en": "order",
+    "exact_count": 8,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "explicit_definition"
+    ],
+    "feature_score": 5,
+    "evidence": "…transmitting commander’s intent and authorities to the 7440 CW was an order . An order is a communication, written, oral, or by signal, which conveys instructions from a superior to a subordinate…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T009"
+  },
+  {
+    "en": "C2 Nodes",
+    "exact_count": 7,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "…problems. Battle management enables decentralized operations through C2 nodes. C2 Nodes. C2 nodes are element s of a C2 system that represent people, places, or physical objects that execute decent…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T010"
+  },
+  {
+    "en": "Assessing",
+    "exact_count": 6,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "ASSESSING",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T011"
+  },
+  {
+    "en": "CC-DC-DE",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "named_framework"
+    ],
+    "feature_score": 5,
+    "evidence": "…cates the authorities that subordinate commanders need to realize the CC-DC-DE framework . It models how a commander makes decisions and the major C2 activities the commander is conducting . See the…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T012"
+  },
+  {
+    "en": "Decentralized execution",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition",
+      "repeated_phrase"
+    ],
+    "feature_score": 5,
+    "evidence": "…lf. This fundamental shift in C2 during execution is key to achieving decentralized execution under the mission command philosophy. Execution begins upon the direction of the commander. There are many methods that…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T013"
+  },
+  {
+    "en": "DC-DE framework",
+    "exact_count": 3,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "…es the authorities that subordinate commanders need to realize the CC-DC-DE framework . It models how a commander makes decisions and the major C2 activities the commander is conducting . See the figure be…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T014"
+  },
+  {
+    "en": "Force Structure",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase",
+      "section_heading"
+    ],
+    "feature_score": 5,
+    "evidence": "FORCE STRUCTURE",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T015"
+  },
+  {
+    "en": "TAC C2",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition",
+      "repeated_phrase"
+    ],
+    "feature_score": 5,
+    "evidence": "…to other nodes. Tactical C2. Some C2 nodes are known as t actical C2 (TAC C2) . TAC C2 are the elements conducting battle management at a tactical level, even if those tactical actions have theate…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T016"
+  },
+  {
+    "en": "air tasking order (ATO)",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_full_form",
+      "cross_section"
+    ],
+    "feature_score": 5,
+    "evidence": "…ng circumstances. Examples of refining actions include a djusting the air tasking order (ATO) based on changing space or terrestrial weather conditions, refining target lists based on new intelligence, and updati…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T017"
+  },
+  {
+    "en": "c2 process",
+    "exact_count": 26,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "THE COMMAND AND CONTROL PROCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T018"
+  },
+  {
+    "en": "distributed control",
+    "exact_count": 13,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "Distributed Control",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T019"
+  },
+  {
+    "en": "air component commander",
+    "exact_count": 10,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "subordinate commanders relied on centralized C2 from the theater air component commander",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T020"
+  },
+  {
+    "en": "component commander",
+    "exact_count": 10,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "subordinate commanders relied on centralized C2 from the theater air component commander",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T021"
+  },
+  {
+    "en": "commander’s intent",
+    "exact_count": 8,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "…gn activities with the overall strategic plan and provide the initial commander’s intent for the operation or mission",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T022"
+  },
+  {
+    "en": "c2 activities",
+    "exact_count": 6,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "…OCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T023"
+  },
+  {
+    "en": "command and control",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "THE COMMAND AND CONTROL PROCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T024"
+  },
+  {
+    "en": "theater air component commander",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "subordinate commanders relied on centralized C2 from the theater air component commander",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T025"
+  },
+  {
+    "en": "air force",
+    "exact_count": 4,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "and Air Force Tactics",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T026"
+  },
+  {
+    "en": "air operations",
+    "exact_count": 4,
+    "section_count": 3,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "Joint Air Operations",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T027"
+  },
+  {
+    "en": "decision cycle",
+    "exact_count": 4,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "through the decision cycle",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T028"
+  },
+  {
+    "en": "major c2 activities",
+    "exact_count": 4,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "…ROL PROCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T029"
+  },
+  {
+    "en": "cc-dc-de framework",
+    "exact_count": 3,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "…cates the authorities that subordinate commanders need to realize the CC-DC-DE framework",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T030"
+  },
+  {
+    "en": "mission command",
+    "exact_count": 3,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "The C2 Process BACKGROUND The evolution of mission command",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T031"
+  },
+  {
+    "en": "air tasking cycle",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "the air tasking cycle",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T032"
+  },
+  {
+    "en": "air tasking order",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "Examples of refining actions include a djusting the air tasking order",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T033"
+  },
+  {
+    "en": "command and control process",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "THE COMMAND AND CONTROL PROCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T034"
+  },
+  {
+    "en": "control process",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "THE COMMAND AND CONTROL PROCESS The C2 process is the progressive and iterative series of major C2 activities",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T035"
+  },
+  {
+    "en": "mission commanders",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "such as mission commanders",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T036"
+  },
+  {
+    "en": "operational design",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "The operational design framework involves a continual effort to understand the strategic guidance",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T037"
+  },
+  {
+    "en": "since the c2 process",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "since the C2 process is irrespective of the level of warfare",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T038"
+  },
+  {
+    "en": "tasking cycle",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "the air tasking cycle",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T039"
+  },
+  {
+    "en": "tasking order",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "cross_section",
+      "repeated_phrase"
+    ],
+    "feature_score": 4,
+    "evidence": "Examples of refining actions include a djusting the air tasking order",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T040"
+  },
+  {
+    "en": "Coordination",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "explicit_definition"
+    ],
+    "feature_score": 3,
+    "evidence": "…asks, responsibilities, and timelines . • Effective communication and coordination among different units and agencies . • Timely and accurate exchange of information between planners and executors . Coo…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T041"
+  },
+  {
+    "en": "Coordinating",
+    "exact_count": 4,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "…ddress lessons learned prior to execution . Preparing encompasses the coordinating, refining , and transitioning actions necessary to ensure positive communication and successful execution among superio…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T042"
+  },
+  {
+    "en": "planning, preparing, executing, and assessing",
+    "exact_count": 4,
+    "section_count": 1,
+    "signals": [
+      "quoted_label"
+    ],
+    "feature_score": 3,
+    "evidence": "…nd and control. The C2 process consists of four major C2 activities : planning, preparing, executing, and assessing. The C2 process captures many different processes and cycles that occur within the air component ( e.g.",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T043"
+  },
+  {
+    "en": "generation",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "…onizing operations based on the changes enacted by subordinate units. generation. The first execution activity is usually generation. Generating includes posturing forces aligned with the plan and cap…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T044"
+  },
+  {
+    "en": "Composite Wing (CW)",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…ration with an associated operational area. In this case, the 7440 th Composite Wing (CW) commander was directed to open a second front in the Gulf War and accomplish several clearly defined tasks. The mechan…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T045"
+  },
+  {
+    "en": "Fundamental Principles",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "…hment. • Identify opportunities to accelerate mission accomplishment. Fundamental Principles. The assessment activity consists of the following fundamental principles : • Identify information and intelligence req…",
+    "locations": [
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T046"
+  },
+  {
+    "en": "operational C2",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "quoted_label"
+    ],
+    "feature_score": 3,
+    "evidence": "…operational level of warfare . T herefore, it may be referred to as “operational C2” among Airmen. However, this doctrine avoids the label “operational C2” since the C2 process is irrespective of the lev…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T047"
+  },
+  {
+    "en": "air expeditionary task force (AETF)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…rough the CC-DC-DE framework. The most relevant USAF structure is the air expeditionary task force (AETF). When established, AETFs may fill the role of a Service component command or as a subordinate Service command, ge",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T048"
+  },
+  {
+    "en": "air task force (ATF)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…onent commander may choose to exercise Distributed Control through an air task force (ATF) or combat wing. As units of action advance their C2 capabilities with empowered commanders, operations centers, and ro…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T049"
+  },
+  {
+    "en": "Airborne Warning and Control System (AWACS)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…theater air control system (TACS) such as mission commanders (MC s), Airborne Warning and Control System (AWACS ), forward air controllers (FAC s), and battle control centers (BCC s). Nodes may span several levels of Ba",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T050"
+  },
+  {
+    "en": "airspace control plan (ACP)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…ns, refining target lists based on new intelligence, and updating the airspace control plan (ACP) to accommodate additional aircraft. Transitioning . Transitioning is a process that includes the final activities befo…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T051"
+  },
+  {
+    "en": "and Air Force Tactics Techniques and Procedures (AFTTP)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…0,Planning ,JP 5-0, Joint Planning ,JP > 3-30 ,Joint Air Operations , and Air Force Tactics ,Techniques , and Procedures (AFTTP )3-3.AOC ,Combat > Fundamentals Air Operations Center . History of the C2 Process The C2 pr",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T052"
+  },
+  {
+    "en": "and the Air Force Planning Process (AFPP)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…planning process (JPP) , the joint planning process for air (JPPA) , and the Air Force Planning Process (AFPP) . Design. Design is the conception and construction of the framework that underpins planning. The operationa",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T053"
+  },
+  {
+    "en": "Applying The Command And Control Process",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "APPLYING THE COMMAND AND CONTROL PROCESS",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T054"
+  },
+  {
+    "en": "Assessment Considerations",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "…ns and communicate progress toward desired objectives and end-states. Assessment Considerations. Assessment is a continuous process that measures the overall effectiveness of employing capabilities during military o…",
+    "locations": [
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T055"
+  },
+  {
+    "en": "Assigning Operations And Authorities",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "ASSIGNING OPERATIONS AND AUTHORITIES",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T056"
+  },
+  {
+    "en": "C2 in the Conduct of Operations",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "…oing iterative refinement as new information is fed into the process. C2 in the Conduct of Operations . In the air component, t he C2 process typically occurs at the operational level of warfare . T herefore, it may be ",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T057"
+  },
+  {
+    "en": "design, plan, execute, and assess",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "quoted_label"
+    ],
+    "feature_score": 3,
+    "evidence": "…of AFDP 3-0, Operations and Planning . Additionally, the sequence of “design, plan, execute, and assess” has been established in USAF doctrine since the 1998 version of Air Force Doctrine Document 2, Organization and Em",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T058"
+  },
+  {
+    "en": "Distributed Control Examples",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "quoted_label"
+    ],
+    "feature_score": 3,
+    "evidence": "…r component can continue effective air operations. See the following “Distributed Control Examples” for a depiction of how an AETF may conduct the C2 process at an echelon below the theater air component level. > 10 Fo…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T059"
+  },
+  {
+    "en": "Global Air Mobility Support System (GAMSS)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…ement us es a variety of C2 systems. For air mobility operations, the Global Air Mobility Support System (GAMSS) is the C2 system that enable s air mobility operations . During execution, GAMSS C2 nodes perform battle m",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T060"
+  },
+  {
+    "en": "Intelligence Surveillance and Reconnaissance (ISR)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…xecut e operations . Examples of coordinating actions include sharing Intelligence, Surveillance, and Reconnaissance (ISR) assets with joint force components ; coordinating with tanker and airlift units for refueling an",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T061"
+  },
+  {
+    "en": "joint planning process (JPP)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…anning methodologies that are applicable to Airmen. These include the joint planning process (JPP) , the joint planning process for air (JPPA) , and the Air Force Planning Process (AFPP) . Design. Design is the concep…",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T062"
+  },
+  {
+    "en": "joint planning process for air (JPPA)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…cable to Airmen. These include the joint planning process (JPP) , the joint planning process for air (JPPA) , and the Air Force Planning Process (AFPP) . Design. Design is the conception and construction of the framewor",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T063"
+  },
+  {
+    "en": "Joint Task Force (JTF)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…the C2 process for their assigned forces. The following example from Joint Task Force (JTF) Proven Force highlights how a combat wing or ATF may operate with Distributed Control. During the Gulf War of 1990-199…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T064"
+  },
+  {
+    "en": "Joint Task Force Proven Force",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "JOINT TASK FORCE PROVEN FORCE:",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T065"
+  },
+  {
+    "en": "Major Command And Control Activities",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "MAJOR COMMAND AND CONTROL ACTIVITIES",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T066"
+  },
+  {
+    "en": "measures of effectiveness",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "contrast_pair"
+    ],
+    "feature_score": 3,
+    "evidence": "…gs right (measures of performance) ? • Are we doing the right things (measures of effectiveness) ? • Are we measuring the right things? The first question addresses the performance of planned air operations by asses…",
+    "locations": [
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T067"
+  },
+  {
+    "en": "measures of performance",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "contrast_pair"
+    ],
+    "feature_score": 3,
+    "evidence": "…th the answers to these basic questions: • Are we doing things right (measures of performance) ? • Are we doing the right things (measures of effectiveness) ? • Are we measuring the right things? The first questio…",
+    "locations": [
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T068"
+  },
+  {
+    "en": "Tactical C2",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "section_heading"
+    ],
+    "feature_score": 3,
+    "evidence": "…es in decision-making and execution, and relationship to other nodes. Tactical C2. Some C2 nodes are known as t actical C2 (TAC C2) . TAC C2 are the elements conducting battle management at a tactical…",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T069"
+  },
+  {
+    "en": "The Common Operations Framework",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "quoted_label"
+    ],
+    "feature_score": 3,
+    "evidence": "…rocess The C2 process is not a new concept. It was previously titled “The Common Operations Framework” in the 2016 version of AFDP 3-0, Operations and Planning . Additionally, the sequence of “design, plan, execute, and",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T070"
+  },
+  {
+    "en": "theater air control system (TACS)",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_full_form"
+    ],
+    "feature_score": 3,
+    "evidence": "…d operations. Common examples of C2 nodes include the elements in the theater air control system (TACS) such as mission commanders (MC s), Airborne Warning and Control System (AWACS ), forward air controllers (FAC s), a",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T071"
+  },
+  {
+    "en": "c2 in execution",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase"
+    ],
+    "feature_score": 2,
+    "evidence": "C2 in execution focuses on activities and decisions to seize and retain the initiative",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T072"
+  },
+  {
+    "en": "proven force",
+    "exact_count": 4,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase"
+    ],
+    "feature_score": 2,
+    "evidence": "…ol Example 2 of 3 Distributed Control Example 3 of 3 JOINT TASK FORCE PROVEN FORCE",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T073"
+  },
+  {
+    "en": "task force",
+    "exact_count": 4,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase"
+    ],
+    "feature_score": 2,
+    "evidence": "The most relevant USAF structure is the air expeditionary task force",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T074"
+  },
+  {
+    "en": "planning process",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase"
+    ],
+    "feature_score": 2,
+    "evidence": "These include the joint planning process",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T075"
+  },
+  {
+    "en": "subordinate commander",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "repeated_phrase"
+    ],
+    "feature_score": 2,
+    "evidence": "APPLYING THE COMMAND AND CONTROL PROCESS Assigning an operation to a subordinate commander and establishing an appropriate force structure are requisites for conducting the C2 process within the CC-DC-DE framew…",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T076"
+  },
+  {
+    "en": "C2",
+    "exact_count": 67,
+    "section_count": 3,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "CHAPTER 2: THE COMMAND AND CONTROL PROCESS The C2 process is the progressive and iterative series of major C2 activities, led by a commander, which c",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T077"
+  },
+  {
+    "en": "CC",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "authorities that subordinate commanders need to realize the CC - DC -DE framework . It models how a commander makes decisions and the major C2 activities the comm",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T078"
+  },
+  {
+    "en": "DC",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "rities that subordinate commanders need to realize the CC - DC -DE framework . It models how a commander makes decisions and the major C2 activities the commander",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T079"
+  },
+  {
+    "en": "DE",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "es that subordinate commanders need to realize the CC - DC -DE framework . It models how a commander makes decisions and the major C2 activities the commander is ",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T080"
+  },
+  {
+    "en": "AFDP",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " > 7For additional information on planning and design, s ee AFDP 5 -0,Planning ,JP 5 -0, Joint Planning ,JP > 3-30 ,Joint Air Operations , and Air Force Tactics ,Te",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T081"
+  },
+  {
+    "en": "JP",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "nformation on planning and design, s ee AFDP 5 -0,Planning ,JP 5 -0, Joint Planning ,JP > 3-30 ,Joint Air Operations , and Air Force Tactics ,Techniques , and Pro",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T082"
+  },
+  {
+    "en": "AFTTP",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "tions , and Air Force Tactics ,Techniques , and Procedures (AFTTP )3-3.AOC ,Combat > Fundamentals Air Operations Center . History of the C2 Process The C2 process is",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T083"
+  },
+  {
+    "en": "AOC",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " Air Force Tactics ,Techniques , and Procedures (AFTTP )3-3.AOC ,Combat > Fundamentals Air Operations Center . History of the C2 Process The C2 process is not a ne",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T084"
+  },
+  {
+    "en": "USAF",
+    "exact_count": 5,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "“design, plan, execute, and assess” has been established in USAF doctrine since the 1998 version of Air Force Doctrine Document 2, Organization and Employment of Ae",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T085"
+  },
+  {
+    "en": "US",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "essing” is currently described as the operations process in US Army doctrine (Army Doctrine Pub lication [ ADP ] 5- 0, The Operations Process ). changing conditio",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T086"
+  },
+  {
+    "en": "ADP",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "s process in US Army doctrine (Army Doctrine Pub lication [ ADP ] 5- 0, The Operations Process ). changing conditions in the OE . Planning is the process through w",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T087"
+  },
+  {
+    "en": "OE",
+    "exact_count": 11,
+    "section_count": 3,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " 5- 0, The Operations Process ). changing conditions in the OE . Planning is the process through which Airmen tailor the tenets of Airpower to the OE and provide ",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning",
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T088"
+  },
+  {
+    "en": "JPP",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "icable to Airmen. These include the joint planning process (JPP) , the joint planning process for air (JPPA) , and the Air Force Planning Process (AFPP) . Design. ",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T089"
+  },
+  {
+    "en": "JPPA",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "lanning process (JPP) , the joint planning process for air (JPPA) , and the Air Force Planning Process (AFPP) . Design. Design is the conception and construction of",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T090"
+  },
+  {
+    "en": "AFPP",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "rocess for air (JPPA) , and the Air Force Planning Process (AFPP) . Design. Design is the conception and construction of the framework that underpins planning. The ",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T091"
+  },
+  {
+    "en": "USMC",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "ctives [emphasis in original] .” –General James N. Matti s, USMC (Ret) 26 th Secretary of Defense",
+    "locations": [
+      "Chapter 2 Part 1 - Overview and Planning"
+    ],
+    "candidate_id": "T092"
+  },
+  {
+    "en": "DIRLAUTH",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "unctions of a supporting staff. Direct liaison authorized ( DIRLAUTH ) is used to coordinate with an organization outside of the immediate staff or organization, or bet",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T093"
+  },
+  {
+    "en": "JFC",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "onent of a joint force develops its own plan as part of the JFC’s overall effort, these plans are most successful if they are coordinated among the Service compone",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T094"
+  },
+  {
+    "en": "ISR",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "ude sharing Intelligence, Surveillance, and Reconnaissance (ISR) assets with joint force components ; coordinating with tanker and airlift units for refueling and ",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T095"
+  },
+  {
+    "en": "ATO",
+    "exact_count": 2,
+    "section_count": 2,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " refining actions include a djusting the air tasking order (ATO) based on changing space or terrestrial weather conditions, refining target lists based on new inte",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution",
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T096"
+  },
+  {
+    "en": "ACP",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "n new intelligence, and updating the airspace control plan (ACP) to accommodate additional aircraft. Transitioning . Transitioning is a process that includes the f",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T097"
+  },
+  {
+    "en": "TPFDD",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " force deployments, time -phased force and deployment data [TPFDD ] management, establishing alert status, transloading). Examples of generating actions include p os",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T098"
+  },
+  {
+    "en": "MTO",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " air component commander and subordinate echelons may use a MTO technique to clearly communicate commander’s intent and empower Airmen to make effective on -scene ",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T099"
+  },
+  {
+    "en": "TACS",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "des include the elements in the theater air control system (TACS) such as mission commanders (MC s), Airborne Warning and Control System (AWACS ), forward air contr",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T100"
+  },
+  {
+    "en": "MC",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "eater air control system (TACS) such as mission commanders (MC s), Airborne Warning and Control System (AWACS ), forward air controllers (FAC s), and battle contr",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T101"
+  },
+  {
+    "en": "AWACS",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "ion commanders (MC s), Airborne Warning and Control System (AWACS ), forward air controllers (FAC s), and battle control centers (BCC s). Nodes may span several leve",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T102"
+  },
+  {
+    "en": "FAC",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "rning and Control System (AWACS ), forward air controllers (FAC s), and battle control centers (BCC s). Nodes may span several levels of Battle Management Example:",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T103"
+  },
+  {
+    "en": "BCC",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "orward air controllers (FAC s), and battle control centers (BCC s). Nodes may span several levels of Battle Management Example: Global Air Mobility Adjustment Batt",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T104"
+  },
+  {
+    "en": "GAMSS",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "obility operations, the Global Air Mobility Support System (GAMSS) is the C2 system that enable s air mobility operations . During execution, GAMSS C2 nodes perform ",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T105"
+  },
+  {
+    "en": "TAC",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "odes. Tactical C2. Some C2 nodes are known as t actical C2 (TAC C2) . TAC C2 are the elements conducting battle management at a tactical level, even if those tacti",
+    "locations": [
+      "Chapter 2 Part 2 - Preparing and Execution"
+    ],
+    "candidate_id": "T106"
+  },
+  {
+    "en": "HHQ",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "purpose is to maintain alignment with higher headquarters ( HHQ ) priorities, scheme s of maneuver, and operational objectives. Integrating assessment into plannin",
+    "locations": [
+      "Chapter 2 Part 3 - Assessing"
+    ],
+    "candidate_id": "T107"
+  },
+  {
+    "en": "CW",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "operational area. In this case, the 7440 th Composite Wing (CW) commander was directed to open a second front in the Gulf War and accomplish several clearly defin",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T108"
+  },
+  {
+    "en": "AETF",
+    "exact_count": 6,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "elevant USAF structure is the air expeditionary task force (AETF). When established, AETFs may fill the role of a Service component command or as a subordinate Serv",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T109"
+  },
+  {
+    "en": "CCMD",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "nd or as a subordinate Service command, generally below the CCMD -level. AETFs are scalable, > 9For additional information on orders, see AFDP 5 -0, Planning . tail",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T110"
+  },
+  {
+    "en": "OPCON",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "lized command through their specified command relationship (OPCON established by the CCDR), and the AETF operates with Distributed Control as a sub -theater echelon.",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T111"
+  },
+  {
+    "en": "CCDR",
+    "exact_count": 1,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "ir specified command relationship (OPCON established by the CCDR), and the AETF operates with Distributed Control as a sub -theater echelon. Subsequently, the tacti",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T112"
+  },
+  {
+    "en": "ATF",
+    "exact_count": 2,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": " to exercise Distributed Control through an air task force (ATF) or combat wing. As units of action advance their C2 capabilities with empowered commanders, operat",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T113"
+  },
+  {
+    "en": "JTF",
+    "exact_count": 3,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "signed forces. The following example from Joint Task Force (JTF) Proven Force highlights how a combat wing or ATF may operate with Distributed Control. During the ",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T114"
+  },
+  {
+    "en": "CENTAF",
+    "exact_count": 5,
+    "section_count": 1,
+    "signals": [
+      "acronym_mention"
+    ],
+    "feature_score": 3,
+    "evidence": "ike packages without assistance from US Air Forces Central (CENTAF). CENTAF provided the wing a n order to open a second Iraqi front whenever possible. The order incl",
+    "locations": [
+      "Chapter 2 Part 4 - Applying the C2 Process"
+    ],
+    "candidate_id": "T115"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "agent": "Glossary",
+    "stage": "extraction",
+    "unit_id": null,
+    "note": "基于频次、章节分布、结构信号和原文依据筛选术语；不设置数量上限",
+    "directory": "agents/001_glossary_extraction",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-26T15:20:57.231849+00:00",
+    "status": "failed",
+    "manual_review": "pending",
+    "review_questions": [
+      "候选特征是否足以支持收录？",
+      "Agent 是否排除了普通词和候选噪声？",
+      "译法是否符合本章语境？",
+      "是否遗漏低频但关键的概念或缩写？"
+    ],
+    "response_id": "e65496f3-840c-42e8-94a8-edbb7716ef0b",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 6580,
+      "prompt_tokens": 11729,
+      "total_tokens": 18309,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 11729
+    },
+    "finish_reason": "stop",
+    "error_type": "ValueError",
+    "error_message": "每个术语选择都必须有非空 inclusion_signals 列表。",
+    "latency_seconds": 23.877
+  }
+]

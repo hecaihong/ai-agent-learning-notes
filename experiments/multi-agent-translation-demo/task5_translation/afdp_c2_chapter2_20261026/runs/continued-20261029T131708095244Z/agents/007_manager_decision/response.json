@@ -1,0 +1,38 @@
+{
+  "id": "7cf71b65-c895-4c6b-be31-4c36a2764c70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"revise\":[\"Chapter 2 Part 1 - Overview and Planning\",\"Chapter 2 Part 2 - Preparing and Execution\",\"Chapter 2 Part 3 - Assessing\",\"Chapter 2 Part 4 - Applying the C2 Process\"],\"repair_glossary\":true,\"reason\":\"四个块均存在已确认缺陷：Chapter 2 Part 1 有英文残留（commander）及 operational level of warfare 等误译；Chapter 2 Part 2 有 functions/refueling/directing 误译、618 AOC 编号不统一及漏译；Chapter 2 Part 3 有 measures of performance 术语问题及 address 误译；Chapter 2 Part 4 有 Gulf War 与书名英文残留、combat arm 等误译。术语类问题涉及 measures of performance（绩效度量）、Composite Wing（混合联队）与 Force Presentation（力量提供），需返修术语库，故 repair_glossary=true。\"}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793279830,
+  "model": "deepseek-flash",
+  "object": "chat.completion",
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": "bc19ba97cbe016479903222bb1578db6",
+  "usage": {
+    "completion_tokens": 206,
+    "prompt_tokens": 1969,
+    "total_tokens": 2175,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1969
+  }
+}

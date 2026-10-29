@@ -1,0 +1,19 @@
+{
+  "checked_utc": "2026-10-29T16:10:46.375367+00:00",
+  "secret_findings": [],
+  "private_path_findings": [],
+  "broken_local_links": [],
+  "tests": {
+    "passed": 60,
+    "model_calls": 0,
+    "tokenizer_cache": "preexisting local cache; no credentials supplied"
+  },
+  "smoke_checks": [
+    "run_afdp_quality.py without --run",
+    "run_afdp_chapter2.py without --run",
+    "run_translation.py without --run",
+    "build_quality_comparison.py on copied artifacts"
+  ],
+  "screenshot": "Existing redacted screenshot visually inspected; no new image edits.",
+  "status_limit": "Tests establish program behavior. Latest Translation semantic improvement remains unmeasured."
+}

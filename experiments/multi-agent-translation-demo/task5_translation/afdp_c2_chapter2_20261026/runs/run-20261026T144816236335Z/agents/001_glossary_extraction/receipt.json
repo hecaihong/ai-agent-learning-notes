@@ -1,0 +1,33 @@
+{
+  "agent": "Glossary",
+  "stage": "extraction",
+  "unit_id": null,
+  "note": "抽取术语表",
+  "directory": "agents/001_glossary_extraction",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-26T14:48:16.786465+00:00",
+  "status": "format_valid_semantics_unreviewed",
+  "manual_review": "pending",
+  "review_questions": [
+    "术语是否确实出现在本章？",
+    "译法是否符合此处语境？",
+    "是否遗漏关键概念或缩写？"
+  ],
+  "response_id": "5ae9453b-fdca-45b3-8053-333306aeea94",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 580,
+    "prompt_tokens": 6093,
+    "total_tokens": 6673,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 6093
+  },
+  "finish_reason": "stop",
+  "latency_seconds": 4.701
+}

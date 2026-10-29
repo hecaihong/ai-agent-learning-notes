@@ -1,0 +1,38 @@
+{
+  "agent": "Glossary",
+  "stage": "extraction",
+  "unit_id": null,
+  "note": "基于频次、章节分布、结构信号和原文依据筛选术语；不设置数量上限",
+  "directory": "agents/001_glossary_extraction",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-29T13:17:08.716845+00:00",
+  "status": "format_valid_semantics_unreviewed",
+  "manual_review": "pending",
+  "review_questions": [
+    "候选特征是否足以支持收录？",
+    "Agent 是否排除了普通词和候选噪声？",
+    "译法是否符合本章语境？",
+    "是否遗漏低频但关键的概念或缩写？"
+  ],
+  "response_id": "fb9d9321-0d0b-426f-9daa-c07d732584b8",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 6770,
+    "prompt_tokens": 21356,
+    "total_tokens": 28126,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 21356
+  },
+  "finish_reason": "stop",
+  "latency_seconds": 0.026,
+  "reused_response": true,
+  "original_run": "quality-20261029T130949984518Z",
+  "original_directory": "agents/001_glossary_extraction",
+  "original_receipt_sha256": "8247d68254ed519dda6e773f26ef36cc1ba97e5e66656a343fe05f9b9b014185"
+}

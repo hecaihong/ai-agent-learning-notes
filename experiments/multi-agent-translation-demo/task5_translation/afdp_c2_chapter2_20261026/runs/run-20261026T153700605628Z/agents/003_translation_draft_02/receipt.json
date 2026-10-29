@@ -1,0 +1,33 @@
+{
+  "agent": "Translation",
+  "stage": "draft",
+  "unit_id": "02",
+  "note": "翻译 Chapter 2 Part 2 - Preparing and Execution",
+  "directory": "agents/003_translation_draft_02",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-26T15:37:29.675417+00:00",
+  "status": "format_valid_semantics_unreviewed",
+  "manual_review": "pending",
+  "review_questions": [
+    "是否漏译、增译或改变原文含义？",
+    "数字、否定和条件是否保留？",
+    "术语是否统一，中文是否自然？"
+  ],
+  "response_id": "68090edd-a21c-402a-87be-e149b45e438a",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 1530,
+    "prompt_tokens": 3173,
+    "total_tokens": 4703,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 1024
+    },
+    "prompt_cache_hit_tokens": 1024,
+    "prompt_cache_miss_tokens": 2149
+  },
+  "finish_reason": "stop",
+  "latency_seconds": 10.221
+}

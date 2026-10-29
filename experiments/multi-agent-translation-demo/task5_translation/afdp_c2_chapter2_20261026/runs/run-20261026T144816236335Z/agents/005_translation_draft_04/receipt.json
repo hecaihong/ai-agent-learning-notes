@@ -1,0 +1,33 @@
+{
+  "agent": "Translation",
+  "stage": "draft",
+  "unit_id": "04",
+  "note": "翻译 Chapter 2 Part 4 - Applying the C2 Process",
+  "directory": "agents/005_translation_draft_04",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-26T14:48:46.867801+00:00",
+  "status": "format_valid_semantics_unreviewed",
+  "manual_review": "pending",
+  "review_questions": [
+    "是否漏译、增译或改变原文含义？",
+    "数字、否定和条件是否保留？",
+    "术语是否统一，中文是否自然？"
+  ],
+  "response_id": "750b09ab-d749-44d0-ad49-fb2b24c02af5",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 1388,
+    "prompt_tokens": 1842,
+    "total_tokens": 3230,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1842
+  },
+  "finish_reason": "stop",
+  "latency_seconds": 9.626
+}

@@ -108,3 +108,10 @@ AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-bo
 - `experiments/context` 与根目录 `agentbook` 是课程源码及运行依赖模块的副本；自定义变更与验证边界见该目录 README。上游许可保留在 `licenses`。
 - 实验 1-1 的汇率工具使用固定测试汇率，用于上下文实验。
 - Obsidian 原笔记保留；本发布副本对已有进度描述作了核对，未完成事项明确标为待完成。
+
+
+## Final 开源项目：多 Agent 翻译与质量评估
+
+2026-10-30：[完整项目源码、架构与运行说明](experiments/multi-agent-translation-demo/README.md) · [下载项目 ZIP](releases/multi-agent-translation-demo-20261030.zip)。
+
+包含改造代码、6 轮脱敏历史记录、逐 Agent 输出、32 项准确性抽查和中文表达评估。发布包 60 项本地测试通过；最新 Translation 专项改造尚未真实复测，译文尚未通过语义验收。密钥配置与个人路径不随项目发布。

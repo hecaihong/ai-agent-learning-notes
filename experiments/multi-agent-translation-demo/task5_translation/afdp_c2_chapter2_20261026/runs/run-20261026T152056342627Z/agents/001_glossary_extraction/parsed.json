@@ -1,0 +1,924 @@
+{
+  "glossary": [
+    {
+      "candidate_id": "T001",
+      "zh": "计划",
+      "category": "process",
+      "definition": "C2过程中构想、制定和协调行动方案的持续活动，包含设计。",
+      "inclusion_signals": [
+        "cross_section",
+        "explicit_definition",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T002",
+      "zh": "设计",
+      "category": "process",
+      "definition": "构建支撑计划的框架的构想与构建活动，是计划的一部分。",
+      "inclusion_signals": [
+        "cross_section",
+        "explicit_definition",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T003",
+      "zh": "精炼",
+      "category": "activity",
+      "definition": "准备阶段中根据新信息调整计划、命令和任务清单的行动。",
+      "inclusion_signals": [
+        "explicit_definition",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T004",
+      "zh": "转换",
+      "category": "activity",
+      "definition": "准备阶段中执行前最后的活动，确保从计划向执行过渡。",
+      "inclusion_signals": [
+        "explicit_definition",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T005",
+      "zh": "第三梯队",
+      "category": "organization",
+      "definition": "描述战区以下部队结构的常用称谓，与“中层”梯队同义。",
+      "inclusion_signals": [
+        "named_level",
+        "quoted_label"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T006",
+      "zh": "评估",
+      "category": "process",
+      "definition": "持续观察作战环境、衡量进展并判断目标实现程度的C2活动。",
+      "inclusion_signals": [
+        "cross_section",
+        "explicit_definition"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T007",
+      "zh": "准备",
+      "category": "process",
+      "definition": "C2过程中协调、精炼和转换等行动的总称，确保上下级及平行部队间有效沟通与执行。",
+      "inclusion_signals": [
+        "cross_section",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T008",
+      "zh": "战斗管理",
+      "category": "doctrine_concept",
+      "definition": "执行中的C2，即根据指挥官的指挥、指示和意图对作战环境内活动进行的管理。",
+      "inclusion_signals": [
+        "repeated_phrase",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T009",
+      "zh": "命令",
+      "category": "doctrine_concept",
+      "definition": "上级向下级传达指令的书面、口头或信号通信。",
+      "inclusion_signals": [
+        "cross_section",
+        "explicit_definition"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T010",
+      "zh": "C2节点",
+      "category": "doctrine_concept",
+      "definition": "C2系统中代表执行分散控制的人员、地点或物理对象的要素。",
+      "inclusion_signals": [
+        "repeated_phrase",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T011",
+      "zh": "评估",
+      "category": "process",
+      "definition": "C2过程中衡量整体效能并判断目标进展的持续活动。",
+      "inclusion_signals": [
+        "cross_section",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T012",
+      "zh": "CC-DC-DE框架",
+      "category": "doctrine_concept",
+      "definition": "集中指挥、分散控制、分散执行框架，描述指挥官决策方式及主要C2活动。",
+      "inclusion_signals": [
+        "cross_section",
+        "named_framework"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T013",
+      "zh": "分散执行",
+      "category": "doctrine_concept",
+      "definition": "任务式指挥理念下执行阶段的关键原则，赋予下级自主行动权。",
+      "inclusion_signals": [
+        "explicit_definition",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T014",
+      "zh": "DC-DE框架",
+      "category": "doctrine_concept",
+      "definition": "分散控制与分散执行框架，是CC-DC-DE框架的组成部分。",
+      "inclusion_signals": [
+        "cross_section",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T015",
+      "zh": "部队结构",
+      "category": "organization",
+      "definition": "为执行C2过程而建立的部队编成与层级安排。",
+      "inclusion_signals": [
+        "repeated_phrase",
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T016",
+      "zh": "战术C2",
+      "category": "doctrine_concept",
+      "definition": "在战术层级执行战斗管理的C2要素，即使其行动具有战区影响。",
+      "inclusion_signals": [
+        "explicit_definition",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T017",
+      "zh": "空中任务命令（ATO）",
+      "category": "acronym",
+      "definition": "规定空中任务分配与执行的正式命令，精炼行动中可调整。",
+      "inclusion_signals": [
+        "acronym_full_form",
+        "cross_section"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T018",
+      "zh": "C2过程",
+      "category": "process",
+      "definition": "由计划、准备、执行和评估等主要C2活动组成的渐进迭代序列。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T019",
+      "zh": "空中组成部分",
+      "category": "organization",
+      "definition": "联合部队中负责空中作战的组成部分。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T020",
+      "zh": "分散控制",
+      "category": "doctrine_concept",
+      "definition": "将控制权限下放至下级指挥官的C2方式，是CC-DC-DE框架的中间环节。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T021",
+      "zh": "空中组成部分指挥官",
+      "category": "authority",
+      "definition": "负责指挥空中组成部分的指挥官。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T022",
+      "zh": "组成部分指挥官",
+      "category": "authority",
+      "definition": "联合部队中各组成部分（如空中、地面、海上）的指挥官。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T023",
+      "zh": "指挥官意图",
+      "category": "doctrine_concept",
+      "definition": "指挥官对作战目的和预期状态的明确表述，用于指导下级行动。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T024",
+      "zh": "战区空中",
+      "category": "other",
+      "definition": "与战区空中组成部分相关的限定词，常构成“战区空中组成部分”等术语。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T025",
+      "zh": "战区空中组成部分",
+      "category": "organization",
+      "definition": "战区级联合部队中的空中组成部分。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T026",
+      "zh": "C2活动",
+      "category": "activity",
+      "definition": "构成C2过程的主要活动，包括计划、准备、执行和评估。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T027",
+      "zh": "指挥与控制",
+      "category": "doctrine_concept",
+      "definition": "指挥官行使职权、指导下级行动并确保任务完成的职能。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T028",
+      "zh": "战区空中组成部分指挥官",
+      "category": "authority",
+      "definition": "指挥战区空中组成部分的指挥官。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T029",
+      "zh": "空军",
+      "category": "organization",
+      "definition": "军种名称，在本章中常指美国空军。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T030",
+      "zh": "空中作战",
+      "category": "activity",
+      "definition": "在空中领域实施的军事作战行动。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T031",
+      "zh": "空中任务分配",
+      "category": "process",
+      "definition": "分配空中任务的过程，常构成“空中任务分配周期”。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T032",
+      "zh": "决策周期",
+      "category": "process",
+      "definition": "指挥官进行决策的循环过程。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T033",
+      "zh": "主要C2",
+      "category": "other",
+      "definition": "修饰C2活动的限定词，指构成C2过程的主要活动。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T034",
+      "zh": "主要C2活动",
+      "category": "activity",
+      "definition": "C2过程中的四项主要活动：计划、准备、执行和评估。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T035",
+      "zh": "战区以下",
+      "category": "other",
+      "definition": "指位于战区层级以下的部队或指挥官。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T036",
+      "zh": "CC-DC-DE框架",
+      "category": "doctrine_concept",
+      "definition": "集中指挥、分散控制、分散执行框架，描述指挥官决策方式及主要C2活动。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T037",
+      "zh": "任务式指挥",
+      "category": "doctrine_concept",
+      "definition": "通过赋予下级自主权以发挥其主动性、实现分散执行的指挥理念。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T038",
+      "zh": "空中任务分配周期",
+      "category": "process",
+      "definition": "空中作战中分配任务的周期性流程。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T039",
+      "zh": "空中任务命令",
+      "category": "doctrine_concept",
+      "definition": "规定空中任务分配与执行的正式命令。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T040",
+      "zh": "战区空中以下",
+      "category": "other",
+      "definition": "指位于战区空中组成部分层级以下的部队或指挥官。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T041",
+      "zh": "指挥与控制过程",
+      "category": "process",
+      "definition": "即C2过程，由计划、准备、执行和评估等主要活动组成。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T042",
+      "zh": "控制过程",
+      "category": "process",
+      "definition": "指挥与控制过程中与控制职能相关的部分。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T043",
+      "zh": "任务指挥官",
+      "category": "authority",
+      "definition": "负责特定任务指挥的指挥官，常见于战术C2节点。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T044",
+      "zh": "作战设计",
+      "category": "process",
+      "definition": "理解战略指导并构建作战框架的持续努力。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T045",
+      "zh": "过程应",
+      "category": "other",
+      "definition": "非术语，仅为句子片段，不收录。",
+      "inclusion_signals": [],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T046",
+      "zh": "由于C2",
+      "category": "other",
+      "definition": "非术语，仅为句子片段，不收录。",
+      "inclusion_signals": [],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T047",
+      "zh": "由于C2过程",
+      "category": "other",
+      "definition": "非术语，仅为句子片段，不收录。",
+      "inclusion_signals": [],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T048",
+      "zh": "任务分配周期",
+      "category": "process",
+      "definition": "分配任务的周期性流程，常指空中任务分配周期。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T049",
+      "zh": "任务命令",
+      "category": "doctrine_concept",
+      "definition": "规定任务分配的正式命令，常指空中任务命令。",
+      "inclusion_signals": [
+        "cross_section",
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T050",
+      "zh": "协调",
+      "category": "activity",
+      "definition": "在不同单位与机构之间调整行动以确保一致性的活动。",
+      "inclusion_signals": [
+        "explicit_definition"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T051",
+      "zh": "协调",
+      "category": "activity",
+      "definition": "准备阶段中协调各方行动的具体活动。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T052",
+      "zh": "计划、准备、执行与评估",
+      "category": "process",
+      "definition": "C2过程的四项主要活动序列。",
+      "inclusion_signals": [
+        "quoted_label"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T053",
+      "zh": "生成",
+      "category": "activity",
+      "definition": "执行阶段的首项活动，包括按计划部署部队并建立能力。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T054",
+      "zh": "混合联队（CW）",
+      "category": "organization",
+      "definition": "由多种机型编成的联队，可承担作战任务。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T055",
+      "zh": "基本原则",
+      "category": "doctrine_concept",
+      "definition": "评估活动所遵循的基本指导原则。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T056",
+      "zh": "作战C2",
+      "category": "doctrine_concept",
+      "definition": "空军人员中对作战层级C2的称谓，但条令避免使用该标签。",
+      "inclusion_signals": [
+        "quoted_label"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T057",
+      "zh": "空中远征特遣部队（AETF）",
+      "category": "organization",
+      "definition": "美国空军最相关的部队结构，可充当军种组成部分司令部或下级军种司令部。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T058",
+      "zh": "空中特遣部队（ATF）",
+      "category": "organization",
+      "definition": "空中组成部分指挥官可借此实施分散控制的编组形式。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T059",
+      "zh": "机载预警与控制系统（AWACS）",
+      "category": "acronym",
+      "definition": "提供空中预警与指挥控制的机载系统，是战术C2节点之一。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T060",
+      "zh": "空域控制计划（ACP）",
+      "category": "doctrine_concept",
+      "definition": "规定空域使用与控制的计划，精炼行动中可更新。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T061",
+      "zh": "空军战术、技术与程序（AFTTP）",
+      "category": "acronym",
+      "definition": "空军战术、技术与程序出版物系列。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T062",
+      "zh": "空军计划流程（AFPP）",
+      "category": "process",
+      "definition": "美国空军使用的计划流程。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T063",
+      "zh": "应用指挥与控制过程",
+      "category": "other",
+      "definition": "章节标题，指应用C2过程的内容。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T064",
+      "zh": "评估考虑事项",
+      "category": "doctrine_concept",
+      "definition": "评估过程中需考虑的因素与原则。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T065",
+      "zh": "分配作战与权限",
+      "category": "process",
+      "definition": "向下级指挥官分配作战任务与相应权限的过程。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T066",
+      "zh": "作战实施中的C2",
+      "category": "doctrine_concept",
+      "definition": "在作战实施过程中运用C2过程的概念。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T067",
+      "zh": "设计、计划、执行与评估",
+      "category": "process",
+      "definition": "美国空军条令中确立的作战活动序列。",
+      "inclusion_signals": [
+        "quoted_label"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T068",
+      "zh": "分散控制示例",
+      "category": "other",
+      "definition": "展示AETF如何在战区空中组成部分以下层级实施C2过程的示例。",
+      "inclusion_signals": [
+        "quoted_label"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T069",
+      "zh": "全球空中机动支援系统（GAMSS）",
+      "category": "acronym",
+      "definition": "支持空中机动作战的C2系统。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T070",
+      "zh": "情报、监视与侦察（ISR）",
+      "category": "acronym",
+      "definition": "情报、监视与侦察资产与活动。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T071",
+      "zh": "联合计划流程（JPP）",
+      "category": "process",
+      "definition": "联合部队使用的计划流程。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T072",
+      "zh": "空中联合计划流程（JPPA）",
+      "category": "process",
+      "definition": "针对空中作战的联合计划流程。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T073",
+      "zh": "联合特遣部队（JTF）",
+      "category": "organization",
+      "definition": "由两个以上军种组成的联合任务编组。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T074",
+      "zh": "联合特遣部队“普罗文力量”",
+      "category": "organization",
+      "definition": "历史案例中的联合特遣部队名称。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T075",
+      "zh": "主要指挥与控制活动",
+      "category": "activity",
+      "definition": "构成C2过程的主要活动，即计划、准备、执行和评估。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T076",
+      "zh": "效能指标",
+      "category": "doctrine_concept",
+      "definition": "衡量是否“做正确的事”的评估指标，与性能指标相对。",
+      "inclusion_signals": [
+        "contrast_pair"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T077",
+      "zh": "性能指标",
+      "category": "doctrine_concept",
+      "definition": "衡量是否“把事做正确”的评估指标，与效能指标相对。",
+      "inclusion_signals": [
+        "contrast_pair"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T078",
+      "zh": "战术C2",
+      "category": "doctrine_concept",
+      "definition": "在战术层级执行战斗管理的C2要素。",
+      "inclusion_signals": [
+        "section_heading"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T079",
+      "zh": "通用作战框架",
+      "category": "doctrine_concept",
+      "definition": "C2过程在2016年版AFDP 3-0中的旧称。",
+      "inclusion_signals": [
+        "quoted_label"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T080",
+      "zh": "战区空中控制系统（TACS）",
+      "category": "acronym",
+      "definition": "战区空中控制系统的C2节点体系，包括任务指挥官、AWACS、前方空中控制员等。",
+      "inclusion_signals": [
+        "acronym_full_form"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T081",
+      "zh": "执行中的C2",
+      "category": "doctrine_concept",
+      "definition": "执行阶段中聚焦夺取和保持主动权的C2活动与决策。",
+      "inclusion_signals": [
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T082",
+      "zh": "空中机动",
+      "category": "activity",
+      "definition": "通过空运和空中加油实施的机动行动。",
+      "inclusion_signals": [
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T083",
+      "zh": "普罗文力量",
+      "category": "organization",
+      "definition": "历史案例中联合特遣部队的名称。",
+      "inclusion_signals": [
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T084",
+      "zh": "特遣部队",
+      "category": "organization",
+      "definition": "为特定任务临时编组的部队。",
+      "inclusion_signals": [
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T085",
+      "zh": "联合计划",
+      "category": "process",
+      "definition": "联合部队实施的计划活动。",
+      "inclusion_signals": [
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T086",
+      "zh": "计划流程",
+      "category": "process",
+      "definition": "制定计划的流程，常指联合计划流程等。",
+      "inclusion_signals": [
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T087",
+      "zh": "为其所属部队的过程",
+      "category": "other",
+      "definition": "非术语，仅为句子片段，不收录。",
+      "inclusion_signals": [],
+      "review_status": "candidate"
+    },
+    {
+      "candidate_id": "T088",
+      "zh": "下级指挥官",
+      "category": "authority",
+      "definition": "受上级指挥官指挥的下属指挥官。",
+      "inclusion_signals": [
+        "repeated_phrase"
+      ],
+      "review_status": "candidate"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "agent": "Translation",
+  "stage": "draft",
+  "unit_id": "01",
+  "note": "Chapter 2 Part 1 - Overview and Planning",
+  "directory": "agents/002_translation_draft_01",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-29T13:10:17.647618+00:00",
+  "status": "format_valid_semantics_unreviewed",
+  "manual_review": "pending",
+  "review_questions": [
+    "是否漏译、增译或改变原文含义？",
+    "数字、否定和条件是否保留？",
+    "术语是否统一，中文是否自然？"
+  ],
+  "response_id": "727f552d-9c93-4b74-9202-31f1f48db9c9",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 1158,
+    "prompt_tokens": 14460,
+    "total_tokens": 15618,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 14460
+  },
+  "finish_reason": "stop",
+  "latency_seconds": 8.79
+}

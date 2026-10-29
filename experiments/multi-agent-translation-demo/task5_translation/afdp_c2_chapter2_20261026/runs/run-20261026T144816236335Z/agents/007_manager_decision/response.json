@@ -1,0 +1,38 @@
+{
+  "id": "cc080e6a-8265-42e1-aaaa-b4f5f9a66d49",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"revise\": [\"Chapter 2 Part 1 - Overview and Planning\", \"Chapter 2 Part 2 - Preparing and Execution\", \"Chapter 2 Part 3 - Assessing\", \"Chapter 2 Part 4 - Applying the C2 Process\"], \"reason\": \"审校报告将全部四章列为需修订，且每章均有实质问题：Part 1 存在未译英文、CC-DC-DE 未展开及 planning 译名摇摆；Part 2 存在计划/规划混用、ATO 与任务指令混用、C2 节点混用及“生成”译法生硬；Part 3 有未译“accompanying”、MOP/MOE 混用及评估三问重复矛盾；Part 4 有 CC-DC-DE 未展开、AETF/ATF 区分、作战控制与指挥权限混用、单位名称不一致及任务式指挥混用。四章均需修订。\"}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1793026144,
+  "model": "deepseek-flash",
+  "object": "chat.completion",
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+  "usage": {
+    "completion_tokens": 205,
+    "prompt_tokens": 1653,
+    "total_tokens": 1858,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 1653
+  }
+}

@@ -1,0 +1,294 @@
+[
+  {
+    "agent": "Glossary",
+    "stage": "extraction",
+    "unit_id": null,
+    "note": "基于频次、章节分布、结构信号和原文依据筛选术语；不设置数量上限",
+    "directory": "agents/001_glossary_extraction",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:17:08.716845+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "候选特征是否足以支持收录？",
+      "Agent 是否排除了普通词和候选噪声？",
+      "译法是否符合本章语境？",
+      "是否遗漏低频但关键的概念或缩写？"
+    ],
+    "response_id": "fb9d9321-0d0b-426f-9daa-c07d732584b8",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 6770,
+      "prompt_tokens": 21356,
+      "total_tokens": 28126,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 21356
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 0.026,
+    "reused_response": true,
+    "original_run": "quality-20261029T130949984518Z",
+    "original_directory": "agents/001_glossary_extraction",
+    "original_receipt_sha256": "8247d68254ed519dda6e773f26ef36cc1ba97e5e66656a343fe05f9b9b014185"
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "01",
+    "note": "Chapter 2 Part 1 - Overview and Planning",
+    "directory": "agents/002_translation_draft_01",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:17:08.746648+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "727f552d-9c93-4b74-9202-31f1f48db9c9",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1158,
+      "prompt_tokens": 14460,
+      "total_tokens": 15618,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 14460
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 0.016,
+    "reused_response": true,
+    "original_run": "quality-20261029T130949984518Z",
+    "original_directory": "agents/002_translation_draft_01",
+    "original_receipt_sha256": "7219d44fd6ab8fb65900f63baff1bba9f9aec62d0cc12867075dd55301e1c8ac"
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "02",
+    "note": "Chapter 2 Part 2 - Preparing and Execution",
+    "directory": "agents/003_translation_draft_02",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:17:08.766211+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "d7720cb2-6dc3-48d3-9218-f4923fded5bb",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1506,
+      "prompt_tokens": 14915,
+      "total_tokens": 16421,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 12800
+      },
+      "prompt_cache_hit_tokens": 12800,
+      "prompt_cache_miss_tokens": 2115
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 0.021,
+    "reused_response": true,
+    "original_run": "quality-20261029T130949984518Z",
+    "original_directory": "agents/003_translation_draft_02",
+    "original_receipt_sha256": "5edd8d716ddf35e8a38b184a670606dc40ac9d0fd995702bc85570e0ee4dc30d"
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "03",
+    "note": "Chapter 2 Part 3 - Assessing",
+    "directory": "agents/004_translation_draft_03",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:17:08.789625+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "63e72900-c5a7-4d3a-9a8d-9af7369d99c6",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 782,
+      "prompt_tokens": 13961,
+      "total_tokens": 14743,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 12800
+      },
+      "prompt_cache_hit_tokens": 12800,
+      "prompt_cache_miss_tokens": 1161
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 0.018,
+    "reused_response": true,
+    "original_run": "quality-20261029T130949984518Z",
+    "original_directory": "agents/004_translation_draft_03",
+    "original_receipt_sha256": "1c726f41805c648733d04553de244161fd6c59d8d875463e07b2c3f812947831"
+  },
+  {
+    "agent": "Translation",
+    "stage": "draft",
+    "unit_id": "04",
+    "note": "Chapter 2 Part 4 - Applying the C2 Process",
+    "directory": "agents/005_translation_draft_04",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:17:08.810626+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否漏译、增译或改变原文含义？",
+      "数字、否定和条件是否保留？",
+      "术语是否统一，中文是否自然？"
+    ],
+    "response_id": "c536396e-397a-4499-9d59-1d1261b2bb2b",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 1326,
+      "prompt_tokens": 14578,
+      "total_tokens": 15904,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 12800
+      },
+      "prompt_cache_hit_tokens": 12800,
+      "prompt_cache_miss_tokens": 1778
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 0.016,
+    "reused_response": true,
+    "original_run": "quality-20261029T130949984518Z",
+    "original_directory": "agents/005_translation_draft_04",
+    "original_receipt_sha256": "f3ca730576201cd8f7ea70ce97fb3622c7ea817f830281ae3370af83f0683ad1"
+  },
+  {
+    "agent": "Proofreading",
+    "stage": "initial_review",
+    "unit_id": null,
+    "note": "英中对照审校，核查旧问题与新增问题",
+    "directory": "agents/006_proofreading_initial_review",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:17:08.829201+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "是否逐项对照英文和当前译文？",
+      "确认缺陷是否有有效的双语引文？",
+      "旧问题是否修复，是否出现新增错误？"
+    ],
+    "response_id": "dac8c707-1cdb-45ec-972b-942cea70a185",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 2734,
+      "prompt_tokens": 24353,
+      "total_tokens": 27087,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 24353
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 0.022,
+    "reused_response": true,
+    "original_run": "quality-20261029T130949984518Z",
+    "original_directory": "agents/006_proofreading_initial_review",
+    "original_receipt_sha256": "6931fbe19b50607028da3412933be03f1a598e0e1ba9dc28305bf180e2d5c6a7"
+  },
+  {
+    "agent": "Manager",
+    "stage": "decision",
+    "unit_id": null,
+    "note": "",
+    "directory": "agents/007_manager_decision",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:17:08.853738+00:00",
+    "status": "format_valid_semantics_unreviewed",
+    "manual_review": "pending",
+    "review_questions": [
+      "修订对象是否对应审校意见？",
+      "修订理由是否有报告依据？",
+      "是否忽略问题或要求无依据的重译？"
+    ],
+    "response_id": "7cf71b65-c895-4c6b-be31-4c36a2764c70",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 206,
+      "prompt_tokens": 1969,
+      "total_tokens": 2175,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 1969
+    },
+    "finish_reason": "stop",
+    "latency_seconds": 3.153
+  },
+  {
+    "agent": "Glossary",
+    "stage": "refinement",
+    "unit_id": null,
+    "note": "基于频次、章节分布、结构信号和原文依据筛选术语；不设置数量上限",
+    "directory": "agents/008_glossary_refinement",
+    "requested_model": "deepseek-flash",
+    "started_utc": "2026-10-29T13:17:12.011009+00:00",
+    "status": "failed",
+    "manual_review": "pending",
+    "review_questions": [
+      "候选特征是否足以支持收录？",
+      "Agent 是否排除了普通词和候选噪声？",
+      "译法是否符合本章语境？",
+      "是否遗漏低频但关键的概念或缩写？"
+    ],
+    "response_id": "e2e5da60-b630-423a-8cbb-107929a24c1b",
+    "response_model": "deepseek-flash",
+    "usage": {
+      "completion_tokens": 7111,
+      "prompt_tokens": 24330,
+      "total_tokens": 31441,
+      "completion_tokens_details": null,
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cache_write_tokens": null,
+        "cached_tokens": 21248
+      },
+      "prompt_cache_hit_tokens": 21248,
+      "prompt_cache_miss_tokens": 3082
+    },
+    "finish_reason": "stop",
+    "error_type": "ValueError",
+    "error_message": "Glossary Agent 排除了候选表之外的编号：T116",
+    "latency_seconds": 28.089
+  }
+]

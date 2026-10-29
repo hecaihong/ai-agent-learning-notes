@@ -1,0 +1,53 @@
+{
+  "kind": "mechanical_signals_only",
+  "semantic_quality": "pending_human_review",
+  "units": [
+    {
+      "unit_id": "01",
+      "title": "Chapter 2 Part 1 - Overview and Planning",
+      "source_characters": 7034,
+      "translation_characters": 2164,
+      "source_numbers_not_found_literally": [
+        "7"
+      ],
+      "glossary_targets_not_found_literally": [],
+      "changed_after_revision": true,
+      "interpretation": "数字写法或译法变体也会触发线索，须对照原文判读，不能直接视为错误。"
+    },
+    {
+      "unit_id": "02",
+      "title": "Chapter 2 Part 2 - Preparing and Execution",
+      "source_characters": 9869,
+      "translation_characters": 2813,
+      "source_numbers_not_found_literally": [
+        "17,000",
+        "47,000"
+      ],
+      "glossary_targets_not_found_literally": [],
+      "changed_after_revision": true,
+      "interpretation": "数字写法或译法变体也会触发线索，须对照原文判读，不能直接视为错误。"
+    },
+    {
+      "unit_id": "03",
+      "title": "Chapter 2 Part 3 - Assessing",
+      "source_characters": 5322,
+      "translation_characters": 1465,
+      "source_numbers_not_found_literally": [],
+      "glossary_targets_not_found_literally": [],
+      "changed_after_revision": true,
+      "interpretation": "数字写法或译法变体也会触发线索，须对照原文判读，不能直接视为错误。"
+    },
+    {
+      "unit_id": "04",
+      "title": "Chapter 2 Part 4 - Applying the C2 Process",
+      "source_characters": 7402,
+      "translation_characters": 2378,
+      "source_numbers_not_found_literally": [
+        "10"
+      ],
+      "glossary_targets_not_found_literally": [],
+      "changed_after_revision": true,
+      "interpretation": "数字写法或译法变体也会触发线索，须对照原文判读，不能直接视为错误。"
+    }
+  ]
+}

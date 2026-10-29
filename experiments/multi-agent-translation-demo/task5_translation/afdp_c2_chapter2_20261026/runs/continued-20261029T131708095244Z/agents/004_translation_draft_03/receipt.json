@@ -1,0 +1,37 @@
+{
+  "agent": "Translation",
+  "stage": "draft",
+  "unit_id": "03",
+  "note": "Chapter 2 Part 3 - Assessing",
+  "directory": "agents/004_translation_draft_03",
+  "requested_model": "deepseek-flash",
+  "started_utc": "2026-10-29T13:17:08.789625+00:00",
+  "status": "format_valid_semantics_unreviewed",
+  "manual_review": "pending",
+  "review_questions": [
+    "是否漏译、增译或改变原文含义？",
+    "数字、否定和条件是否保留？",
+    "术语是否统一，中文是否自然？"
+  ],
+  "response_id": "63e72900-c5a7-4d3a-9a8d-9af7369d99c6",
+  "response_model": "deepseek-flash",
+  "usage": {
+    "completion_tokens": 782,
+    "prompt_tokens": 13961,
+    "total_tokens": 14743,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 12800
+    },
+    "prompt_cache_hit_tokens": 12800,
+    "prompt_cache_miss_tokens": 1161
+  },
+  "finish_reason": "stop",
+  "latency_seconds": 0.018,
+  "reused_response": true,
+  "original_run": "quality-20261029T130949984518Z",
+  "original_directory": "agents/004_translation_draft_03",
+  "original_receipt_sha256": "1c726f41805c648733d04553de244161fd6c59d8d875463e07b2c3f812947831"
+}
