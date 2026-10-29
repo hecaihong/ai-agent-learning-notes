@@ -13,6 +13,11 @@
   ],
   "files": [
     {
+      "file": ".gitattributes",
+      "publication_sha256": "f2b9a338832aeb6a79bc497527e61a4938957f47c48c13808625d8daf0a22bb9",
+      "bytes": 89
+    },
+    {
       "file": ".gitignore",
       "publication_sha256": "36ae9fb2a2ac3bbdc3eb34edb4a51596dad9a1d2c5d7784215c8c5811b51e3c1",
       "bytes": 626
@@ -176,7 +181,7 @@
     },
     {
       "file": "PUBLICATION_CHECKS.json",
-      "publication_sha256": "8c6d778159dec4b60d060996068ef62825c716822cb9583fbb287d3bcf070a0e",
+      "publication_sha256": "dd2854e5a2d15be363fb3228fd7de52f5c6a870fd800c7b10d7893b96a3f4921",
       "bytes": 696
     },
     {

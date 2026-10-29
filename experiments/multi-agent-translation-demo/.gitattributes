@@ -1,0 +1,2 @@
+# Preserve the bytes used by dataset and publication SHA-256 checks on every OS.
+* -text
