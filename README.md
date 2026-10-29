@@ -2,11 +2,15 @@
 
 AI Agent 学习笔记与真实实验记录。教材来源：[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)。
 
-本仓库是 Obsidian 中本课程笔记的发布副本，更新至 2026 年 10 月 26 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
+本仓库是 Obsidian 中本课程笔记的发布副本，更新至 2026 年 10 月 29 日。图片与内部链接已转换为 GitHub 可以阅读的 Markdown 格式。
 
 ## 笔记入口
 
 按章节阅读：[学习总目录](<notes/00-学习目录.md>)。
+
+Final 精简草稿：[19 天 AI Agent 共学总结](<notes/99-Final-19天AI-Agent共学总结.md>)。改进版真实质量复测待完成，暂不作为最终交付结论。
+
+实践复盘：[逐 Agent 翻译质量评估](<notes/10-第十章-多Agent翻译实验-质量评估.md>)，包含历史运行数据复算、12 个位置的修订前后对照及待补的正式评测指标；完整语义验收尚未完成。
 
 | 章节 | 理论笔记 | 实验记录 |
 | --- | --- | --- |

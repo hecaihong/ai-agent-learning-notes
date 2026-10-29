@@ -1,0 +1,186 @@
+{
+  "audit_date": "2026-10-29",
+  "source_run": "run-20261026T153700605628Z",
+  "method": "retrospective_local_artifact_inspection",
+  "new_experiment_api_calls": 0,
+  "semantic_review_status": "assistant_assisted_diagnostic_not_expert_acceptance",
+  "scope": "Mechanical metrics are recounted from saved artifacts. No full gold-standard annotation, random sampling, independent expert acceptance or single-agent baseline is supplied.",
+  "workflow_status": "completed",
+  "quality_status": "pending_human_review",
+  "model": "deepseek-flash",
+  "counts": {
+    "calls": 11,
+    "normal_stops": 11,
+    "existing_core_artifacts": 44,
+    "expected_core_artifacts": 44,
+    "term_candidates": 88,
+    "accepted": 81,
+    "excluded": 7,
+    "unique_decisions": 88,
+    "inclusion_signals_present": 81,
+    "exclusion_reasons_present": 7,
+    "proofreading_issues": 36,
+    "report_flagged_units": 4,
+    "manager_selected_units": 4,
+    "selected_units_executed": 4,
+    "glossary_calls_after_manager": 0,
+    "proofreading_calls_after_revision": 0
+  },
+  "usage_totals": {
+    "prompt_tokens": 44292,
+    "completion_tokens": 18628,
+    "total_tokens": 62920,
+    "summed_call_latency_seconds": 98.599,
+    "currency_cost": null
+  },
+  "issue_counts_by_unit": [
+    {
+      "unit": "Chapter 2 Part 1 - Overview and Planning",
+      "count": 6
+    },
+    {
+      "unit": "Chapter 2 Part 2 - Preparing and Execution",
+      "count": 10
+    },
+    {
+      "unit": "Chapter 2 Part 3 - Assessing",
+      "count": 4
+    },
+    {
+      "unit": "Chapter 2 Part 4 - Applying the C2 Process",
+      "count": 16
+    }
+  ],
+  "calls": [
+    {
+      "agent": "Glossary",
+      "stage": "extraction",
+      "unit_id": null,
+      "directory": "agents/001_glossary_extraction",
+      "finish_reason": "stop",
+      "prompt_tokens": 11803,
+      "completion_tokens": 6031,
+      "total_tokens": 17834,
+      "latency_seconds": 21.321
+    },
+    {
+      "agent": "Translation",
+      "stage": "draft",
+      "unit_id": "01",
+      "directory": "agents/002_translation_draft_01",
+      "finish_reason": "stop",
+      "prompt_tokens": 2719,
+      "completion_tokens": 1167,
+      "total_tokens": 3886,
+      "latency_seconds": 7.178
+    },
+    {
+      "agent": "Translation",
+      "stage": "draft",
+      "unit_id": "02",
+      "directory": "agents/003_translation_draft_02",
+      "finish_reason": "stop",
+      "prompt_tokens": 3173,
+      "completion_tokens": 1530,
+      "total_tokens": 4703,
+      "latency_seconds": 10.221
+    },
+    {
+      "agent": "Translation",
+      "stage": "draft",
+      "unit_id": "03",
+      "directory": "agents/004_translation_draft_03",
+      "finish_reason": "stop",
+      "prompt_tokens": 2217,
+      "completion_tokens": 797,
+      "total_tokens": 3014,
+      "latency_seconds": 5.404
+    },
+    {
+      "agent": "Translation",
+      "stage": "draft",
+      "unit_id": "04",
+      "directory": "agents/005_translation_draft_04",
+      "finish_reason": "stop",
+      "prompt_tokens": 2839,
+      "completion_tokens": 1284,
+      "total_tokens": 4123,
+      "latency_seconds": 8.51
+    },
+    {
+      "agent": "Proofreading",
+      "stage": "initial_review",
+      "unit_id": null,
+      "directory": "agents/006_proofreading_initial_review",
+      "finish_reason": "stop",
+      "prompt_tokens": 5846,
+      "completion_tokens": 2833,
+      "total_tokens": 8679,
+      "latency_seconds": 12.812
+    },
+    {
+      "agent": "Manager",
+      "stage": "decision",
+      "unit_id": null,
+      "directory": "agents/007_manager_decision",
+      "finish_reason": "stop",
+      "prompt_tokens": 3067,
+      "completion_tokens": 213,
+      "total_tokens": 3280,
+      "latency_seconds": 2.001
+    },
+    {
+      "agent": "Translation",
+      "stage": "revision",
+      "unit_id": "01",
+      "directory": "agents/008_translation_revision_01",
+      "finish_reason": "stop",
+      "prompt_tokens": 3072,
+      "completion_tokens": 1178,
+      "total_tokens": 4250,
+      "latency_seconds": 7.487
+    },
+    {
+      "agent": "Translation",
+      "stage": "revision",
+      "unit_id": "02",
+      "directory": "agents/009_translation_revision_02",
+      "finish_reason": "stop",
+      "prompt_tokens": 3686,
+      "completion_tokens": 1515,
+      "total_tokens": 5201,
+      "latency_seconds": 9.725
+    },
+    {
+      "agent": "Translation",
+      "stage": "revision",
+      "unit_id": "03",
+      "directory": "agents/010_translation_revision_03",
+      "finish_reason": "stop",
+      "prompt_tokens": 2399,
+      "completion_tokens": 786,
+      "total_tokens": 3185,
+      "latency_seconds": 5.564
+    },
+    {
+      "agent": "Translation",
+      "stage": "revision",
+      "unit_id": "04",
+      "directory": "agents/011_translation_revision_04",
+      "finish_reason": "stop",
+      "prompt_tokens": 3471,
+      "completion_tokens": 1294,
+      "total_tokens": 4765,
+      "latency_seconds": 8.376
+    }
+  ],
+  "original_artifact_sha256": {
+    "run_manifest.json": "08658abed9ecccee67e0ea1658267fad45088c7729ab75ceecca9495db4e2329",
+    "agent_calls.json": "ffc49088ccda1045872658544a733c772221adc9c9220d23ac0e33a9530ed436",
+    "glossary.json": "55448d212544f6418a05e4658835be7dcd466941ece4a62272fc8f2b76b44fc2",
+    "proofreading_report.json": "f2759f0074a279946b21ce465fef0a459755be34635774d61d6692581f5b963a",
+    "manager_decision.json": "f712e55da6aedf13d052e5ddd9d186e776b39a2db2ddd3109642da2ccdb16cec"
+  },
+  "provenance_notice": "This is a derived audit snapshot, not a model response or a new experiment run. Hashes identify original local artifacts and do not constitute an independent authenticity guarantee."
+}
+
